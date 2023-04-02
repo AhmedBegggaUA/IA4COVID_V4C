@@ -1,5 +1,4 @@
-# IA4COVID: Predicting the COVID19 pandemic
-curve with vaccination
+# IA4COVID: Predicting the COVID19 pandemic curve with vaccination
 
 ## Introduction
 In this paper, we present a deep learning-based approach to
