@@ -1,4 +1,5 @@
-# IA4COVID: Predicting the COVID19 pandemic curve with vaccination
+# IA4COVID: Predicting the COVID19 pandemic
+curve with vaccination
 
 ## Introduction
 In this paper, we present a deep learning-based approach to
@@ -25,6 +26,10 @@ To run the examples, you will need:
 and run Python programs.
 * An installed version of Python, version ≥ 3.6. To avoid dependency issues, we strongly recommend using a standard Python [virtual environment](https://docs.python.org/3/tutorial/venv.html) with `pip` for package management. The examples in this repo assume you are using such an environment.
 
+Having registered for the contest, you should also have:
+* A copy of the Competition Guidelines
+* Access to the Support Slack channel
+* A pre-initialized sandbox within the XPRIZE system
 
 ## Examples
 Under the `covid_xprize/examples` directory you will find some examples of predictors and prescriptors that you can 

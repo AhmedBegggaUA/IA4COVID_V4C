@@ -31,7 +31,8 @@ ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 #Ruta donde se encuentran los datos
 DATA_PATH = os.path.join(ROOT_DIR, 'data')
 #Donde se encuentran los csv con los datos necesarios
-DATA_FILE_PATH = os.path.join(DATA_PATH, 'OxCGRT_latest.csv')
+DATA_FILE_PATH = os.path.join(DATA_PATH, 'OxCGRT_latest_waning.csv')
+#DATA_FILE_PATH = os.path.join(DATA_PATH, 'OxCGRT_latest.csv')
 DATA_FILE_CV_PATH = os.path.join(DATA_PATH, 'OxfordComunitatValenciana.csv')
 ADDITIONAL_CONTEXT_FILE = os.path.join(DATA_PATH, "Additional_Context_Data_Global.csv")
 ADDITIONAL_US_STATES_CONTEXT = os.path.join(DATA_PATH, "US_states_populations.csv")
@@ -379,13 +380,15 @@ class ValenciaPredictor(object):
                 #print(pop_size,SUS_REINFECTION)
                 #[NEW] 10/02/2023
                 #denom = (population*(1-0.7*prop_immunized[i]) - casos_acumulados[i-1] 0.7* rec[i]) * zn[i-1]  # En xprize utilizan casos_acumulados[i]
-                # Ahora controlamos el ratio de reinfección y en función de la preset aplicamos un porcentaje de reinfección o no
-                if (self.model_preset == ModelPreset.VAC_SUS):
+                # Controlamos si es un modelo SIR O SVIR
+                if self.model_preset == ModelPreset.VAC_NONE or self.model_preset == ModelPreset.VAC_H7:
                     ##[NEW] 15/02/2023
                     pred_cases = int(((((pred_rn * ((pop_size*(1-0.7*past_prop_immunized[-1]) - zn[-1] - 0.7* rec[-1]) / pop_size)) - 1.0) * WINDOW_SIZE * zn[-1])) + past_cases[-7])
                   
                     #pred_cases = int(((((pred_rn * ((pop_size - zn[-1] + 0.3*past_prop_immunized[-1] + 0.1*rec[-1] ) / pop_size)) - 1.0) * 7.0 * zn[-1])) + past_cases[-7])
                 else:
+                    # TODO
+                    # controlaremos la vacuna que se inyecta
                     ##[NEW] 15/02/2023
                     #pred_cases = int(((((pred_rn * ((pop_size*(1-0.7*past_prop_immunized[-1]) - zn[-1] - 0.7* rec[-1]) / pop_size)) - 1.0) * WINDOW_SIZE * zn[-1])) + past_cases[-7])
                     # [NEW] 1/03/2023
@@ -397,16 +400,11 @@ class ValenciaPredictor(object):
                     #print('Vacunados hasta ese vacunados_diez_dias', vacunados_diez_dias)
                     # Agrupamos por pais y sacamos el máximo
                     vacunados_treinta_y_cinco = df_g[(df_g.Date >= (current_date - np.timedelta64(60, 'D'))) & (df_g.Date <= (current_date - np.timedelta64(14, 'D')))].TreintaCincoPorCiento.sum()
-                    
                     vacunados_cien_por_ciento = df_g[df_g.Date == current_date - np.timedelta64(61, 'D')].SesentaYCincoPorCiento.sum()
-                    pred_cases = int(((((pred_rn * ((pop_size - zn[-1] - vacunados_hasta_ese_dia + vacunados_diez_dias/14 + vacunados_treinta_y_cinco/46 + vacunados_cien_por_ciento) / pop_size)) - 1.0) * WINDOW_SIZE * zn[-1])) + past_cases[-7])
+                    pred_cases_pzfier = int(((((pred_rn * ((pop_size - zn[-1] - vacunados_hasta_ese_dia + vacunados_diez_dias/14 + vacunados_treinta_y_cinco/46 + vacunados_cien_por_ciento) / pop_size)) - 1.0) * WINDOW_SIZE * zn[-1])) + past_cases[-7])
+                    pred_cases_pzfier *= 0.8 
                     #print(past_prop_immunized[-1])
                 
-                #Cambio acumulacion 19/01/23
-                #pred_cases = int(((((pred_rn * ((pop_size - past_cum_cases[-1] + SUS_REINFECTION) / pop_size) * (1 - past_prop_immunized[-1])) - 1.0) * 7.0 * zn[-1])) + past_cases[-7])#cambiar el past_prop_immunized[-1] con el sum
-                
-                #pred_cases = int(((((pred_rn * ((pop_size - past_cum_cases[-1]) / pop_size)) - 1.0) * 7.0 * zn[-1])) + past_cases[-7])
-
                 pred = max(0, pred_cases)  # Do not allow predicting negative cases
                 # Add if it's a requested date
                 if current_date >= start_date:
@@ -547,7 +545,6 @@ class ValenciaPredictor(object):
 
         # Fill in missing values
         self._fill_missing_values(df)
-
         # Compute number of new cases and deaths each day
         df['NewCases'] = df.groupby('GeoID').ConfirmedCases.diff().fillna(0)
         df['NewDeaths'] = df.groupby('GeoID').ConfirmedDeaths.diff().fillna(0)
@@ -572,7 +569,11 @@ class ValenciaPredictor(object):
         # - Pimera columna: Número de vacunas administradas cada día sobre la población
         # - Segunda columna: 10% de la población vacunada ese día
         # - Tercera columna: 35% de la población vacunada ese día
-        
+        # TODO: Hay que definir nuevas columnas?? ProportionImmunized será el mismo??? SI.
+        # PartialImmunizedPeople y FullyImmunizedPeople 
+        # Para cada vacuna, tendremos su respectivo porcentaje de inmaculación
+        # FullyImmunizedPeople: 
+        # PartialImmunizedPeople: 
         vacunados_diarios = list(round(df['ProportionImmunized'] * df['Population'], 0)) # Número de población * % de vacunación diaria (%)  
         #Sobre esta lista, sacamos el diff para ver cuantas vacunas se han administrado cada día
         vacunados_diarios = list(pd.Series(vacunados_diarios).diff().fillna(0))
@@ -608,8 +609,13 @@ class ValenciaPredictor(object):
         #[NEW]
        # """
         # Add column for proportion of population infected
+        # Alberto NONE
+        # df['ProportionInfected'] = (df['ConfirmedCases'] - df['waning_confirmed_cases_acumulado']) / df['Population']
+        # Vamos a leer los correspondientes csv de vacunación
         df['ProportionInfected'] = df['ConfirmedCases'] / df['Population']
-
+        # Alberto H7
+        # df['ProportionInfected'] = (df['ConfirmedCases'] - df['waning_confirmed_cases_acumulado'] + df['vacunados_acumualdos'] - df[waning_vacunados_acumualdos']]) / df['Population']
+        
         # Create column of value to predict
         df['PredictionRatio'] = df['CaseRatio'] / (1 - df['ProportionInfected'])
         df['PredictionRatioVac'] = df['PredictionRatio'] / (1 - df['ProportionImmunized'])
@@ -694,7 +700,7 @@ class ValenciaPredictor(object):
     def _load_vaccination_data_df():
         # File containing the population for each country
         # Note: this file contains only countries population, not regions
-        #TODO cambiar el nombre de la variable
+        #TODO Hay que cambiar toda la estructura de datos si se quiere usar otro dataset
         vaccination_df = pd.read_csv("https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/vaccinations.csv?raw=true",
                         parse_dates=['date'],
                         usecols=['location', 'date', 'people_vaccinated_per_hundred', 'people_fully_vaccinated_per_hundred'])
@@ -915,7 +921,7 @@ class ValenciaPredictor(object):
                 #print("Countries with vaccination data:", countries_with_vaccination_data)
                 self.df = self.df[self.df.GeoID.isin(countries_with_vaccination_data)]
             geos = self._most_affected_geos(self.df, MAX_NB_COUNTRIES, NB_LOOKBACK_DAYS)
-        print("Columnas del entrenamiento:", self.df.columns)
+        #print("Columnas del entrenamiento:", self.df.columns)
         country_samples = self._create_country_samples(self.df, geos, start_date_str, end_date_str)
         print("Training for geos:", geos)
         print("Numpy arrays created from", start_date_str, "to", end_date_str)
@@ -1543,6 +1549,7 @@ def compute_rns(self,model_preset,casos_acumulados, zn, population, current_date
                     #print("denominador",denom)
                     #denom = (population - casos_acumulados[i-1] + prop_immunized[i]*(- PARTIAL_VAC_IMMUNIZATION_PROB) + rec[i]*(1-FULLY_VAC_IMMUNIZATION_PROB)) * zn[i-1]  # En xprize utilizan casos_acumulados[i]
                 else:
+                    # TODO: Aqui hay que hacerlo tambien??
                     ##[NEW] 15/02/2023
                     #denom = (population*(1-0.7*prop_immunized[i]) - casos_acumulados[i-1] -0.7* rec[i]) * zn[i-1]  # En xprize utilizan casos_acumulados[i]
                     ##[NEW] 07/03/2023 # Vamos a cambiar el denominador para incluir bien los susceptibles

@@ -1,0 +1,1826 @@
+date,location,vaccine,total_vaccinations
+2021-01-01,Argentina,Sputnik V,3310
+2021-01-01,Argentina,Pfizer/BioNTech,0
+2021-01-01,Argentina,Sinopharm/Beijing,0
+2021-01-01,Argentina,Moderna,0
+2021-01-01,Argentina,CanSino,0
+2021-01-02,Argentina,Sputnik V,444
+2021-01-02,Argentina,Pfizer/BioNTech,2
+2021-01-02,Argentina,Sinopharm/Beijing,0
+2021-01-02,Argentina,Moderna,0
+2021-01-02,Argentina,CanSino,0
+2021-01-03,Argentina,Sputnik V,10463
+2021-01-03,Argentina,Pfizer/BioNTech,1
+2021-01-03,Argentina,Sinopharm/Beijing,0
+2021-01-03,Argentina,Moderna,0
+2021-01-03,Argentina,CanSino,0
+2021-01-04,Argentina,Sputnik V,10727
+2021-01-04,Argentina,Pfizer/BioNTech,1
+2021-01-04,Argentina,Sinopharm/Beijing,0
+2021-01-04,Argentina,Moderna,0
+2021-01-04,Argentina,CanSino,0
+2021-01-05,Argentina,Sputnik V,10113
+2021-01-05,Argentina,Pfizer/BioNTech,1
+2021-01-05,Argentina,Sinopharm/Beijing,3
+2021-01-05,Argentina,Moderna,0
+2021-01-05,Argentina,CanSino,0
+2021-01-06,Argentina,Sputnik V,18225
+2021-01-06,Argentina,Pfizer/BioNTech,2
+2021-01-06,Argentina,Sinopharm/Beijing,2
+2021-01-06,Argentina,Moderna,0
+2021-01-06,Argentina,CanSino,0
+2021-01-07,Argentina,Sputnik V,27893
+2021-01-07,Argentina,Pfizer/BioNTech,0
+2021-01-07,Argentina,Sinopharm/Beijing,0
+2021-01-07,Argentina,Moderna,0
+2021-01-07,Argentina,CanSino,0
+2021-01-08,Argentina,Sputnik V,10207
+2021-01-08,Argentina,Pfizer/BioNTech,0
+2021-01-08,Argentina,Sinopharm/Beijing,0
+2021-01-08,Argentina,Moderna,0
+2021-01-08,Argentina,CanSino,0
+2021-01-09,Argentina,Sputnik V,1175
+2021-01-09,Argentina,Pfizer/BioNTech,3
+2021-01-09,Argentina,Sinopharm/Beijing,1
+2021-01-09,Argentina,Moderna,0
+2021-01-09,Argentina,CanSino,0
+2021-01-10,Argentina,Sputnik V,19828
+2021-01-10,Argentina,Pfizer/BioNTech,0
+2021-01-10,Argentina,Sinopharm/Beijing,2
+2021-01-10,Argentina,Moderna,0
+2021-01-10,Argentina,CanSino,0
+2021-01-11,Argentina,Sputnik V,19389
+2021-01-11,Argentina,Pfizer/BioNTech,0
+2021-01-11,Argentina,Sinopharm/Beijing,3
+2021-01-11,Argentina,Moderna,0
+2021-01-11,Argentina,CanSino,0
+2021-01-12,Argentina,Sputnik V,16772
+2021-01-12,Argentina,Pfizer/BioNTech,0
+2021-01-12,Argentina,Sinopharm/Beijing,4
+2021-01-12,Argentina,Moderna,0
+2021-01-12,Argentina,CanSino,0
+2021-01-13,Argentina,Sputnik V,16649
+2021-01-13,Argentina,Pfizer/BioNTech,0
+2021-01-13,Argentina,Sinopharm/Beijing,1
+2021-01-13,Argentina,Moderna,0
+2021-01-13,Argentina,CanSino,0
+2021-01-14,Argentina,Sputnik V,17447
+2021-01-14,Argentina,Pfizer/BioNTech,0
+2021-01-14,Argentina,Sinopharm/Beijing,0
+2021-01-14,Argentina,Moderna,0
+2021-01-14,Argentina,CanSino,0
+2021-01-15,Argentina,Sputnik V,5885
+2021-01-15,Argentina,Pfizer/BioNTech,0
+2021-01-15,Argentina,Sinopharm/Beijing,0
+2021-01-15,Argentina,Moderna,0
+2021-01-15,Argentina,CanSino,0
+2021-01-16,Argentina,Sputnik V,1062
+2021-01-16,Argentina,Pfizer/BioNTech,0
+2021-01-16,Argentina,Sinopharm/Beijing,0
+2021-01-16,Argentina,Moderna,0
+2021-01-16,Argentina,CanSino,0
+2021-01-17,Argentina,Sputnik V,9831
+2021-01-17,Argentina,Pfizer/BioNTech,1
+2021-01-17,Argentina,Sinopharm/Beijing,0
+2021-01-17,Argentina,Moderna,0
+2021-01-17,Argentina,CanSino,0
+2021-01-18,Argentina,Sputnik V,13254
+2021-01-18,Argentina,Pfizer/BioNTech,0
+2021-01-18,Argentina,Sinopharm/Beijing,0
+2021-01-18,Argentina,Moderna,0
+2021-01-18,Argentina,CanSino,0
+2021-01-19,Argentina,Sputnik V,19433
+2021-01-19,Argentina,Pfizer/BioNTech,0
+2021-01-19,Argentina,Sinopharm/Beijing,1
+2021-01-19,Argentina,Moderna,0
+2021-01-19,Argentina,CanSino,0
+2021-01-20,Argentina,Sputnik V,14112
+2021-01-20,Argentina,Pfizer/BioNTech,0
+2021-01-20,Argentina,Sinopharm/Beijing,1
+2021-01-20,Argentina,Moderna,0
+2021-01-20,Argentina,CanSino,0
+2021-01-21,Argentina,Sputnik V,9218
+2021-01-21,Argentina,Pfizer/BioNTech,0
+2021-01-21,Argentina,Sinopharm/Beijing,1
+2021-01-21,Argentina,Moderna,0
+2021-01-21,Argentina,CanSino,0
+2021-01-22,Argentina,Sputnik V,3944
+2021-01-22,Argentina,Pfizer/BioNTech,0
+2021-01-22,Argentina,Sinopharm/Beijing,0
+2021-01-22,Argentina,Moderna,0
+2021-01-22,Argentina,CanSino,0
+2021-01-23,Argentina,Sputnik V,303
+2021-01-23,Argentina,Pfizer/BioNTech,0
+2021-01-23,Argentina,Sinopharm/Beijing,0
+2021-01-23,Argentina,Moderna,0
+2021-01-23,Argentina,CanSino,0
+2021-01-24,Argentina,Sputnik V,14212
+2021-01-24,Argentina,Pfizer/BioNTech,0
+2021-01-24,Argentina,Sinopharm/Beijing,0
+2021-01-24,Argentina,Moderna,0
+2021-01-24,Argentina,CanSino,0
+2021-01-25,Argentina,Sputnik V,12775
+2021-01-25,Argentina,Pfizer/BioNTech,0
+2021-01-25,Argentina,Sinopharm/Beijing,0
+2021-01-25,Argentina,Moderna,0
+2021-01-25,Argentina,CanSino,0
+2021-01-26,Argentina,Sputnik V,10113
+2021-01-26,Argentina,Pfizer/BioNTech,0
+2021-01-26,Argentina,Sinopharm/Beijing,0
+2021-01-26,Argentina,Moderna,0
+2021-01-26,Argentina,CanSino,0
+2021-01-27,Argentina,Sputnik V,16049
+2021-01-27,Argentina,Pfizer/BioNTech,0
+2021-01-27,Argentina,Sinopharm/Beijing,0
+2021-01-27,Argentina,Moderna,0
+2021-01-27,Argentina,CanSino,0
+2021-01-28,Argentina,Sputnik V,23504
+2021-01-28,Argentina,Pfizer/BioNTech,0
+2021-01-28,Argentina,Sinopharm/Beijing,0
+2021-01-28,Argentina,Moderna,0
+2021-01-28,Argentina,CanSino,0
+2021-01-29,Argentina,Sputnik V,9315
+2021-01-29,Argentina,Pfizer/BioNTech,0
+2021-01-29,Argentina,Sinopharm/Beijing,0
+2021-01-29,Argentina,Moderna,0
+2021-01-29,Argentina,CanSino,0
+2021-01-30,Argentina,Sputnik V,623
+2021-01-30,Argentina,Pfizer/BioNTech,0
+2021-01-30,Argentina,Sinopharm/Beijing,0
+2021-01-30,Argentina,Moderna,0
+2021-01-30,Argentina,CanSino,0
+2021-01-31,Argentina,Sputnik V,19516
+2021-01-31,Argentina,Pfizer/BioNTech,0
+2021-01-31,Argentina,Sinopharm/Beijing,1
+2021-01-31,Argentina,Moderna,0
+2021-01-31,Argentina,CanSino,0
+2021-02-01,Argentina,Sputnik V,23850
+2021-02-01,Argentina,Pfizer/BioNTech,0
+2021-02-01,Argentina,Sinopharm/Beijing,1
+2021-02-01,Argentina,Moderna,0
+2021-02-01,Argentina,CanSino,0
+2021-02-02,Argentina,Sputnik V,26614
+2021-02-02,Argentina,Pfizer/BioNTech,0
+2021-02-02,Argentina,Sinopharm/Beijing,1
+2021-02-02,Argentina,Moderna,0
+2021-02-02,Argentina,CanSino,0
+2021-02-03,Argentina,Sputnik V,28113
+2021-02-03,Argentina,Pfizer/BioNTech,0
+2021-02-03,Argentina,Sinopharm/Beijing,23
+2021-02-03,Argentina,Moderna,0
+2021-02-03,Argentina,CanSino,0
+2021-02-04,Argentina,Sputnik V,33034
+2021-02-04,Argentina,Pfizer/BioNTech,0
+2021-02-04,Argentina,Sinopharm/Beijing,7
+2021-02-04,Argentina,Moderna,0
+2021-02-04,Argentina,CanSino,0
+2021-02-05,Argentina,Sputnik V,10927
+2021-02-05,Argentina,Pfizer/BioNTech,0
+2021-02-05,Argentina,Sinopharm/Beijing,5
+2021-02-05,Argentina,Moderna,0
+2021-02-05,Argentina,CanSino,0
+2021-02-06,Argentina,Sputnik V,1380
+2021-02-06,Argentina,Pfizer/BioNTech,0
+2021-02-06,Argentina,Sinopharm/Beijing,4
+2021-02-06,Argentina,Moderna,0
+2021-02-06,Argentina,CanSino,0
+2021-02-07,Argentina,Sputnik V,23432
+2021-02-07,Argentina,Pfizer/BioNTech,0
+2021-02-07,Argentina,Sinopharm/Beijing,1
+2021-02-07,Argentina,Moderna,0
+2021-02-07,Argentina,CanSino,0
+2021-02-08,Argentina,Sputnik V,20196
+2021-02-08,Argentina,Pfizer/BioNTech,0
+2021-02-08,Argentina,Sinopharm/Beijing,6
+2021-02-08,Argentina,Moderna,0
+2021-02-08,Argentina,CanSino,0
+2021-02-09,Argentina,Sputnik V,15620
+2021-02-09,Argentina,Pfizer/BioNTech,0
+2021-02-09,Argentina,Sinopharm/Beijing,5
+2021-02-09,Argentina,Moderna,0
+2021-02-09,Argentina,CanSino,0
+2021-02-10,Argentina,Sputnik V,17852
+2021-02-10,Argentina,Pfizer/BioNTech,0
+2021-02-10,Argentina,Sinopharm/Beijing,6
+2021-02-10,Argentina,Moderna,0
+2021-02-10,Argentina,CanSino,0
+2021-02-11,Argentina,Sputnik V,15842
+2021-02-11,Argentina,Pfizer/BioNTech,0
+2021-02-11,Argentina,Sinopharm/Beijing,1
+2021-02-11,Argentina,Moderna,0
+2021-02-11,Argentina,CanSino,0
+2021-02-12,Argentina,Sputnik V,3032
+2021-02-12,Argentina,Pfizer/BioNTech,0
+2021-02-12,Argentina,Sinopharm/Beijing,2
+2021-02-12,Argentina,Moderna,0
+2021-02-12,Argentina,CanSino,0
+2021-02-13,Argentina,Sputnik V,150
+2021-02-13,Argentina,Pfizer/BioNTech,0
+2021-02-13,Argentina,Sinopharm/Beijing,2
+2021-02-13,Argentina,Moderna,0
+2021-02-13,Argentina,CanSino,0
+2021-02-14,Argentina,Sputnik V,1315
+2021-02-14,Argentina,Pfizer/BioNTech,0
+2021-02-14,Argentina,Sinopharm/Beijing,2
+2021-02-14,Argentina,Moderna,0
+2021-02-14,Argentina,CanSino,0
+2021-02-15,Argentina,Sputnik V,1298
+2021-02-15,Argentina,Pfizer/BioNTech,1
+2021-02-15,Argentina,Sinopharm/Beijing,2
+2021-02-15,Argentina,Moderna,0
+2021-02-15,Argentina,CanSino,0
+2021-02-16,Argentina,Sputnik V,24402
+2021-02-16,Argentina,Pfizer/BioNTech,0
+2021-02-16,Argentina,Sinopharm/Beijing,3
+2021-02-16,Argentina,Moderna,0
+2021-02-16,Argentina,CanSino,0
+2021-02-17,Argentina,Sputnik V,63812
+2021-02-17,Argentina,Pfizer/BioNTech,0
+2021-02-17,Argentina,Sinopharm/Beijing,4
+2021-02-17,Argentina,Moderna,0
+2021-02-17,Argentina,CanSino,0
+2021-02-18,Argentina,Sputnik V,67717
+2021-02-18,Argentina,Pfizer/BioNTech,0
+2021-02-18,Argentina,Sinopharm/Beijing,1
+2021-02-18,Argentina,Moderna,0
+2021-02-18,Argentina,CanSino,0
+2021-02-19,Argentina,Sputnik V,32475
+2021-02-19,Argentina,Pfizer/BioNTech,0
+2021-02-19,Argentina,Sinopharm/Beijing,1
+2021-02-19,Argentina,Moderna,0
+2021-02-19,Argentina,CanSino,0
+2021-02-20,Argentina,Sputnik V,19781
+2021-02-20,Argentina,Pfizer/BioNTech,0
+2021-02-20,Argentina,Sinopharm/Beijing,0
+2021-02-20,Argentina,Moderna,0
+2021-02-20,Argentina,CanSino,0
+2021-02-21,Argentina,Sputnik V,44986
+2021-02-21,Argentina,Pfizer/BioNTech,0
+2021-02-21,Argentina,Sinopharm/Beijing,0
+2021-02-21,Argentina,Moderna,0
+2021-02-21,Argentina,CanSino,0
+2021-02-22,Argentina,Sputnik V,36767
+2021-02-22,Argentina,Pfizer/BioNTech,0
+2021-02-22,Argentina,Sinopharm/Beijing,0
+2021-02-22,Argentina,Moderna,0
+2021-02-22,Argentina,CanSino,0
+2021-02-23,Argentina,Sputnik V,31763
+2021-02-23,Argentina,Pfizer/BioNTech,0
+2021-02-23,Argentina,Sinopharm/Beijing,3
+2021-02-23,Argentina,Moderna,0
+2021-02-23,Argentina,CanSino,0
+2021-02-24,Argentina,Sputnik V,26318
+2021-02-24,Argentina,Pfizer/BioNTech,0
+2021-02-24,Argentina,Sinopharm/Beijing,4
+2021-02-24,Argentina,Moderna,0
+2021-02-24,Argentina,CanSino,0
+2021-02-25,Argentina,Sputnik V,25641
+2021-02-25,Argentina,Pfizer/BioNTech,0
+2021-02-25,Argentina,Sinopharm/Beijing,9
+2021-02-25,Argentina,Moderna,0
+2021-02-25,Argentina,CanSino,0
+2021-02-26,Argentina,Sputnik V,4560
+2021-02-26,Argentina,Pfizer/BioNTech,0
+2021-02-26,Argentina,Sinopharm/Beijing,1
+2021-02-26,Argentina,Moderna,0
+2021-02-26,Argentina,CanSino,0
+2021-02-27,Argentina,Sputnik V,777
+2021-02-27,Argentina,Pfizer/BioNTech,0
+2021-02-27,Argentina,Sinopharm/Beijing,1
+2021-02-27,Argentina,Moderna,0
+2021-02-27,Argentina,CanSino,0
+2021-02-28,Argentina,Sputnik V,20547
+2021-02-28,Argentina,Pfizer/BioNTech,0
+2021-02-28,Argentina,Sinopharm/Beijing,702
+2021-02-28,Argentina,Moderna,0
+2021-02-28,Argentina,CanSino,0
+2021-03-01,Argentina,Sputnik V,19032
+2021-03-01,Argentina,Pfizer/BioNTech,0
+2021-03-01,Argentina,Sinopharm/Beijing,4966
+2021-03-01,Argentina,Moderna,0
+2021-03-01,Argentina,CanSino,0
+2021-03-02,Argentina,Sputnik V,17693
+2021-03-02,Argentina,Pfizer/BioNTech,0
+2021-03-02,Argentina,Sinopharm/Beijing,17836
+2021-03-02,Argentina,Moderna,0
+2021-03-02,Argentina,CanSino,0
+2021-03-03,Argentina,Sputnik V,22066
+2021-03-03,Argentina,Pfizer/BioNTech,0
+2021-03-03,Argentina,Sinopharm/Beijing,64309
+2021-03-03,Argentina,Moderna,0
+2021-03-03,Argentina,CanSino,0
+2021-03-04,Argentina,Sputnik V,20946
+2021-03-04,Argentina,Pfizer/BioNTech,0
+2021-03-04,Argentina,Sinopharm/Beijing,66519
+2021-03-04,Argentina,Moderna,0
+2021-03-04,Argentina,CanSino,0
+2021-03-05,Argentina,Sputnik V,4603
+2021-03-05,Argentina,Pfizer/BioNTech,0
+2021-03-05,Argentina,Sinopharm/Beijing,42428
+2021-03-05,Argentina,Moderna,0
+2021-03-05,Argentina,CanSino,0
+2021-03-06,Argentina,Sputnik V,377
+2021-03-06,Argentina,Pfizer/BioNTech,0
+2021-03-06,Argentina,Sinopharm/Beijing,6445
+2021-03-06,Argentina,Moderna,0
+2021-03-06,Argentina,CanSino,0
+2021-03-07,Argentina,Sputnik V,17986
+2021-03-07,Argentina,Pfizer/BioNTech,0
+2021-03-07,Argentina,Sinopharm/Beijing,52952
+2021-03-07,Argentina,Moderna,0
+2021-03-07,Argentina,CanSino,0
+2021-03-08,Argentina,Sputnik V,36363
+2021-03-08,Argentina,Pfizer/BioNTech,0
+2021-03-08,Argentina,Sinopharm/Beijing,63118
+2021-03-08,Argentina,Moderna,0
+2021-03-08,Argentina,CanSino,0
+2021-03-09,Argentina,Sputnik V,53178
+2021-03-09,Argentina,Pfizer/BioNTech,0
+2021-03-09,Argentina,Sinopharm/Beijing,98750
+2021-03-09,Argentina,Moderna,0
+2021-03-09,Argentina,CanSino,0
+2021-03-10,Argentina,Sputnik V,92073
+2021-03-10,Argentina,Pfizer/BioNTech,0
+2021-03-10,Argentina,Sinopharm/Beijing,84896
+2021-03-10,Argentina,Moderna,0
+2021-03-10,Argentina,CanSino,0
+2021-03-11,Argentina,Sputnik V,93021
+2021-03-11,Argentina,Pfizer/BioNTech,0
+2021-03-11,Argentina,Sinopharm/Beijing,61151
+2021-03-11,Argentina,Moderna,0
+2021-03-11,Argentina,CanSino,0
+2021-03-12,Argentina,Sputnik V,32913
+2021-03-12,Argentina,Pfizer/BioNTech,0
+2021-03-12,Argentina,Sinopharm/Beijing,10506
+2021-03-12,Argentina,Moderna,0
+2021-03-12,Argentina,CanSino,0
+2021-03-13,Argentina,Sputnik V,2467
+2021-03-13,Argentina,Pfizer/BioNTech,0
+2021-03-13,Argentina,Sinopharm/Beijing,6658
+2021-03-13,Argentina,Moderna,0
+2021-03-13,Argentina,CanSino,0
+2021-03-14,Argentina,Sputnik V,90603
+2021-03-14,Argentina,Pfizer/BioNTech,0
+2021-03-14,Argentina,Sinopharm/Beijing,40624
+2021-03-14,Argentina,Moderna,0
+2021-03-14,Argentina,CanSino,0
+2021-03-15,Argentina,Sputnik V,95959
+2021-03-15,Argentina,Pfizer/BioNTech,0
+2021-03-15,Argentina,Sinopharm/Beijing,34679
+2021-03-15,Argentina,Moderna,0
+2021-03-15,Argentina,CanSino,0
+2021-03-16,Argentina,Sputnik V,113930
+2021-03-16,Argentina,Pfizer/BioNTech,0
+2021-03-16,Argentina,Sinopharm/Beijing,22981
+2021-03-16,Argentina,Moderna,0
+2021-03-16,Argentina,CanSino,0
+2021-03-17,Argentina,Sputnik V,115143
+2021-03-17,Argentina,Pfizer/BioNTech,0
+2021-03-17,Argentina,Sinopharm/Beijing,22153
+2021-03-17,Argentina,Moderna,0
+2021-03-17,Argentina,CanSino,0
+2021-03-18,Argentina,Sputnik V,100763
+2021-03-18,Argentina,Pfizer/BioNTech,0
+2021-03-18,Argentina,Sinopharm/Beijing,23609
+2021-03-18,Argentina,Moderna,0
+2021-03-18,Argentina,CanSino,0
+2021-03-19,Argentina,Sputnik V,46607
+2021-03-19,Argentina,Pfizer/BioNTech,0
+2021-03-19,Argentina,Sinopharm/Beijing,3940
+2021-03-19,Argentina,Moderna,0
+2021-03-19,Argentina,CanSino,0
+2021-03-20,Argentina,Sputnik V,19261
+2021-03-20,Argentina,Pfizer/BioNTech,0
+2021-03-20,Argentina,Sinopharm/Beijing,349
+2021-03-20,Argentina,Moderna,0
+2021-03-20,Argentina,CanSino,0
+2021-03-21,Argentina,Sputnik V,64210
+2021-03-21,Argentina,Pfizer/BioNTech,0
+2021-03-21,Argentina,Sinopharm/Beijing,17402
+2021-03-21,Argentina,Moderna,0
+2021-03-21,Argentina,CanSino,0
+2021-03-22,Argentina,Sputnik V,88255
+2021-03-22,Argentina,Pfizer/BioNTech,0
+2021-03-22,Argentina,Sinopharm/Beijing,13560
+2021-03-22,Argentina,Moderna,0
+2021-03-22,Argentina,CanSino,0
+2021-03-23,Argentina,Sputnik V,33049
+2021-03-23,Argentina,Pfizer/BioNTech,0
+2021-03-23,Argentina,Sinopharm/Beijing,3142
+2021-03-23,Argentina,Moderna,0
+2021-03-23,Argentina,CanSino,0
+2021-03-24,Argentina,Sputnik V,90956
+2021-03-24,Argentina,Pfizer/BioNTech,0
+2021-03-24,Argentina,Sinopharm/Beijing,10905
+2021-03-24,Argentina,Moderna,0
+2021-03-24,Argentina,CanSino,0
+2021-03-25,Argentina,Sputnik V,81758
+2021-03-25,Argentina,Pfizer/BioNTech,0
+2021-03-25,Argentina,Sinopharm/Beijing,9177
+2021-03-25,Argentina,Moderna,0
+2021-03-25,Argentina,CanSino,0
+2021-03-26,Argentina,Sputnik V,51905
+2021-03-26,Argentina,Pfizer/BioNTech,0
+2021-03-26,Argentina,Sinopharm/Beijing,2308
+2021-03-26,Argentina,Moderna,0
+2021-03-26,Argentina,CanSino,0
+2021-03-27,Argentina,Sputnik V,19451
+2021-03-27,Argentina,Pfizer/BioNTech,0
+2021-03-27,Argentina,Sinopharm/Beijing,475
+2021-03-27,Argentina,Moderna,0
+2021-03-27,Argentina,CanSino,0
+2021-03-28,Argentina,Sputnik V,105122
+2021-03-28,Argentina,Pfizer/BioNTech,1
+2021-03-28,Argentina,Sinopharm/Beijing,11507
+2021-03-28,Argentina,Moderna,0
+2021-03-28,Argentina,CanSino,0
+2021-03-29,Argentina,Sputnik V,149685
+2021-03-29,Argentina,Pfizer/BioNTech,1
+2021-03-29,Argentina,Sinopharm/Beijing,10500
+2021-03-29,Argentina,Moderna,0
+2021-03-29,Argentina,CanSino,0
+2021-03-30,Argentina,Sputnik V,143032
+2021-03-30,Argentina,Pfizer/BioNTech,0
+2021-03-30,Argentina,Sinopharm/Beijing,12016
+2021-03-30,Argentina,Moderna,0
+2021-03-30,Argentina,CanSino,0
+2021-03-31,Argentina,Sputnik V,87827
+2021-03-31,Argentina,Pfizer/BioNTech,0
+2021-03-31,Argentina,Sinopharm/Beijing,3763
+2021-03-31,Argentina,Moderna,0
+2021-03-31,Argentina,CanSino,0
+2021-04-01,Argentina,Sputnik V,53023
+2021-04-01,Argentina,Pfizer/BioNTech,0
+2021-04-01,Argentina,Sinopharm/Beijing,2322
+2021-04-01,Argentina,Moderna,0
+2021-04-01,Argentina,CanSino,0
+2021-04-02,Argentina,Sputnik V,54748
+2021-04-02,Argentina,Pfizer/BioNTech,0
+2021-04-02,Argentina,Sinopharm/Beijing,1091
+2021-04-02,Argentina,Moderna,0
+2021-04-02,Argentina,CanSino,0
+2021-04-03,Argentina,Sputnik V,32436
+2021-04-03,Argentina,Pfizer/BioNTech,0
+2021-04-03,Argentina,Sinopharm/Beijing,1664
+2021-04-03,Argentina,Moderna,0
+2021-04-03,Argentina,CanSino,0
+2021-04-04,Argentina,Sputnik V,103059
+2021-04-04,Argentina,Pfizer/BioNTech,0
+2021-04-04,Argentina,Sinopharm/Beijing,29133
+2021-04-04,Argentina,Moderna,0
+2021-04-04,Argentina,CanSino,0
+2021-04-05,Argentina,Sputnik V,92422
+2021-04-05,Argentina,Pfizer/BioNTech,0
+2021-04-05,Argentina,Sinopharm/Beijing,75156
+2021-04-05,Argentina,Moderna,0
+2021-04-05,Argentina,CanSino,0
+2021-04-06,Argentina,Sputnik V,89909
+2021-04-06,Argentina,Pfizer/BioNTech,0
+2021-04-06,Argentina,Sinopharm/Beijing,118321
+2021-04-06,Argentina,Moderna,0
+2021-04-06,Argentina,CanSino,0
+2021-04-07,Argentina,Sputnik V,81596
+2021-04-07,Argentina,Pfizer/BioNTech,0
+2021-04-07,Argentina,Sinopharm/Beijing,130313
+2021-04-07,Argentina,Moderna,0
+2021-04-07,Argentina,CanSino,0
+2021-04-08,Argentina,Sputnik V,74490
+2021-04-08,Argentina,Pfizer/BioNTech,0
+2021-04-08,Argentina,Sinopharm/Beijing,147594
+2021-04-08,Argentina,Moderna,0
+2021-04-08,Argentina,CanSino,0
+2021-04-09,Argentina,Sputnik V,34146
+2021-04-09,Argentina,Pfizer/BioNTech,0
+2021-04-09,Argentina,Sinopharm/Beijing,53994
+2021-04-09,Argentina,Moderna,0
+2021-04-09,Argentina,CanSino,0
+2021-04-10,Argentina,Sputnik V,14595
+2021-04-10,Argentina,Pfizer/BioNTech,0
+2021-04-10,Argentina,Sinopharm/Beijing,32857
+2021-04-10,Argentina,Moderna,0
+2021-04-10,Argentina,CanSino,0
+2021-04-11,Argentina,Sputnik V,76567
+2021-04-11,Argentina,Pfizer/BioNTech,0
+2021-04-11,Argentina,Sinopharm/Beijing,95363
+2021-04-11,Argentina,Moderna,0
+2021-04-11,Argentina,CanSino,0
+2021-04-12,Argentina,Sputnik V,95267
+2021-04-12,Argentina,Pfizer/BioNTech,0
+2021-04-12,Argentina,Sinopharm/Beijing,82496
+2021-04-12,Argentina,Moderna,0
+2021-04-12,Argentina,CanSino,0
+2021-04-13,Argentina,Sputnik V,97891
+2021-04-13,Argentina,Pfizer/BioNTech,0
+2021-04-13,Argentina,Sinopharm/Beijing,67386
+2021-04-13,Argentina,Moderna,0
+2021-04-13,Argentina,CanSino,0
+2021-04-14,Argentina,Sputnik V,95750
+2021-04-14,Argentina,Pfizer/BioNTech,0
+2021-04-14,Argentina,Sinopharm/Beijing,51188
+2021-04-14,Argentina,Moderna,0
+2021-04-14,Argentina,CanSino,0
+2021-04-15,Argentina,Sputnik V,74349
+2021-04-15,Argentina,Pfizer/BioNTech,0
+2021-04-15,Argentina,Sinopharm/Beijing,46115
+2021-04-15,Argentina,Moderna,0
+2021-04-15,Argentina,CanSino,0
+2021-04-16,Argentina,Sputnik V,28714
+2021-04-16,Argentina,Pfizer/BioNTech,0
+2021-04-16,Argentina,Sinopharm/Beijing,16118
+2021-04-16,Argentina,Moderna,0
+2021-04-16,Argentina,CanSino,0
+2021-04-17,Argentina,Sputnik V,16369
+2021-04-17,Argentina,Pfizer/BioNTech,0
+2021-04-17,Argentina,Sinopharm/Beijing,2263
+2021-04-17,Argentina,Moderna,0
+2021-04-17,Argentina,CanSino,0
+2021-04-18,Argentina,Sputnik V,50143
+2021-04-18,Argentina,Pfizer/BioNTech,0
+2021-04-18,Argentina,Sinopharm/Beijing,24967
+2021-04-18,Argentina,Moderna,0
+2021-04-18,Argentina,CanSino,0
+2021-04-19,Argentina,Sputnik V,46175
+2021-04-19,Argentina,Pfizer/BioNTech,0
+2021-04-19,Argentina,Sinopharm/Beijing,24043
+2021-04-19,Argentina,Moderna,0
+2021-04-19,Argentina,CanSino,0
+2021-04-20,Argentina,Sputnik V,32490
+2021-04-20,Argentina,Pfizer/BioNTech,0
+2021-04-20,Argentina,Sinopharm/Beijing,21221
+2021-04-20,Argentina,Moderna,0
+2021-04-20,Argentina,CanSino,0
+2021-04-21,Argentina,Sputnik V,45342
+2021-04-21,Argentina,Pfizer/BioNTech,0
+2021-04-21,Argentina,Sinopharm/Beijing,15567
+2021-04-21,Argentina,Moderna,0
+2021-04-21,Argentina,CanSino,1
+2021-04-22,Argentina,Sputnik V,62160
+2021-04-22,Argentina,Pfizer/BioNTech,0
+2021-04-22,Argentina,Sinopharm/Beijing,14102
+2021-04-22,Argentina,Moderna,0
+2021-04-22,Argentina,CanSino,0
+2021-04-23,Argentina,Sputnik V,36804
+2021-04-23,Argentina,Pfizer/BioNTech,0
+2021-04-23,Argentina,Sinopharm/Beijing,1572
+2021-04-23,Argentina,Moderna,0
+2021-04-23,Argentina,CanSino,0
+2021-04-24,Argentina,Sputnik V,16488
+2021-04-24,Argentina,Pfizer/BioNTech,0
+2021-04-24,Argentina,Sinopharm/Beijing,375
+2021-04-24,Argentina,Moderna,0
+2021-04-24,Argentina,CanSino,0
+2021-04-25,Argentina,Sputnik V,91474
+2021-04-25,Argentina,Pfizer/BioNTech,0
+2021-04-25,Argentina,Sinopharm/Beijing,7569
+2021-04-25,Argentina,Moderna,0
+2021-04-25,Argentina,CanSino,0
+2021-04-26,Argentina,Sputnik V,87289
+2021-04-26,Argentina,Pfizer/BioNTech,1
+2021-04-26,Argentina,Sinopharm/Beijing,7360
+2021-04-26,Argentina,Moderna,0
+2021-04-26,Argentina,CanSino,0
+2021-04-27,Argentina,Sputnik V,78932
+2021-04-27,Argentina,Pfizer/BioNTech,1
+2021-04-27,Argentina,Sinopharm/Beijing,27964
+2021-04-27,Argentina,Moderna,0
+2021-04-27,Argentina,CanSino,0
+2021-04-28,Argentina,Sputnik V,77448
+2021-04-28,Argentina,Pfizer/BioNTech,0
+2021-04-28,Argentina,Sinopharm/Beijing,40132
+2021-04-28,Argentina,Moderna,0
+2021-04-28,Argentina,CanSino,0
+2021-04-29,Argentina,Sputnik V,48262
+2021-04-29,Argentina,Pfizer/BioNTech,0
+2021-04-29,Argentina,Sinopharm/Beijing,36171
+2021-04-29,Argentina,Moderna,0
+2021-04-29,Argentina,CanSino,0
+2021-04-30,Argentina,Sputnik V,11336
+2021-04-30,Argentina,Pfizer/BioNTech,0
+2021-04-30,Argentina,Sinopharm/Beijing,3713
+2021-04-30,Argentina,Moderna,0
+2021-04-30,Argentina,CanSino,0
+2021-05-01,Argentina,Sputnik V,19455
+2021-05-01,Argentina,Pfizer/BioNTech,0
+2021-05-01,Argentina,Sinopharm/Beijing,14132
+2021-05-01,Argentina,Moderna,0
+2021-05-01,Argentina,CanSino,0
+2021-05-02,Argentina,Sputnik V,77158
+2021-05-02,Argentina,Pfizer/BioNTech,0
+2021-05-02,Argentina,Sinopharm/Beijing,73979
+2021-05-02,Argentina,Moderna,0
+2021-05-02,Argentina,CanSino,0
+2021-05-03,Argentina,Sputnik V,114373
+2021-05-03,Argentina,Pfizer/BioNTech,0
+2021-05-03,Argentina,Sinopharm/Beijing,94110
+2021-05-03,Argentina,Moderna,0
+2021-05-03,Argentina,CanSino,0
+2021-05-04,Argentina,Sputnik V,141544
+2021-05-04,Argentina,Pfizer/BioNTech,0
+2021-05-04,Argentina,Sinopharm/Beijing,78601
+2021-05-04,Argentina,Moderna,0
+2021-05-04,Argentina,CanSino,0
+2021-05-05,Argentina,Sputnik V,120407
+2021-05-05,Argentina,Pfizer/BioNTech,0
+2021-05-05,Argentina,Sinopharm/Beijing,64644
+2021-05-05,Argentina,Moderna,0
+2021-05-05,Argentina,CanSino,0
+2021-05-06,Argentina,Sputnik V,95333
+2021-05-06,Argentina,Pfizer/BioNTech,0
+2021-05-06,Argentina,Sinopharm/Beijing,96130
+2021-05-06,Argentina,Moderna,0
+2021-05-06,Argentina,CanSino,0
+2021-05-07,Argentina,Sputnik V,28610
+2021-05-07,Argentina,Pfizer/BioNTech,0
+2021-05-07,Argentina,Sinopharm/Beijing,41621
+2021-05-07,Argentina,Moderna,0
+2021-05-07,Argentina,CanSino,0
+2021-05-08,Argentina,Sputnik V,13459
+2021-05-08,Argentina,Pfizer/BioNTech,0
+2021-05-08,Argentina,Sinopharm/Beijing,3499
+2021-05-08,Argentina,Moderna,0
+2021-05-08,Argentina,CanSino,0
+2021-05-09,Argentina,Sputnik V,67617
+2021-05-09,Argentina,Pfizer/BioNTech,0
+2021-05-09,Argentina,Sinopharm/Beijing,64181
+2021-05-09,Argentina,Moderna,0
+2021-05-09,Argentina,CanSino,0
+2021-05-10,Argentina,Sputnik V,67372
+2021-05-10,Argentina,Pfizer/BioNTech,0
+2021-05-10,Argentina,Sinopharm/Beijing,64856
+2021-05-10,Argentina,Moderna,0
+2021-05-10,Argentina,CanSino,0
+2021-05-11,Argentina,Sputnik V,52502
+2021-05-11,Argentina,Pfizer/BioNTech,0
+2021-05-11,Argentina,Sinopharm/Beijing,139379
+2021-05-11,Argentina,Moderna,1
+2021-05-11,Argentina,CanSino,0
+2021-05-12,Argentina,Sputnik V,37762
+2021-05-12,Argentina,Pfizer/BioNTech,0
+2021-05-12,Argentina,Sinopharm/Beijing,148732
+2021-05-12,Argentina,Moderna,0
+2021-05-12,Argentina,CanSino,0
+2021-05-13,Argentina,Sputnik V,38991
+2021-05-13,Argentina,Pfizer/BioNTech,0
+2021-05-13,Argentina,Sinopharm/Beijing,148369
+2021-05-13,Argentina,Moderna,0
+2021-05-13,Argentina,CanSino,0
+2021-05-14,Argentina,Sputnik V,41578
+2021-05-14,Argentina,Pfizer/BioNTech,0
+2021-05-14,Argentina,Sinopharm/Beijing,50453
+2021-05-14,Argentina,Moderna,0
+2021-05-14,Argentina,CanSino,0
+2021-05-15,Argentina,Sputnik V,22823
+2021-05-15,Argentina,Pfizer/BioNTech,0
+2021-05-15,Argentina,Sinopharm/Beijing,43310
+2021-05-15,Argentina,Moderna,0
+2021-05-15,Argentina,CanSino,0
+2021-05-16,Argentina,Sputnik V,83928
+2021-05-16,Argentina,Pfizer/BioNTech,0
+2021-05-16,Argentina,Sinopharm/Beijing,95755
+2021-05-16,Argentina,Moderna,0
+2021-05-16,Argentina,CanSino,0
+2021-05-17,Argentina,Sputnik V,143552
+2021-05-17,Argentina,Pfizer/BioNTech,0
+2021-05-17,Argentina,Sinopharm/Beijing,44950
+2021-05-17,Argentina,Moderna,0
+2021-05-17,Argentina,CanSino,0
+2021-05-18,Argentina,Sputnik V,127070
+2021-05-18,Argentina,Pfizer/BioNTech,0
+2021-05-18,Argentina,Sinopharm/Beijing,33358
+2021-05-18,Argentina,Moderna,0
+2021-05-18,Argentina,CanSino,0
+2021-05-19,Argentina,Sputnik V,136862
+2021-05-19,Argentina,Pfizer/BioNTech,0
+2021-05-19,Argentina,Sinopharm/Beijing,35286
+2021-05-19,Argentina,Moderna,0
+2021-05-19,Argentina,CanSino,0
+2021-05-20,Argentina,Sputnik V,89882
+2021-05-20,Argentina,Pfizer/BioNTech,0
+2021-05-20,Argentina,Sinopharm/Beijing,78226
+2021-05-20,Argentina,Moderna,0
+2021-05-20,Argentina,CanSino,0
+2021-05-21,Argentina,Sputnik V,54941
+2021-05-21,Argentina,Pfizer/BioNTech,0
+2021-05-21,Argentina,Sinopharm/Beijing,43999
+2021-05-21,Argentina,Moderna,0
+2021-05-21,Argentina,CanSino,0
+2021-05-22,Argentina,Sputnik V,21979
+2021-05-22,Argentina,Pfizer/BioNTech,0
+2021-05-22,Argentina,Sinopharm/Beijing,22880
+2021-05-22,Argentina,Moderna,0
+2021-05-22,Argentina,CanSino,0
+2021-05-23,Argentina,Sputnik V,67713
+2021-05-23,Argentina,Pfizer/BioNTech,0
+2021-05-23,Argentina,Sinopharm/Beijing,19494
+2021-05-23,Argentina,Moderna,0
+2021-05-23,Argentina,CanSino,0
+2021-05-24,Argentina,Sputnik V,38171
+2021-05-24,Argentina,Pfizer/BioNTech,0
+2021-05-24,Argentina,Sinopharm/Beijing,3182
+2021-05-24,Argentina,Moderna,0
+2021-05-24,Argentina,CanSino,0
+2021-05-25,Argentina,Sputnik V,92691
+2021-05-25,Argentina,Pfizer/BioNTech,0
+2021-05-25,Argentina,Sinopharm/Beijing,33591
+2021-05-25,Argentina,Moderna,0
+2021-05-25,Argentina,CanSino,0
+2021-05-26,Argentina,Sputnik V,90737
+2021-05-26,Argentina,Pfizer/BioNTech,0
+2021-05-26,Argentina,Sinopharm/Beijing,33260
+2021-05-26,Argentina,Moderna,0
+2021-05-26,Argentina,CanSino,0
+2021-05-27,Argentina,Sputnik V,124867
+2021-05-27,Argentina,Pfizer/BioNTech,0
+2021-05-27,Argentina,Sinopharm/Beijing,28915
+2021-05-27,Argentina,Moderna,0
+2021-05-27,Argentina,CanSino,0
+2021-05-28,Argentina,Sputnik V,107682
+2021-05-28,Argentina,Pfizer/BioNTech,0
+2021-05-28,Argentina,Sinopharm/Beijing,9907
+2021-05-28,Argentina,Moderna,0
+2021-05-28,Argentina,CanSino,0
+2021-05-29,Argentina,Sputnik V,68116
+2021-05-29,Argentina,Pfizer/BioNTech,0
+2021-05-29,Argentina,Sinopharm/Beijing,1623
+2021-05-29,Argentina,Moderna,0
+2021-05-29,Argentina,CanSino,0
+2021-05-30,Argentina,Sputnik V,154971
+2021-05-30,Argentina,Pfizer/BioNTech,0
+2021-05-30,Argentina,Sinopharm/Beijing,16907
+2021-05-30,Argentina,Moderna,0
+2021-05-30,Argentina,CanSino,0
+2021-05-31,Argentina,Sputnik V,152332
+2021-05-31,Argentina,Pfizer/BioNTech,0
+2021-05-31,Argentina,Sinopharm/Beijing,13561
+2021-05-31,Argentina,Moderna,0
+2021-05-31,Argentina,CanSino,0
+2021-06-01,Argentina,Sputnik V,132712
+2021-06-01,Argentina,Pfizer/BioNTech,0
+2021-06-01,Argentina,Sinopharm/Beijing,13150
+2021-06-01,Argentina,Moderna,0
+2021-06-01,Argentina,CanSino,0
+2021-06-02,Argentina,Sputnik V,114567
+2021-06-02,Argentina,Pfizer/BioNTech,0
+2021-06-02,Argentina,Sinopharm/Beijing,12224
+2021-06-02,Argentina,Moderna,0
+2021-06-02,Argentina,CanSino,0
+2021-06-03,Argentina,Sputnik V,87289
+2021-06-03,Argentina,Pfizer/BioNTech,0
+2021-06-03,Argentina,Sinopharm/Beijing,15864
+2021-06-03,Argentina,Moderna,0
+2021-06-03,Argentina,CanSino,0
+2021-06-04,Argentina,Sputnik V,44413
+2021-06-04,Argentina,Pfizer/BioNTech,0
+2021-06-04,Argentina,Sinopharm/Beijing,4681
+2021-06-04,Argentina,Moderna,0
+2021-06-04,Argentina,CanSino,0
+2021-06-05,Argentina,Sputnik V,27444
+2021-06-05,Argentina,Pfizer/BioNTech,0
+2021-06-05,Argentina,Sinopharm/Beijing,2035
+2021-06-05,Argentina,Moderna,0
+2021-06-05,Argentina,CanSino,0
+2021-06-06,Argentina,Sputnik V,64398
+2021-06-06,Argentina,Pfizer/BioNTech,0
+2021-06-06,Argentina,Sinopharm/Beijing,9370
+2021-06-06,Argentina,Moderna,0
+2021-06-06,Argentina,CanSino,0
+2021-06-07,Argentina,Sputnik V,84382
+2021-06-07,Argentina,Pfizer/BioNTech,0
+2021-06-07,Argentina,Sinopharm/Beijing,8120
+2021-06-07,Argentina,Moderna,0
+2021-06-07,Argentina,CanSino,0
+2021-06-08,Argentina,Sputnik V,106548
+2021-06-08,Argentina,Pfizer/BioNTech,0
+2021-06-08,Argentina,Sinopharm/Beijing,6800
+2021-06-08,Argentina,Moderna,0
+2021-06-08,Argentina,CanSino,0
+2021-06-09,Argentina,Sputnik V,105146
+2021-06-09,Argentina,Pfizer/BioNTech,1
+2021-06-09,Argentina,Sinopharm/Beijing,6056
+2021-06-09,Argentina,Moderna,1
+2021-06-09,Argentina,CanSino,0
+2021-06-10,Argentina,Sputnik V,171910
+2021-06-10,Argentina,Pfizer/BioNTech,0
+2021-06-10,Argentina,Sinopharm/Beijing,10740
+2021-06-10,Argentina,Moderna,0
+2021-06-10,Argentina,CanSino,0
+2021-06-11,Argentina,Sputnik V,107049
+2021-06-11,Argentina,Pfizer/BioNTech,0
+2021-06-11,Argentina,Sinopharm/Beijing,12085
+2021-06-11,Argentina,Moderna,0
+2021-06-11,Argentina,CanSino,0
+2021-06-12,Argentina,Sputnik V,36212
+2021-06-12,Argentina,Pfizer/BioNTech,0
+2021-06-12,Argentina,Sinopharm/Beijing,1826
+2021-06-12,Argentina,Moderna,0
+2021-06-12,Argentina,CanSino,0
+2021-06-13,Argentina,Sputnik V,100533
+2021-06-13,Argentina,Pfizer/BioNTech,0
+2021-06-13,Argentina,Sinopharm/Beijing,10639
+2021-06-13,Argentina,Moderna,0
+2021-06-13,Argentina,CanSino,0
+2021-06-14,Argentina,Sputnik V,122762
+2021-06-14,Argentina,Pfizer/BioNTech,0
+2021-06-14,Argentina,Sinopharm/Beijing,5786
+2021-06-14,Argentina,Moderna,0
+2021-06-14,Argentina,CanSino,0
+2021-06-15,Argentina,Sputnik V,96618
+2021-06-15,Argentina,Pfizer/BioNTech,1
+2021-06-15,Argentina,Sinopharm/Beijing,4814
+2021-06-15,Argentina,Moderna,0
+2021-06-15,Argentina,CanSino,0
+2021-06-16,Argentina,Sputnik V,78966
+2021-06-16,Argentina,Pfizer/BioNTech,1
+2021-06-16,Argentina,Sinopharm/Beijing,6329
+2021-06-16,Argentina,Moderna,0
+2021-06-16,Argentina,CanSino,0
+2021-06-17,Argentina,Sputnik V,68690
+2021-06-17,Argentina,Pfizer/BioNTech,1
+2021-06-17,Argentina,Sinopharm/Beijing,5902
+2021-06-17,Argentina,Moderna,1
+2021-06-17,Argentina,CanSino,0
+2021-06-18,Argentina,Sputnik V,43508
+2021-06-18,Argentina,Pfizer/BioNTech,0
+2021-06-18,Argentina,Sinopharm/Beijing,2572
+2021-06-18,Argentina,Moderna,0
+2021-06-18,Argentina,CanSino,0
+2021-06-19,Argentina,Sputnik V,20967
+2021-06-19,Argentina,Pfizer/BioNTech,0
+2021-06-19,Argentina,Sinopharm/Beijing,298
+2021-06-19,Argentina,Moderna,0
+2021-06-19,Argentina,CanSino,0
+2021-06-20,Argentina,Sputnik V,30111
+2021-06-20,Argentina,Pfizer/BioNTech,0
+2021-06-20,Argentina,Sinopharm/Beijing,1300
+2021-06-20,Argentina,Moderna,0
+2021-06-20,Argentina,CanSino,0
+2021-06-21,Argentina,Sputnik V,54460
+2021-06-21,Argentina,Pfizer/BioNTech,1
+2021-06-21,Argentina,Sinopharm/Beijing,5951
+2021-06-21,Argentina,Moderna,0
+2021-06-21,Argentina,CanSino,0
+2021-06-22,Argentina,Sputnik V,45002
+2021-06-22,Argentina,Pfizer/BioNTech,0
+2021-06-22,Argentina,Sinopharm/Beijing,24350
+2021-06-22,Argentina,Moderna,0
+2021-06-22,Argentina,CanSino,0
+2021-06-23,Argentina,Sputnik V,56250
+2021-06-23,Argentina,Pfizer/BioNTech,0
+2021-06-23,Argentina,Sinopharm/Beijing,73169
+2021-06-23,Argentina,Moderna,0
+2021-06-23,Argentina,CanSino,0
+2021-06-24,Argentina,Sputnik V,47344
+2021-06-24,Argentina,Pfizer/BioNTech,0
+2021-06-24,Argentina,Sinopharm/Beijing,109881
+2021-06-24,Argentina,Moderna,0
+2021-06-24,Argentina,CanSino,0
+2021-06-25,Argentina,Sputnik V,31274
+2021-06-25,Argentina,Pfizer/BioNTech,0
+2021-06-25,Argentina,Sinopharm/Beijing,91818
+2021-06-25,Argentina,Moderna,0
+2021-06-25,Argentina,CanSino,0
+2021-06-26,Argentina,Sputnik V,19157
+2021-06-26,Argentina,Pfizer/BioNTech,0
+2021-06-26,Argentina,Sinopharm/Beijing,57872
+2021-06-26,Argentina,Moderna,0
+2021-06-26,Argentina,CanSino,0
+2021-06-27,Argentina,Sputnik V,27846
+2021-06-27,Argentina,Pfizer/BioNTech,0
+2021-06-27,Argentina,Sinopharm/Beijing,179482
+2021-06-27,Argentina,Moderna,0
+2021-06-27,Argentina,CanSino,0
+2021-06-28,Argentina,Sputnik V,24050
+2021-06-28,Argentina,Pfizer/BioNTech,0
+2021-06-28,Argentina,Sinopharm/Beijing,172885
+2021-06-28,Argentina,Moderna,0
+2021-06-28,Argentina,CanSino,0
+2021-06-29,Argentina,Sputnik V,17687
+2021-06-29,Argentina,Pfizer/BioNTech,0
+2021-06-29,Argentina,Sinopharm/Beijing,150698
+2021-06-29,Argentina,Moderna,0
+2021-06-29,Argentina,CanSino,0
+2021-06-30,Argentina,Sputnik V,15785
+2021-06-30,Argentina,Pfizer/BioNTech,0
+2021-06-30,Argentina,Sinopharm/Beijing,102994
+2021-06-30,Argentina,Moderna,0
+2021-06-30,Argentina,CanSino,0
+2021-07-01,Argentina,Sputnik V,35225
+2021-07-01,Argentina,Pfizer/BioNTech,0
+2021-07-01,Argentina,Sinopharm/Beijing,112970
+2021-07-01,Argentina,Moderna,0
+2021-07-01,Argentina,CanSino,0
+2021-07-02,Argentina,Sputnik V,99618
+2021-07-02,Argentina,Pfizer/BioNTech,0
+2021-07-02,Argentina,Sinopharm/Beijing,73201
+2021-07-02,Argentina,Moderna,0
+2021-07-02,Argentina,CanSino,0
+2021-07-03,Argentina,Sputnik V,23403
+2021-07-03,Argentina,Pfizer/BioNTech,1
+2021-07-03,Argentina,Sinopharm/Beijing,57199
+2021-07-03,Argentina,Moderna,0
+2021-07-03,Argentina,CanSino,0
+2021-07-04,Argentina,Sputnik V,89695
+2021-07-04,Argentina,Pfizer/BioNTech,0
+2021-07-04,Argentina,Sinopharm/Beijing,60116
+2021-07-04,Argentina,Moderna,0
+2021-07-04,Argentina,CanSino,0
+2021-07-05,Argentina,Sputnik V,118389
+2021-07-05,Argentina,Pfizer/BioNTech,0
+2021-07-05,Argentina,Sinopharm/Beijing,61809
+2021-07-05,Argentina,Moderna,0
+2021-07-05,Argentina,CanSino,0
+2021-07-06,Argentina,Sputnik V,130601
+2021-07-06,Argentina,Pfizer/BioNTech,0
+2021-07-06,Argentina,Sinopharm/Beijing,46978
+2021-07-06,Argentina,Moderna,0
+2021-07-06,Argentina,CanSino,0
+2021-07-07,Argentina,Sputnik V,169625
+2021-07-07,Argentina,Pfizer/BioNTech,0
+2021-07-07,Argentina,Sinopharm/Beijing,108463
+2021-07-07,Argentina,Moderna,0
+2021-07-07,Argentina,CanSino,0
+2021-07-08,Argentina,Sputnik V,182393
+2021-07-08,Argentina,Pfizer/BioNTech,0
+2021-07-08,Argentina,Sinopharm/Beijing,112066
+2021-07-08,Argentina,Moderna,2
+2021-07-08,Argentina,CanSino,0
+2021-07-09,Argentina,Sputnik V,100527
+2021-07-09,Argentina,Pfizer/BioNTech,0
+2021-07-09,Argentina,Sinopharm/Beijing,159604
+2021-07-09,Argentina,Moderna,4
+2021-07-09,Argentina,CanSino,0
+2021-07-10,Argentina,Sputnik V,49129
+2021-07-10,Argentina,Pfizer/BioNTech,0
+2021-07-10,Argentina,Sinopharm/Beijing,64867
+2021-07-10,Argentina,Moderna,2
+2021-07-10,Argentina,CanSino,0
+2021-07-11,Argentina,Sputnik V,121831
+2021-07-11,Argentina,Pfizer/BioNTech,0
+2021-07-11,Argentina,Sinopharm/Beijing,177749
+2021-07-11,Argentina,Moderna,0
+2021-07-11,Argentina,CanSino,0
+2021-07-12,Argentina,Sputnik V,142726
+2021-07-12,Argentina,Pfizer/BioNTech,0
+2021-07-12,Argentina,Sinopharm/Beijing,171084
+2021-07-12,Argentina,Moderna,0
+2021-07-12,Argentina,CanSino,0
+2021-07-13,Argentina,Sputnik V,128955
+2021-07-13,Argentina,Pfizer/BioNTech,1
+2021-07-13,Argentina,Sinopharm/Beijing,200517
+2021-07-13,Argentina,Moderna,0
+2021-07-13,Argentina,CanSino,0
+2021-07-14,Argentina,Sputnik V,123159
+2021-07-14,Argentina,Pfizer/BioNTech,1
+2021-07-14,Argentina,Sinopharm/Beijing,214819
+2021-07-14,Argentina,Moderna,0
+2021-07-14,Argentina,CanSino,0
+2021-07-15,Argentina,Sputnik V,143581
+2021-07-15,Argentina,Pfizer/BioNTech,0
+2021-07-15,Argentina,Sinopharm/Beijing,260018
+2021-07-15,Argentina,Moderna,0
+2021-07-15,Argentina,CanSino,0
+2021-07-16,Argentina,Sputnik V,107876
+2021-07-16,Argentina,Pfizer/BioNTech,0
+2021-07-16,Argentina,Sinopharm/Beijing,174435
+2021-07-16,Argentina,Moderna,0
+2021-07-16,Argentina,CanSino,0
+2021-07-17,Argentina,Sputnik V,38345
+2021-07-17,Argentina,Pfizer/BioNTech,0
+2021-07-17,Argentina,Sinopharm/Beijing,87702
+2021-07-17,Argentina,Moderna,0
+2021-07-17,Argentina,CanSino,0
+2021-07-18,Argentina,Sputnik V,71371
+2021-07-18,Argentina,Pfizer/BioNTech,0
+2021-07-18,Argentina,Sinopharm/Beijing,266210
+2021-07-18,Argentina,Moderna,0
+2021-07-18,Argentina,CanSino,0
+2021-07-19,Argentina,Sputnik V,186711
+2021-07-19,Argentina,Pfizer/BioNTech,0
+2021-07-19,Argentina,Sinopharm/Beijing,193032
+2021-07-19,Argentina,Moderna,12
+2021-07-19,Argentina,CanSino,0
+2021-07-20,Argentina,Sputnik V,89094
+2021-07-20,Argentina,Pfizer/BioNTech,0
+2021-07-20,Argentina,Sinopharm/Beijing,264353
+2021-07-20,Argentina,Moderna,7
+2021-07-20,Argentina,CanSino,0
+2021-07-21,Argentina,Sputnik V,42388
+2021-07-21,Argentina,Pfizer/BioNTech,0
+2021-07-21,Argentina,Sinopharm/Beijing,284350
+2021-07-21,Argentina,Moderna,2
+2021-07-21,Argentina,CanSino,0
+2021-07-22,Argentina,Sputnik V,26950
+2021-07-22,Argentina,Pfizer/BioNTech,0
+2021-07-22,Argentina,Sinopharm/Beijing,307087
+2021-07-22,Argentina,Moderna,3
+2021-07-22,Argentina,CanSino,0
+2021-07-23,Argentina,Sputnik V,17178
+2021-07-23,Argentina,Pfizer/BioNTech,0
+2021-07-23,Argentina,Sinopharm/Beijing,159573
+2021-07-23,Argentina,Moderna,2
+2021-07-23,Argentina,CanSino,0
+2021-07-24,Argentina,Sputnik V,8757
+2021-07-24,Argentina,Pfizer/BioNTech,0
+2021-07-24,Argentina,Sinopharm/Beijing,113526
+2021-07-24,Argentina,Moderna,17
+2021-07-24,Argentina,CanSino,0
+2021-07-25,Argentina,Sputnik V,26877
+2021-07-25,Argentina,Pfizer/BioNTech,0
+2021-07-25,Argentina,Sinopharm/Beijing,277308
+2021-07-25,Argentina,Moderna,4
+2021-07-25,Argentina,CanSino,0
+2021-07-26,Argentina,Sputnik V,15376
+2021-07-26,Argentina,Pfizer/BioNTech,0
+2021-07-26,Argentina,Sinopharm/Beijing,242350
+2021-07-26,Argentina,Moderna,27
+2021-07-26,Argentina,CanSino,0
+2021-07-27,Argentina,Sputnik V,15617
+2021-07-27,Argentina,Pfizer/BioNTech,0
+2021-07-27,Argentina,Sinopharm/Beijing,285192
+2021-07-27,Argentina,Moderna,32
+2021-07-27,Argentina,CanSino,0
+2021-07-28,Argentina,Sputnik V,16209
+2021-07-28,Argentina,Pfizer/BioNTech,0
+2021-07-28,Argentina,Sinopharm/Beijing,290097
+2021-07-28,Argentina,Moderna,15
+2021-07-28,Argentina,CanSino,0
+2021-07-29,Argentina,Sputnik V,14169
+2021-07-29,Argentina,Pfizer/BioNTech,0
+2021-07-29,Argentina,Sinopharm/Beijing,301188
+2021-07-29,Argentina,Moderna,135
+2021-07-29,Argentina,CanSino,0
+2021-07-30,Argentina,Sputnik V,7486
+2021-07-30,Argentina,Pfizer/BioNTech,0
+2021-07-30,Argentina,Sinopharm/Beijing,204068
+2021-07-30,Argentina,Moderna,1692
+2021-07-30,Argentina,CanSino,0
+2021-07-31,Argentina,Sputnik V,6418
+2021-07-31,Argentina,Pfizer/BioNTech,0
+2021-07-31,Argentina,Sinopharm/Beijing,131328
+2021-07-31,Argentina,Moderna,277
+2021-07-31,Argentina,CanSino,0
+2021-08-01,Argentina,Sputnik V,12222
+2021-08-01,Argentina,Pfizer/BioNTech,1
+2021-08-01,Argentina,Sinopharm/Beijing,313319
+2021-08-01,Argentina,Moderna,3701
+2021-08-01,Argentina,CanSino,0
+2021-08-02,Argentina,Sputnik V,12069
+2021-08-02,Argentina,Pfizer/BioNTech,0
+2021-08-02,Argentina,Sinopharm/Beijing,212676
+2021-08-02,Argentina,Moderna,49700
+2021-08-02,Argentina,CanSino,0
+2021-08-03,Argentina,Sputnik V,12466
+2021-08-03,Argentina,Pfizer/BioNTech,0
+2021-08-03,Argentina,Sinopharm/Beijing,240908
+2021-08-03,Argentina,Moderna,21558
+2021-08-03,Argentina,CanSino,0
+2021-08-04,Argentina,Sputnik V,14278
+2021-08-04,Argentina,Pfizer/BioNTech,0
+2021-08-04,Argentina,Sinopharm/Beijing,229129
+2021-08-04,Argentina,Moderna,18703
+2021-08-04,Argentina,CanSino,0
+2021-08-05,Argentina,Sputnik V,7536
+2021-08-05,Argentina,Pfizer/BioNTech,0
+2021-08-05,Argentina,Sinopharm/Beijing,230401
+2021-08-05,Argentina,Moderna,21193
+2021-08-05,Argentina,CanSino,0
+2021-08-06,Argentina,Sputnik V,5651
+2021-08-06,Argentina,Pfizer/BioNTech,1
+2021-08-06,Argentina,Sinopharm/Beijing,148920
+2021-08-06,Argentina,Moderna,41759
+2021-08-06,Argentina,CanSino,0
+2021-08-07,Argentina,Sputnik V,3302
+2021-08-07,Argentina,Pfizer/BioNTech,1
+2021-08-07,Argentina,Sinopharm/Beijing,96993
+2021-08-07,Argentina,Moderna,39052
+2021-08-07,Argentina,CanSino,0
+2021-08-08,Argentina,Sputnik V,10412
+2021-08-08,Argentina,Pfizer/BioNTech,1
+2021-08-08,Argentina,Sinopharm/Beijing,94075
+2021-08-08,Argentina,Moderna,170910
+2021-08-08,Argentina,CanSino,0
+2021-08-09,Argentina,Sputnik V,8783
+2021-08-09,Argentina,Pfizer/BioNTech,0
+2021-08-09,Argentina,Sinopharm/Beijing,88060
+2021-08-09,Argentina,Moderna,164623
+2021-08-09,Argentina,CanSino,0
+2021-08-10,Argentina,Sputnik V,9562
+2021-08-10,Argentina,Pfizer/BioNTech,0
+2021-08-10,Argentina,Sinopharm/Beijing,82021
+2021-08-10,Argentina,Moderna,180816
+2021-08-10,Argentina,CanSino,0
+2021-08-11,Argentina,Sputnik V,24923
+2021-08-11,Argentina,Pfizer/BioNTech,2
+2021-08-11,Argentina,Sinopharm/Beijing,92982
+2021-08-11,Argentina,Moderna,137495
+2021-08-11,Argentina,CanSino,0
+2021-08-12,Argentina,Sputnik V,93454
+2021-08-12,Argentina,Pfizer/BioNTech,0
+2021-08-12,Argentina,Sinopharm/Beijing,95844
+2021-08-12,Argentina,Moderna,105987
+2021-08-12,Argentina,CanSino,1
+2021-08-13,Argentina,Sputnik V,55964
+2021-08-13,Argentina,Pfizer/BioNTech,0
+2021-08-13,Argentina,Sinopharm/Beijing,35164
+2021-08-13,Argentina,Moderna,76445
+2021-08-13,Argentina,CanSino,1
+2021-08-14,Argentina,Sputnik V,21700
+2021-08-14,Argentina,Pfizer/BioNTech,0
+2021-08-14,Argentina,Sinopharm/Beijing,14550
+2021-08-14,Argentina,Moderna,38768
+2021-08-14,Argentina,CanSino,1
+2021-08-15,Argentina,Sputnik V,69340
+2021-08-15,Argentina,Pfizer/BioNTech,0
+2021-08-15,Argentina,Sinopharm/Beijing,17618
+2021-08-15,Argentina,Moderna,75452
+2021-08-15,Argentina,CanSino,1
+2021-08-16,Argentina,Sputnik V,139581
+2021-08-16,Argentina,Pfizer/BioNTech,0
+2021-08-16,Argentina,Sinopharm/Beijing,72491
+2021-08-16,Argentina,Moderna,160996
+2021-08-16,Argentina,CanSino,1
+2021-08-17,Argentina,Sputnik V,123800
+2021-08-17,Argentina,Pfizer/BioNTech,0
+2021-08-17,Argentina,Sinopharm/Beijing,78253
+2021-08-17,Argentina,Moderna,159303
+2021-08-17,Argentina,CanSino,1
+2021-08-18,Argentina,Sputnik V,140653
+2021-08-18,Argentina,Pfizer/BioNTech,0
+2021-08-18,Argentina,Sinopharm/Beijing,64585
+2021-08-18,Argentina,Moderna,108083
+2021-08-18,Argentina,CanSino,1
+2021-08-19,Argentina,Sputnik V,144340
+2021-08-19,Argentina,Pfizer/BioNTech,0
+2021-08-19,Argentina,Sinopharm/Beijing,63217
+2021-08-19,Argentina,Moderna,78387
+2021-08-19,Argentina,CanSino,1
+2021-08-20,Argentina,Sputnik V,74195
+2021-08-20,Argentina,Pfizer/BioNTech,0
+2021-08-20,Argentina,Sinopharm/Beijing,34345
+2021-08-20,Argentina,Moderna,23073
+2021-08-20,Argentina,CanSino,1
+2021-08-21,Argentina,Sputnik V,30450
+2021-08-21,Argentina,Pfizer/BioNTech,0
+2021-08-21,Argentina,Sinopharm/Beijing,40675
+2021-08-21,Argentina,Moderna,11868
+2021-08-21,Argentina,CanSino,1
+2021-08-22,Argentina,Sputnik V,94425
+2021-08-22,Argentina,Pfizer/BioNTech,0
+2021-08-22,Argentina,Sinopharm/Beijing,142247
+2021-08-22,Argentina,Moderna,41206
+2021-08-22,Argentina,CanSino,1
+2021-08-23,Argentina,Sputnik V,75232
+2021-08-23,Argentina,Pfizer/BioNTech,0
+2021-08-23,Argentina,Sinopharm/Beijing,188459
+2021-08-23,Argentina,Moderna,37483
+2021-08-23,Argentina,CanSino,1
+2021-08-24,Argentina,Sputnik V,56183
+2021-08-24,Argentina,Pfizer/BioNTech,0
+2021-08-24,Argentina,Sinopharm/Beijing,177914
+2021-08-24,Argentina,Moderna,29851
+2021-08-24,Argentina,CanSino,1
+2021-08-25,Argentina,Sputnik V,53477
+2021-08-25,Argentina,Pfizer/BioNTech,1
+2021-08-25,Argentina,Sinopharm/Beijing,168841
+2021-08-25,Argentina,Moderna,70562
+2021-08-25,Argentina,CanSino,1
+2021-08-26,Argentina,Sputnik V,44486
+2021-08-26,Argentina,Pfizer/BioNTech,0
+2021-08-26,Argentina,Sinopharm/Beijing,218672
+2021-08-26,Argentina,Moderna,58691
+2021-08-26,Argentina,CanSino,1
+2021-08-27,Argentina,Sputnik V,21591
+2021-08-27,Argentina,Pfizer/BioNTech,0
+2021-08-27,Argentina,Sinopharm/Beijing,131151
+2021-08-27,Argentina,Moderna,37358
+2021-08-27,Argentina,CanSino,1
+2021-08-28,Argentina,Sputnik V,32511
+2021-08-28,Argentina,Pfizer/BioNTech,0
+2021-08-28,Argentina,Sinopharm/Beijing,82926
+2021-08-28,Argentina,Moderna,19997
+2021-08-28,Argentina,CanSino,1
+2021-08-29,Argentina,Sputnik V,86078
+2021-08-29,Argentina,Pfizer/BioNTech,0
+2021-08-29,Argentina,Sinopharm/Beijing,160219
+2021-08-29,Argentina,Moderna,49271
+2021-08-29,Argentina,CanSino,1
+2021-08-30,Argentina,Sputnik V,135769
+2021-08-30,Argentina,Pfizer/BioNTech,0
+2021-08-30,Argentina,Sinopharm/Beijing,137803
+2021-08-30,Argentina,Moderna,66624
+2021-08-30,Argentina,CanSino,1
+2021-08-31,Argentina,Sputnik V,120465
+2021-08-31,Argentina,Pfizer/BioNTech,0
+2021-08-31,Argentina,Sinopharm/Beijing,151894
+2021-08-31,Argentina,Moderna,73041
+2021-08-31,Argentina,CanSino,1
+2021-09-01,Argentina,Sputnik V,106778
+2021-09-01,Argentina,Pfizer/BioNTech,0
+2021-09-01,Argentina,Sinopharm/Beijing,197571
+2021-09-01,Argentina,Moderna,63460
+2021-09-01,Argentina,CanSino,1
+2021-09-02,Argentina,Sputnik V,93335
+2021-09-02,Argentina,Pfizer/BioNTech,0
+2021-09-02,Argentina,Sinopharm/Beijing,198186
+2021-09-02,Argentina,Moderna,62290
+2021-09-02,Argentina,CanSino,1
+2021-09-03,Argentina,Sputnik V,68292
+2021-09-03,Argentina,Pfizer/BioNTech,0
+2021-09-03,Argentina,Sinopharm/Beijing,132613
+2021-09-03,Argentina,Moderna,36485
+2021-09-03,Argentina,CanSino,1
+2021-09-04,Argentina,Sputnik V,41776
+2021-09-04,Argentina,Pfizer/BioNTech,0
+2021-09-04,Argentina,Sinopharm/Beijing,76487
+2021-09-04,Argentina,Moderna,17461
+2021-09-04,Argentina,CanSino,1
+2021-09-05,Argentina,Sputnik V,79652
+2021-09-05,Argentina,Pfizer/BioNTech,0
+2021-09-05,Argentina,Sinopharm/Beijing,146143
+2021-09-05,Argentina,Moderna,52996
+2021-09-05,Argentina,CanSino,1
+2021-09-06,Argentina,Sputnik V,83756
+2021-09-06,Argentina,Pfizer/BioNTech,0
+2021-09-06,Argentina,Sinopharm/Beijing,145110
+2021-09-06,Argentina,Moderna,50584
+2021-09-06,Argentina,CanSino,1
+2021-09-07,Argentina,Sputnik V,75312
+2021-09-07,Argentina,Pfizer/BioNTech,0
+2021-09-07,Argentina,Sinopharm/Beijing,117641
+2021-09-07,Argentina,Moderna,39884
+2021-09-07,Argentina,CanSino,40
+2021-09-08,Argentina,Sputnik V,92607
+2021-09-08,Argentina,Pfizer/BioNTech,1
+2021-09-08,Argentina,Sinopharm/Beijing,133322
+2021-09-08,Argentina,Moderna,34058
+2021-09-08,Argentina,CanSino,7
+2021-09-09,Argentina,Sputnik V,73064
+2021-09-09,Argentina,Pfizer/BioNTech,0
+2021-09-09,Argentina,Sinopharm/Beijing,144177
+2021-09-09,Argentina,Moderna,34504
+2021-09-09,Argentina,CanSino,4
+2021-09-10,Argentina,Sputnik V,29903
+2021-09-10,Argentina,Pfizer/BioNTech,0
+2021-09-10,Argentina,Sinopharm/Beijing,35011
+2021-09-10,Argentina,Moderna,12087
+2021-09-10,Argentina,CanSino,275
+2021-09-11,Argentina,Sputnik V,903
+2021-09-11,Argentina,Pfizer/BioNTech,2
+2021-09-11,Argentina,Sinopharm/Beijing,3372
+2021-09-11,Argentina,Moderna,921
+2021-09-11,Argentina,CanSino,373
+2021-09-12,Argentina,Sputnik V,38269
+2021-09-12,Argentina,Pfizer/BioNTech,1
+2021-09-12,Argentina,Sinopharm/Beijing,58976
+2021-09-12,Argentina,Moderna,24633
+2021-09-12,Argentina,CanSino,14157
+2021-09-13,Argentina,Sputnik V,44727
+2021-09-13,Argentina,Pfizer/BioNTech,133
+2021-09-13,Argentina,Sinopharm/Beijing,60547
+2021-09-13,Argentina,Moderna,47454
+2021-09-13,Argentina,CanSino,1200
+2021-09-14,Argentina,Sputnik V,189445
+2021-09-14,Argentina,Pfizer/BioNTech,69
+2021-09-14,Argentina,Sinopharm/Beijing,54412
+2021-09-14,Argentina,Moderna,39221
+2021-09-14,Argentina,CanSino,1130
+2021-09-15,Argentina,Sputnik V,95758
+2021-09-15,Argentina,Pfizer/BioNTech,4673
+2021-09-15,Argentina,Sinopharm/Beijing,49635
+2021-09-15,Argentina,Moderna,30136
+2021-09-15,Argentina,CanSino,1326
+2021-09-16,Argentina,Sputnik V,122845
+2021-09-16,Argentina,Pfizer/BioNTech,5159
+2021-09-16,Argentina,Sinopharm/Beijing,93021
+2021-09-16,Argentina,Moderna,20879
+2021-09-16,Argentina,CanSino,8589
+2021-09-17,Argentina,Sputnik V,126752
+2021-09-17,Argentina,Pfizer/BioNTech,8383
+2021-09-17,Argentina,Sinopharm/Beijing,44679
+2021-09-17,Argentina,Moderna,14002
+2021-09-17,Argentina,CanSino,473
+2021-09-18,Argentina,Sputnik V,16198
+2021-09-18,Argentina,Pfizer/BioNTech,1000
+2021-09-18,Argentina,Sinopharm/Beijing,31723
+2021-09-18,Argentina,Moderna,18803
+2021-09-18,Argentina,CanSino,44
+2021-09-19,Argentina,Sputnik V,216386
+2021-09-19,Argentina,Pfizer/BioNTech,2410
+2021-09-19,Argentina,Sinopharm/Beijing,54325
+2021-09-19,Argentina,Moderna,19908
+2021-09-19,Argentina,CanSino,2496
+2021-09-20,Argentina,Sputnik V,189267
+2021-09-20,Argentina,Pfizer/BioNTech,1285
+2021-09-20,Argentina,Sinopharm/Beijing,69773
+2021-09-20,Argentina,Moderna,10673
+2021-09-20,Argentina,CanSino,2497
+2021-09-21,Argentina,Sputnik V,55739
+2021-09-21,Argentina,Pfizer/BioNTech,3164
+2021-09-21,Argentina,Sinopharm/Beijing,80812
+2021-09-21,Argentina,Moderna,28721
+2021-09-21,Argentina,CanSino,3289
+2021-09-22,Argentina,Sputnik V,41572
+2021-09-22,Argentina,Pfizer/BioNTech,77532
+2021-09-22,Argentina,Sinopharm/Beijing,72672
+2021-09-22,Argentina,Moderna,79763
+2021-09-22,Argentina,CanSino,3876
+2021-09-23,Argentina,Sputnik V,33052
+2021-09-23,Argentina,Pfizer/BioNTech,25057
+2021-09-23,Argentina,Sinopharm/Beijing,53825
+2021-09-23,Argentina,Moderna,20401
+2021-09-23,Argentina,CanSino,4291
+2021-09-24,Argentina,Sputnik V,20317
+2021-09-24,Argentina,Pfizer/BioNTech,6504
+2021-09-24,Argentina,Sinopharm/Beijing,67519
+2021-09-24,Argentina,Moderna,7609
+2021-09-24,Argentina,CanSino,2519
+2021-09-25,Argentina,Sputnik V,6375
+2021-09-25,Argentina,Pfizer/BioNTech,1332
+2021-09-25,Argentina,Sinopharm/Beijing,34421
+2021-09-25,Argentina,Moderna,4914
+2021-09-25,Argentina,CanSino,620
+2021-09-26,Argentina,Sputnik V,38092
+2021-09-26,Argentina,Pfizer/BioNTech,7373
+2021-09-26,Argentina,Sinopharm/Beijing,103817
+2021-09-26,Argentina,Moderna,23373
+2021-09-26,Argentina,CanSino,5633
+2021-09-27,Argentina,Sputnik V,61727
+2021-09-27,Argentina,Pfizer/BioNTech,7233
+2021-09-27,Argentina,Sinopharm/Beijing,102074
+2021-09-27,Argentina,Moderna,23896
+2021-09-27,Argentina,CanSino,5315
+2021-09-28,Argentina,Sputnik V,64883
+2021-09-28,Argentina,Pfizer/BioNTech,9693
+2021-09-28,Argentina,Sinopharm/Beijing,84424
+2021-09-28,Argentina,Moderna,21612
+2021-09-28,Argentina,CanSino,3919
+2021-09-29,Argentina,Sputnik V,128024
+2021-09-29,Argentina,Pfizer/BioNTech,26487
+2021-09-29,Argentina,Sinopharm/Beijing,81167
+2021-09-29,Argentina,Moderna,17782
+2021-09-29,Argentina,CanSino,3245
+2021-09-30,Argentina,Sputnik V,71670
+2021-09-30,Argentina,Pfizer/BioNTech,22016
+2021-09-30,Argentina,Sinopharm/Beijing,47805
+2021-09-30,Argentina,Moderna,17217
+2021-09-30,Argentina,CanSino,3781
+2021-10-01,Argentina,Sputnik V,42362
+2021-10-01,Argentina,Pfizer/BioNTech,8504
+2021-10-01,Argentina,Sinopharm/Beijing,20376
+2021-10-01,Argentina,Moderna,5419
+2021-10-01,Argentina,CanSino,1158
+2021-10-02,Argentina,Sputnik V,25130
+2021-10-02,Argentina,Pfizer/BioNTech,6173
+2021-10-02,Argentina,Sinopharm/Beijing,7279
+2021-10-02,Argentina,Moderna,3463
+2021-10-02,Argentina,CanSino,167
+2021-10-03,Argentina,Sputnik V,55374
+2021-10-03,Argentina,Pfizer/BioNTech,16048
+2021-10-03,Argentina,Sinopharm/Beijing,83338
+2021-10-03,Argentina,Moderna,13593
+2021-10-03,Argentina,CanSino,2771
+2021-10-04,Argentina,Sputnik V,79746
+2021-10-04,Argentina,Pfizer/BioNTech,63706
+2021-10-04,Argentina,Sinopharm/Beijing,39396
+2021-10-04,Argentina,Moderna,16262
+2021-10-04,Argentina,CanSino,3642
+2021-10-05,Argentina,Sputnik V,83398
+2021-10-05,Argentina,Pfizer/BioNTech,24262
+2021-10-05,Argentina,Sinopharm/Beijing,40309
+2021-10-05,Argentina,Moderna,11607
+2021-10-05,Argentina,CanSino,3930
+2021-10-06,Argentina,Sputnik V,51105
+2021-10-06,Argentina,Pfizer/BioNTech,44613
+2021-10-06,Argentina,Sinopharm/Beijing,36219
+2021-10-06,Argentina,Moderna,30263
+2021-10-06,Argentina,CanSino,2697
+2021-10-07,Argentina,Sputnik V,35016
+2021-10-07,Argentina,Pfizer/BioNTech,14987
+2021-10-07,Argentina,Sinopharm/Beijing,13751
+2021-10-07,Argentina,Moderna,5558
+2021-10-07,Argentina,CanSino,910
+2021-10-08,Argentina,Sputnik V,42893
+2021-10-08,Argentina,Pfizer/BioNTech,3893
+2021-10-08,Argentina,Sinopharm/Beijing,21089
+2021-10-08,Argentina,Moderna,5285
+2021-10-08,Argentina,CanSino,817
+2021-10-09,Argentina,Sputnik V,29108
+2021-10-09,Argentina,Pfizer/BioNTech,2342
+2021-10-09,Argentina,Sinopharm/Beijing,20118
+2021-10-09,Argentina,Moderna,2561
+2021-10-09,Argentina,CanSino,243
+2021-10-10,Argentina,Sputnik V,17725
+2021-10-10,Argentina,Pfizer/BioNTech,3888
+2021-10-10,Argentina,Sinopharm/Beijing,29683
+2021-10-10,Argentina,Moderna,3437
+2021-10-10,Argentina,CanSino,230
+2021-10-11,Argentina,Sputnik V,54626
+2021-10-11,Argentina,Pfizer/BioNTech,36157
+2021-10-11,Argentina,Sinopharm/Beijing,171404
+2021-10-11,Argentina,Moderna,41871
+2021-10-11,Argentina,CanSino,2173
+2021-10-12,Argentina,Sputnik V,59581
+2021-10-12,Argentina,Pfizer/BioNTech,46689
+2021-10-12,Argentina,Sinopharm/Beijing,218265
+2021-10-12,Argentina,Moderna,14607
+2021-10-12,Argentina,CanSino,2117
+2021-10-13,Argentina,Sputnik V,94870
+2021-10-13,Argentina,Pfizer/BioNTech,73285
+2021-10-13,Argentina,Sinopharm/Beijing,203465
+2021-10-13,Argentina,Moderna,8873
+2021-10-13,Argentina,CanSino,2287
+2021-10-14,Argentina,Sputnik V,108599
+2021-10-14,Argentina,Pfizer/BioNTech,90050
+2021-10-14,Argentina,Sinopharm/Beijing,180758
+2021-10-14,Argentina,Moderna,8936
+2021-10-14,Argentina,CanSino,2598
+2021-10-15,Argentina,Sputnik V,80472
+2021-10-15,Argentina,Pfizer/BioNTech,99026
+2021-10-15,Argentina,Sinopharm/Beijing,54794
+2021-10-15,Argentina,Moderna,4792
+2021-10-15,Argentina,CanSino,760
+2021-10-16,Argentina,Sputnik V,39267
+2021-10-16,Argentina,Pfizer/BioNTech,41620
+2021-10-16,Argentina,Sinopharm/Beijing,15364
+2021-10-16,Argentina,Moderna,2619
+2021-10-16,Argentina,CanSino,85
+2021-10-17,Argentina,Sputnik V,50992
+2021-10-17,Argentina,Pfizer/BioNTech,214458
+2021-10-17,Argentina,Sinopharm/Beijing,117547
+2021-10-17,Argentina,Moderna,12129
+2021-10-17,Argentina,CanSino,2270
+2021-10-18,Argentina,Sputnik V,54235
+2021-10-18,Argentina,Pfizer/BioNTech,187626
+2021-10-18,Argentina,Sinopharm/Beijing,138170
+2021-10-18,Argentina,Moderna,8372
+2021-10-18,Argentina,CanSino,2801
+2021-10-19,Argentina,Sputnik V,49930
+2021-10-19,Argentina,Pfizer/BioNTech,176972
+2021-10-19,Argentina,Sinopharm/Beijing,145037
+2021-10-19,Argentina,Moderna,8043
+2021-10-19,Argentina,CanSino,2592
+2021-10-20,Argentina,Sputnik V,41350
+2021-10-20,Argentina,Pfizer/BioNTech,142654
+2021-10-20,Argentina,Sinopharm/Beijing,158930
+2021-10-20,Argentina,Moderna,40378
+2021-10-20,Argentina,CanSino,2731
+2021-10-21,Argentina,Sputnik V,44351
+2021-10-21,Argentina,Pfizer/BioNTech,108925
+2021-10-21,Argentina,Sinopharm/Beijing,257672
+2021-10-21,Argentina,Moderna,19614
+2021-10-21,Argentina,CanSino,2077
+2021-10-22,Argentina,Sputnik V,29079
+2021-10-22,Argentina,Pfizer/BioNTech,38368
+2021-10-22,Argentina,Sinopharm/Beijing,128097
+2021-10-22,Argentina,Moderna,5836
+2021-10-22,Argentina,CanSino,526
+2021-10-23,Argentina,Sputnik V,11955
+2021-10-23,Argentina,Pfizer/BioNTech,13868
+2021-10-23,Argentina,Sinopharm/Beijing,111523
+2021-10-23,Argentina,Moderna,1693
+2021-10-23,Argentina,CanSino,136
+2021-10-24,Argentina,Sputnik V,55983
+2021-10-24,Argentina,Pfizer/BioNTech,72652
+2021-10-24,Argentina,Sinopharm/Beijing,185117
+2021-10-24,Argentina,Moderna,9340
+2021-10-24,Argentina,CanSino,1631
+2021-10-25,Argentina,Sputnik V,54364
+2021-10-25,Argentina,Pfizer/BioNTech,161312
+2021-10-25,Argentina,Sinopharm/Beijing,154049
+2021-10-25,Argentina,Moderna,7943
+2021-10-25,Argentina,CanSino,1768
+2021-10-26,Argentina,Sputnik V,43415
+2021-10-26,Argentina,Pfizer/BioNTech,80532
+2021-10-26,Argentina,Sinopharm/Beijing,163025
+2021-10-26,Argentina,Moderna,8079
+2021-10-26,Argentina,CanSino,1743
+2021-10-27,Argentina,Sputnik V,44279
+2021-10-27,Argentina,Pfizer/BioNTech,91191
+2021-10-27,Argentina,Sinopharm/Beijing,156879
+2021-10-27,Argentina,Moderna,14926
+2021-10-27,Argentina,CanSino,1476
+2021-10-28,Argentina,Sputnik V,43575
+2021-10-28,Argentina,Pfizer/BioNTech,68999
+2021-10-28,Argentina,Sinopharm/Beijing,144964
+2021-10-28,Argentina,Moderna,14002
+2021-10-28,Argentina,CanSino,1667
+2021-10-29,Argentina,Sputnik V,19022
+2021-10-29,Argentina,Pfizer/BioNTech,27675
+2021-10-29,Argentina,Sinopharm/Beijing,50011
+2021-10-29,Argentina,Moderna,3216
+2021-10-29,Argentina,CanSino,285
+2021-10-30,Argentina,Sputnik V,10543
+2021-10-30,Argentina,Pfizer/BioNTech,33736
+2021-10-30,Argentina,Sinopharm/Beijing,90187
+2021-10-30,Argentina,Moderna,2386
+2021-10-30,Argentina,CanSino,135
+2021-10-31,Argentina,Sputnik V,39046
+2021-10-31,Argentina,Pfizer/BioNTech,78468
+2021-10-31,Argentina,Sinopharm/Beijing,120053
+2021-10-31,Argentina,Moderna,7707
+2021-10-31,Argentina,CanSino,1559
+2021-11-01,Argentina,Sputnik V,26137
+2021-11-01,Argentina,Pfizer/BioNTech,67047
+2021-11-01,Argentina,Sinopharm/Beijing,147785
+2021-11-01,Argentina,Moderna,12200
+2021-11-01,Argentina,CanSino,1813
+2021-11-02,Argentina,Sputnik V,25364
+2021-11-02,Argentina,Pfizer/BioNTech,60936
+2021-11-02,Argentina,Sinopharm/Beijing,190045
+2021-11-02,Argentina,Moderna,7723
+2021-11-02,Argentina,CanSino,1913
+2021-11-03,Argentina,Sputnik V,25861
+2021-11-03,Argentina,Pfizer/BioNTech,64314
+2021-11-03,Argentina,Sinopharm/Beijing,207831
+2021-11-03,Argentina,Moderna,7806
+2021-11-03,Argentina,CanSino,1820
+2021-11-04,Argentina,Sputnik V,23109
+2021-11-04,Argentina,Pfizer/BioNTech,63427
+2021-11-04,Argentina,Sinopharm/Beijing,149366
+2021-11-04,Argentina,Moderna,5794
+2021-11-04,Argentina,CanSino,1402
+2021-11-05,Argentina,Sputnik V,9764
+2021-11-05,Argentina,Pfizer/BioNTech,58395
+2021-11-05,Argentina,Sinopharm/Beijing,63871
+2021-11-05,Argentina,Moderna,3612
+2021-11-05,Argentina,CanSino,569
+2021-11-06,Argentina,Sputnik V,5523
+2021-11-06,Argentina,Pfizer/BioNTech,47222
+2021-11-06,Argentina,Sinopharm/Beijing,54523
+2021-11-06,Argentina,Moderna,1105
+2021-11-06,Argentina,CanSino,171
+2021-11-07,Argentina,Sputnik V,20010
+2021-11-07,Argentina,Pfizer/BioNTech,60070
+2021-11-07,Argentina,Sinopharm/Beijing,104606
+2021-11-07,Argentina,Moderna,4030
+2021-11-07,Argentina,CanSino,1181
+2021-11-08,Argentina,Sputnik V,22434
+2021-11-08,Argentina,Pfizer/BioNTech,74600
+2021-11-08,Argentina,Sinopharm/Beijing,169706
+2021-11-08,Argentina,Moderna,11748
+2021-11-08,Argentina,CanSino,1280
+2021-11-09,Argentina,Sputnik V,19369
+2021-11-09,Argentina,Pfizer/BioNTech,65859
+2021-11-09,Argentina,Sinopharm/Beijing,107917
+2021-11-09,Argentina,Moderna,5582
+2021-11-09,Argentina,CanSino,1212
+2021-11-10,Argentina,Sputnik V,21338
+2021-11-10,Argentina,Pfizer/BioNTech,63139
+2021-11-10,Argentina,Sinopharm/Beijing,113961
+2021-11-10,Argentina,Moderna,5183
+2021-11-10,Argentina,CanSino,1287
+2021-11-11,Argentina,Sputnik V,21437
+2021-11-11,Argentina,Pfizer/BioNTech,82234
+2021-11-11,Argentina,Sinopharm/Beijing,126120
+2021-11-11,Argentina,Moderna,5966
+2021-11-11,Argentina,CanSino,1038
+2021-11-12,Argentina,Sputnik V,10847
+2021-11-12,Argentina,Pfizer/BioNTech,31188
+2021-11-12,Argentina,Sinopharm/Beijing,48194
+2021-11-12,Argentina,Moderna,2843
+2021-11-12,Argentina,CanSino,224
+2021-11-13,Argentina,Sputnik V,570
+2021-11-13,Argentina,Pfizer/BioNTech,1559
+2021-11-13,Argentina,Sinopharm/Beijing,4972
+2021-11-13,Argentina,Moderna,279
+2021-11-13,Argentina,CanSino,8
+2021-11-14,Argentina,Sputnik V,17271
+2021-11-14,Argentina,Pfizer/BioNTech,122175
+2021-11-14,Argentina,Sinopharm/Beijing,97948
+2021-11-14,Argentina,Moderna,9424
+2021-11-14,Argentina,CanSino,860
+2021-11-15,Argentina,Sputnik V,21501
+2021-11-15,Argentina,Pfizer/BioNTech,125867
+2021-11-15,Argentina,Sinopharm/Beijing,128589
+2021-11-15,Argentina,Moderna,6774
+2021-11-15,Argentina,CanSino,968
+2021-11-16,Argentina,Sputnik V,17548
+2021-11-16,Argentina,Pfizer/BioNTech,124144
+2021-11-16,Argentina,Sinopharm/Beijing,125564
+2021-11-16,Argentina,Moderna,5062
+2021-11-16,Argentina,CanSino,1008
+2021-11-17,Argentina,Sputnik V,15291
+2021-11-17,Argentina,Pfizer/BioNTech,97766
+2021-11-17,Argentina,Sinopharm/Beijing,149566
+2021-11-17,Argentina,Moderna,5536
+2021-11-17,Argentina,CanSino,1097
+2021-11-18,Argentina,Sputnik V,17719
+2021-11-18,Argentina,Pfizer/BioNTech,64692
+2021-11-18,Argentina,Sinopharm/Beijing,213744
+2021-11-18,Argentina,Moderna,5317
+2021-11-18,Argentina,CanSino,1028
+2021-11-19,Argentina,Sputnik V,7177
+2021-11-19,Argentina,Pfizer/BioNTech,25866
+2021-11-19,Argentina,Sinopharm/Beijing,83440
+2021-11-19,Argentina,Moderna,2229
+2021-11-19,Argentina,CanSino,162
+2021-11-20,Argentina,Sputnik V,3017
+2021-11-20,Argentina,Pfizer/BioNTech,10090
+2021-11-20,Argentina,Sinopharm/Beijing,52993
+2021-11-20,Argentina,Moderna,793
+2021-11-20,Argentina,CanSino,73
+2021-11-21,Argentina,Sputnik V,4305
+2021-11-21,Argentina,Pfizer/BioNTech,19806
+2021-11-21,Argentina,Sinopharm/Beijing,53099
+2021-11-21,Argentina,Moderna,1059
+2021-11-21,Argentina,CanSino,101
+2021-11-22,Argentina,Sputnik V,15255
+2021-11-22,Argentina,Pfizer/BioNTech,79068
+2021-11-22,Argentina,Sinopharm/Beijing,148255
+2021-11-22,Argentina,Moderna,3840
+2021-11-22,Argentina,CanSino,941
+2021-11-23,Argentina,Sputnik V,17535
+2021-11-23,Argentina,Pfizer/BioNTech,74248
+2021-11-23,Argentina,Sinopharm/Beijing,154447
+2021-11-23,Argentina,Moderna,4511
+2021-11-23,Argentina,CanSino,931
+2021-11-24,Argentina,Sputnik V,16974
+2021-11-24,Argentina,Pfizer/BioNTech,72579
+2021-11-24,Argentina,Sinopharm/Beijing,129707
+2021-11-24,Argentina,Moderna,3800
+2021-11-24,Argentina,CanSino,938
+2021-11-25,Argentina,Sputnik V,17293
+2021-11-25,Argentina,Pfizer/BioNTech,71163
+2021-11-25,Argentina,Sinopharm/Beijing,132714
+2021-11-25,Argentina,Moderna,5942
+2021-11-25,Argentina,CanSino,1187
+2021-11-26,Argentina,Sputnik V,8634
+2021-11-26,Argentina,Pfizer/BioNTech,28663
+2021-11-26,Argentina,Sinopharm/Beijing,63535
+2021-11-26,Argentina,Moderna,4511
+2021-11-26,Argentina,CanSino,264
+2021-11-27,Argentina,Sputnik V,4258
+2021-11-27,Argentina,Pfizer/BioNTech,15393
+2021-11-27,Argentina,Sinopharm/Beijing,40146
+2021-11-27,Argentina,Moderna,2543
+2021-11-27,Argentina,CanSino,129
+2021-11-28,Argentina,Sputnik V,21627
+2021-11-28,Argentina,Pfizer/BioNTech,57252
+2021-11-28,Argentina,Sinopharm/Beijing,150471
+2021-11-28,Argentina,Moderna,6583
+2021-11-28,Argentina,CanSino,1253
+2021-11-29,Argentina,Sputnik V,25767
+2021-11-29,Argentina,Pfizer/BioNTech,71951
+2021-11-29,Argentina,Sinopharm/Beijing,134579
+2021-11-29,Argentina,Moderna,9302
+2021-11-29,Argentina,CanSino,1247
+2021-11-30,Argentina,Sputnik V,23573
+2021-11-30,Argentina,Pfizer/BioNTech,63523
+2021-11-30,Argentina,Sinopharm/Beijing,124457
+2021-11-30,Argentina,Moderna,454
+2021-11-30,Argentina,CanSino,1387
+2021-12-01,Argentina,Sputnik V,25353
+2021-12-01,Argentina,Pfizer/BioNTech,69950
+2021-12-01,Argentina,Sinopharm/Beijing,146094
+2021-12-01,Argentina,Moderna,163
+2021-12-01,Argentina,CanSino,1582
+2021-12-02,Argentina,Sputnik V,25523
+2021-12-02,Argentina,Pfizer/BioNTech,62365
+2021-12-02,Argentina,Sinopharm/Beijing,117583
+2021-12-02,Argentina,Moderna,93
+2021-12-02,Argentina,CanSino,1204
+2021-12-03,Argentina,Sputnik V,10749
+2021-12-03,Argentina,Pfizer/BioNTech,33247
+2021-12-03,Argentina,Sinopharm/Beijing,53366
+2021-12-03,Argentina,Moderna,6
+2021-12-03,Argentina,CanSino,488
+2021-12-04,Argentina,Sputnik V,2924
+2021-12-04,Argentina,Pfizer/BioNTech,21543
+2021-12-04,Argentina,Sinopharm/Beijing,42906
+2021-12-04,Argentina,Moderna,2
+2021-12-04,Argentina,CanSino,140
+2021-12-05,Argentina,Sputnik V,20717
+2021-12-05,Argentina,Pfizer/BioNTech,65274
+2021-12-05,Argentina,Sinopharm/Beijing,132783
+2021-12-05,Argentina,Moderna,50
+2021-12-05,Argentina,CanSino,1296
+2021-12-06,Argentina,Sputnik V,21281
+2021-12-06,Argentina,Pfizer/BioNTech,65858
+2021-12-06,Argentina,Sinopharm/Beijing,147141
+2021-12-06,Argentina,Moderna,117
+2021-12-06,Argentina,CanSino,1393
+2021-12-07,Argentina,Sputnik V,11125
+2021-12-07,Argentina,Pfizer/BioNTech,32483
+2021-12-07,Argentina,Sinopharm/Beijing,40930
+2021-12-07,Argentina,Moderna,25
+2021-12-07,Argentina,CanSino,291
+2021-12-08,Argentina,Sputnik V,22125
+2021-12-08,Argentina,Pfizer/BioNTech,63424
+2021-12-08,Argentina,Sinopharm/Beijing,97288
+2021-12-08,Argentina,Moderna,127
+2021-12-08,Argentina,CanSino,2484
+2021-12-09,Argentina,Sputnik V,25212
+2021-12-09,Argentina,Pfizer/BioNTech,68296
+2021-12-09,Argentina,Sinopharm/Beijing,100476
+2021-12-09,Argentina,Moderna,86
+2021-12-09,Argentina,CanSino,3492
+2021-12-10,Argentina,Sputnik V,10840
+2021-12-10,Argentina,Pfizer/BioNTech,34532
+2021-12-10,Argentina,Sinopharm/Beijing,47630
+2021-12-10,Argentina,Moderna,31
+2021-12-10,Argentina,CanSino,3063
+2021-12-11,Argentina,Sputnik V,8509
+2021-12-11,Argentina,Pfizer/BioNTech,17441
+2021-12-11,Argentina,Sinopharm/Beijing,21277
+2021-12-11,Argentina,Moderna,25
+2021-12-11,Argentina,CanSino,88
+2021-12-12,Argentina,Sputnik V,31215
+2021-12-12,Argentina,Pfizer/BioNTech,60522
+2021-12-12,Argentina,Sinopharm/Beijing,93766
+2021-12-12,Argentina,Moderna,37
+2021-12-12,Argentina,CanSino,4252
+2021-12-13,Argentina,Sputnik V,31733
+2021-12-13,Argentina,Pfizer/BioNTech,68646
+2021-12-13,Argentina,Sinopharm/Beijing,97890
+2021-12-13,Argentina,Moderna,111
+2021-12-13,Argentina,CanSino,3227
+2021-12-14,Argentina,Sputnik V,33263
+2021-12-14,Argentina,Pfizer/BioNTech,70551
+2021-12-14,Argentina,Sinopharm/Beijing,85074
+2021-12-14,Argentina,Moderna,119
+2021-12-14,Argentina,CanSino,1419
+2021-12-15,Argentina,Sputnik V,34094
+2021-12-15,Argentina,Pfizer/BioNTech,67603
+2021-12-15,Argentina,Sinopharm/Beijing,88435
+2021-12-15,Argentina,Moderna,108
+2021-12-15,Argentina,CanSino,1711
+2021-12-16,Argentina,Sputnik V,31152
+2021-12-16,Argentina,Pfizer/BioNTech,67983
+2021-12-16,Argentina,Sinopharm/Beijing,76131
+2021-12-16,Argentina,Moderna,196
+2021-12-16,Argentina,CanSino,1605
+2021-12-17,Argentina,Sputnik V,14307
+2021-12-17,Argentina,Pfizer/BioNTech,39884
+2021-12-17,Argentina,Sinopharm/Beijing,42563
+2021-12-17,Argentina,Moderna,40
+2021-12-17,Argentina,CanSino,294
+2021-12-18,Argentina,Sputnik V,6863
+2021-12-18,Argentina,Pfizer/BioNTech,23752
+2021-12-18,Argentina,Sinopharm/Beijing,21464
+2021-12-18,Argentina,Moderna,24
+2021-12-18,Argentina,CanSino,105
+2021-12-19,Argentina,Sputnik V,28268
+2021-12-19,Argentina,Pfizer/BioNTech,93723
+2021-12-19,Argentina,Sinopharm/Beijing,77926
+2021-12-19,Argentina,Moderna,124
+2021-12-19,Argentina,CanSino,2147
+2021-12-20,Argentina,Sputnik V,28823
+2021-12-20,Argentina,Pfizer/BioNTech,101199
+2021-12-20,Argentina,Sinopharm/Beijing,89529
+2021-12-20,Argentina,Moderna,99
+2021-12-20,Argentina,CanSino,3082
+2021-12-21,Argentina,Sputnik V,27895
+2021-12-21,Argentina,Pfizer/BioNTech,96613
+2021-12-21,Argentina,Sinopharm/Beijing,85781
+2021-12-21,Argentina,Moderna,68
+2021-12-21,Argentina,CanSino,2647
+2021-12-22,Argentina,Sputnik V,21667
+2021-12-22,Argentina,Pfizer/BioNTech,69179
+2021-12-22,Argentina,Sinopharm/Beijing,61310
+2021-12-22,Argentina,Moderna,150
+2021-12-22,Argentina,CanSino,1539
+2021-12-23,Argentina,Sputnik V,1555
+2021-12-23,Argentina,Pfizer/BioNTech,4143
+2021-12-23,Argentina,Sinopharm/Beijing,2632
+2021-12-23,Argentina,Moderna,9
+2021-12-23,Argentina,CanSino,187
+2021-12-24,Argentina,Sputnik V,61
+2021-12-24,Argentina,Pfizer/BioNTech,195
+2021-12-24,Argentina,Sinopharm/Beijing,204
+2021-12-24,Argentina,Moderna,2
+2021-12-24,Argentina,CanSino,6
+2021-12-25,Argentina,Sputnik V,4653
+2021-12-25,Argentina,Pfizer/BioNTech,14902
+2021-12-25,Argentina,Sinopharm/Beijing,13360
+2021-12-25,Argentina,Moderna,10
+2021-12-25,Argentina,CanSino,328
+2021-12-26,Argentina,Sputnik V,45817
+2021-12-26,Argentina,Pfizer/BioNTech,134332
+2021-12-26,Argentina,Sinopharm/Beijing,105001
+2021-12-26,Argentina,Moderna,192
+2021-12-26,Argentina,CanSino,3336
+2021-12-27,Argentina,Sputnik V,53699
+2021-12-27,Argentina,Pfizer/BioNTech,184509
+2021-12-27,Argentina,Sinopharm/Beijing,99529
+2021-12-27,Argentina,Moderna,104
+2021-12-27,Argentina,CanSino,4524
+2021-12-28,Argentina,Sputnik V,52269
+2021-12-28,Argentina,Pfizer/BioNTech,184566
+2021-12-28,Argentina,Sinopharm/Beijing,97322
+2021-12-28,Argentina,Moderna,355
+2021-12-28,Argentina,CanSino,6508
+2021-12-29,Argentina,Sputnik V,37622
+2021-12-29,Argentina,Pfizer/BioNTech,175716
+2021-12-29,Argentina,Sinopharm/Beijing,80711
+2021-12-29,Argentina,Moderna,246
+2021-12-29,Argentina,CanSino,6015
+2021-12-30,Argentina,Sputnik V,4208
+2021-12-30,Argentina,Pfizer/BioNTech,10438
+2021-12-30,Argentina,Sinopharm/Beijing,5539
+2021-12-30,Argentina,Moderna,15
+2021-12-30,Argentina,CanSino,161
+2021-12-31,Argentina,Sputnik V,262
+2021-12-31,Argentina,Pfizer/BioNTech,1315
+2021-12-31,Argentina,Sinopharm/Beijing,628
+2021-12-31,Argentina,Moderna,59
+2021-12-31,Argentina,CanSino,48

@@ -1,0 +1,3651 @@
+date,location,vaccine,total_vaccinations
+2021-01-01,European Union,Johnson&Johnson,2
+2021-01-01,European Union,Moderna,12
+2021-01-01,European Union,Novavax,0
+2021-01-01,European Union,Oxford/AstraZeneca,0
+2021-01-01,European Union,Pfizer/BioNTech,90160
+2021-01-01,European Union,Sanofi/GSK,0
+2021-01-01,European Union,Sinopharm/Beijing,0
+2021-01-01,European Union,Sinovac,0
+2021-01-01,European Union,Sputnik V,0
+2021-01-01,European Union,Valneva,0
+2021-01-02,European Union,Johnson&Johnson,0
+2021-01-02,European Union,Moderna,35
+2021-01-02,European Union,Novavax,0
+2021-01-02,European Union,Oxford/AstraZeneca,0
+2021-01-02,European Union,Pfizer/BioNTech,60168
+2021-01-02,European Union,Sanofi/GSK,0
+2021-01-02,European Union,Sinopharm/Beijing,0
+2021-01-02,European Union,Sinovac,0
+2021-01-02,European Union,Sputnik V,0
+2021-01-02,European Union,Valneva,0
+2021-01-03,European Union,Johnson&Johnson,28
+2021-01-03,European Union,Moderna,47
+2021-01-03,European Union,Novavax,0
+2021-01-03,European Union,Oxford/AstraZeneca,1
+2021-01-03,European Union,Pfizer/BioNTech,134333
+2021-01-03,European Union,Sanofi/GSK,0
+2021-01-03,European Union,Sinopharm/Beijing,0
+2021-01-03,European Union,Sinovac,0
+2021-01-03,European Union,Sputnik V,0
+2021-01-03,European Union,Valneva,0
+2021-01-04,European Union,Johnson&Johnson,2
+2021-01-04,European Union,Moderna,20
+2021-01-04,European Union,Novavax,0
+2021-01-04,European Union,Oxford/AstraZeneca,0
+2021-01-04,European Union,Pfizer/BioNTech,162080
+2021-01-04,European Union,Sanofi/GSK,0
+2021-01-04,European Union,Sinopharm/Beijing,0
+2021-01-04,European Union,Sinovac,0
+2021-01-04,European Union,Sputnik V,0
+2021-01-04,European Union,Valneva,0
+2021-01-05,European Union,Johnson&Johnson,2
+2021-01-05,European Union,Moderna,25
+2021-01-05,European Union,Novavax,0
+2021-01-05,European Union,Oxford/AstraZeneca,2
+2021-01-05,European Union,Pfizer/BioNTech,164372
+2021-01-05,European Union,Sanofi/GSK,0
+2021-01-05,European Union,Sinopharm/Beijing,0
+2021-01-05,European Union,Sinovac,0
+2021-01-05,European Union,Sputnik V,0
+2021-01-05,European Union,Valneva,0
+2021-01-06,European Union,Johnson&Johnson,4
+2021-01-06,European Union,Moderna,29
+2021-01-06,European Union,Novavax,0
+2021-01-06,European Union,Oxford/AstraZeneca,3
+2021-01-06,European Union,Pfizer/BioNTech,203718
+2021-01-06,European Union,Sanofi/GSK,0
+2021-01-06,European Union,Sinopharm/Beijing,0
+2021-01-06,European Union,Sinovac,0
+2021-01-06,European Union,Sputnik V,0
+2021-01-06,European Union,Valneva,0
+2021-01-07,European Union,Johnson&Johnson,37
+2021-01-07,European Union,Moderna,411
+2021-01-07,European Union,Novavax,0
+2021-01-07,European Union,Oxford/AstraZeneca,162
+2021-01-07,European Union,Pfizer/BioNTech,1439531
+2021-01-07,European Union,Sanofi/GSK,0
+2021-01-07,European Union,Sinopharm/Beijing,17
+2021-01-07,European Union,Sinovac,5
+2021-01-07,European Union,Sputnik V,0
+2021-01-07,European Union,Valneva,0
+2021-01-08,European Union,Johnson&Johnson,0
+2021-01-08,European Union,Moderna,75
+2021-01-08,European Union,Novavax,0
+2021-01-08,European Union,Oxford/AstraZeneca,2
+2021-01-08,European Union,Pfizer/BioNTech,171981
+2021-01-08,European Union,Sanofi/GSK,0
+2021-01-08,European Union,Sinopharm/Beijing,0
+2021-01-08,European Union,Sinovac,0
+2021-01-08,European Union,Sputnik V,0
+2021-01-08,European Union,Valneva,0
+2021-01-09,European Union,Johnson&Johnson,1
+2021-01-09,European Union,Moderna,16
+2021-01-09,European Union,Novavax,0
+2021-01-09,European Union,Oxford/AstraZeneca,3
+2021-01-09,European Union,Pfizer/BioNTech,110914
+2021-01-09,European Union,Sanofi/GSK,0
+2021-01-09,European Union,Sinopharm/Beijing,0
+2021-01-09,European Union,Sinovac,0
+2021-01-09,European Union,Sputnik V,0
+2021-01-09,European Union,Valneva,0
+2021-01-10,European Union,Johnson&Johnson,3
+2021-01-10,European Union,Moderna,229
+2021-01-10,European Union,Novavax,0
+2021-01-10,European Union,Oxford/AstraZeneca,3
+2021-01-10,European Union,Pfizer/BioNTech,218918
+2021-01-10,European Union,Sanofi/GSK,0
+2021-01-10,European Union,Sinopharm/Beijing,0
+2021-01-10,European Union,Sinovac,0
+2021-01-10,European Union,Sputnik V,0
+2021-01-10,European Union,Valneva,0
+2021-01-11,European Union,Johnson&Johnson,1
+2021-01-11,European Union,Moderna,219
+2021-01-11,European Union,Novavax,0
+2021-01-11,European Union,Oxford/AstraZeneca,5
+2021-01-11,European Union,Pfizer/BioNTech,255227
+2021-01-11,European Union,Sanofi/GSK,0
+2021-01-11,European Union,Sinopharm/Beijing,0
+2021-01-11,European Union,Sinovac,0
+2021-01-11,European Union,Sputnik V,0
+2021-01-11,European Union,Valneva,0
+2021-01-12,European Union,Johnson&Johnson,0
+2021-01-12,European Union,Moderna,1463
+2021-01-12,European Union,Novavax,0
+2021-01-12,European Union,Oxford/AstraZeneca,0
+2021-01-12,European Union,Pfizer/BioNTech,300617
+2021-01-12,European Union,Sanofi/GSK,0
+2021-01-12,European Union,Sinopharm/Beijing,0
+2021-01-12,European Union,Sinovac,1
+2021-01-12,European Union,Sputnik V,0
+2021-01-12,European Union,Valneva,0
+2021-01-13,European Union,Johnson&Johnson,0
+2021-01-13,European Union,Moderna,8771
+2021-01-13,European Union,Novavax,0
+2021-01-13,European Union,Oxford/AstraZeneca,6
+2021-01-13,European Union,Pfizer/BioNTech,284313
+2021-01-13,European Union,Sanofi/GSK,0
+2021-01-13,European Union,Sinopharm/Beijing,0
+2021-01-13,European Union,Sinovac,0
+2021-01-13,European Union,Sputnik V,0
+2021-01-13,European Union,Valneva,0
+2021-01-14,European Union,Johnson&Johnson,9
+2021-01-14,European Union,Moderna,26102
+2021-01-14,European Union,Novavax,0
+2021-01-14,European Union,Oxford/AstraZeneca,388
+2021-01-14,European Union,Pfizer/BioNTech,1694626
+2021-01-14,European Union,Sanofi/GSK,0
+2021-01-14,European Union,Sinopharm/Beijing,23
+2021-01-14,European Union,Sinovac,5
+2021-01-14,European Union,Sputnik V,0
+2021-01-14,European Union,Valneva,0
+2021-01-15,European Union,Johnson&Johnson,1
+2021-01-15,European Union,Moderna,3467
+2021-01-15,European Union,Novavax,0
+2021-01-15,European Union,Oxford/AstraZeneca,4
+2021-01-15,European Union,Pfizer/BioNTech,157597
+2021-01-15,European Union,Sanofi/GSK,0
+2021-01-15,European Union,Sinopharm/Beijing,0
+2021-01-15,European Union,Sinovac,0
+2021-01-15,European Union,Sputnik V,0
+2021-01-15,European Union,Valneva,0
+2021-01-16,European Union,Johnson&Johnson,1
+2021-01-16,European Union,Moderna,1872
+2021-01-16,European Union,Novavax,0
+2021-01-16,European Union,Oxford/AstraZeneca,4
+2021-01-16,European Union,Pfizer/BioNTech,106154
+2021-01-16,European Union,Sanofi/GSK,0
+2021-01-16,European Union,Sinopharm/Beijing,0
+2021-01-16,European Union,Sinovac,0
+2021-01-16,European Union,Sputnik V,0
+2021-01-16,European Union,Valneva,0
+2021-01-17,European Union,Johnson&Johnson,0
+2021-01-17,European Union,Moderna,8958
+2021-01-17,European Union,Novavax,0
+2021-01-17,European Union,Oxford/AstraZeneca,7
+2021-01-17,European Union,Pfizer/BioNTech,250575
+2021-01-17,European Union,Sanofi/GSK,0
+2021-01-17,European Union,Sinopharm/Beijing,0
+2021-01-17,European Union,Sinovac,0
+2021-01-17,European Union,Sputnik V,0
+2021-01-17,European Union,Valneva,0
+2021-01-18,European Union,Johnson&Johnson,0
+2021-01-18,European Union,Moderna,11734
+2021-01-18,European Union,Novavax,0
+2021-01-18,European Union,Oxford/AstraZeneca,53
+2021-01-18,European Union,Pfizer/BioNTech,323631
+2021-01-18,European Union,Sanofi/GSK,0
+2021-01-18,European Union,Sinopharm/Beijing,0
+2021-01-18,European Union,Sinovac,0
+2021-01-18,European Union,Sputnik V,0
+2021-01-18,European Union,Valneva,0
+2021-01-19,European Union,Johnson&Johnson,0
+2021-01-19,European Union,Moderna,13289
+2021-01-19,European Union,Novavax,0
+2021-01-19,European Union,Oxford/AstraZeneca,5
+2021-01-19,European Union,Pfizer/BioNTech,344511
+2021-01-19,European Union,Sanofi/GSK,0
+2021-01-19,European Union,Sinopharm/Beijing,0
+2021-01-19,European Union,Sinovac,0
+2021-01-19,European Union,Sputnik V,0
+2021-01-19,European Union,Valneva,0
+2021-01-20,European Union,Johnson&Johnson,1
+2021-01-20,European Union,Moderna,12283
+2021-01-20,European Union,Novavax,0
+2021-01-20,European Union,Oxford/AstraZeneca,4
+2021-01-20,European Union,Pfizer/BioNTech,346019
+2021-01-20,European Union,Sanofi/GSK,0
+2021-01-20,European Union,Sinopharm/Beijing,0
+2021-01-20,European Union,Sinovac,0
+2021-01-20,European Union,Sputnik V,0
+2021-01-20,European Union,Valneva,0
+2021-01-21,European Union,Johnson&Johnson,6
+2021-01-21,European Union,Moderna,45505
+2021-01-21,European Union,Novavax,1
+2021-01-21,European Union,Oxford/AstraZeneca,414
+2021-01-21,European Union,Pfizer/BioNTech,1703058
+2021-01-21,European Union,Sanofi/GSK,0
+2021-01-21,European Union,Sinopharm/Beijing,23
+2021-01-21,European Union,Sinovac,135
+2021-01-21,European Union,Sputnik V,2
+2021-01-21,European Union,Valneva,0
+2021-01-22,European Union,Johnson&Johnson,0
+2021-01-22,European Union,Moderna,3331
+2021-01-22,European Union,Novavax,0
+2021-01-22,European Union,Oxford/AstraZeneca,9
+2021-01-22,European Union,Pfizer/BioNTech,199039
+2021-01-22,European Union,Sanofi/GSK,0
+2021-01-22,European Union,Sinopharm/Beijing,0
+2021-01-22,European Union,Sinovac,0
+2021-01-22,European Union,Sputnik V,0
+2021-01-22,European Union,Valneva,0
+2021-01-23,European Union,Johnson&Johnson,1
+2021-01-23,European Union,Moderna,1289
+2021-01-23,European Union,Novavax,0
+2021-01-23,European Union,Oxford/AstraZeneca,4
+2021-01-23,European Union,Pfizer/BioNTech,121039
+2021-01-23,European Union,Sanofi/GSK,0
+2021-01-23,European Union,Sinopharm/Beijing,0
+2021-01-23,European Union,Sinovac,0
+2021-01-23,European Union,Sputnik V,0
+2021-01-23,European Union,Valneva,0
+2021-01-24,European Union,Johnson&Johnson,1
+2021-01-24,European Union,Moderna,6201
+2021-01-24,European Union,Novavax,0
+2021-01-24,European Union,Oxford/AstraZeneca,5
+2021-01-24,European Union,Pfizer/BioNTech,285924
+2021-01-24,European Union,Sanofi/GSK,0
+2021-01-24,European Union,Sinopharm/Beijing,1
+2021-01-24,European Union,Sinovac,0
+2021-01-24,European Union,Sputnik V,0
+2021-01-24,European Union,Valneva,0
+2021-01-25,European Union,Johnson&Johnson,0
+2021-01-25,European Union,Moderna,6438
+2021-01-25,European Union,Novavax,0
+2021-01-25,European Union,Oxford/AstraZeneca,8
+2021-01-25,European Union,Pfizer/BioNTech,336432
+2021-01-25,European Union,Sanofi/GSK,0
+2021-01-25,European Union,Sinopharm/Beijing,0
+2021-01-25,European Union,Sinovac,0
+2021-01-25,European Union,Sputnik V,0
+2021-01-25,European Union,Valneva,0
+2021-01-26,European Union,Johnson&Johnson,2
+2021-01-26,European Union,Moderna,6558
+2021-01-26,European Union,Novavax,0
+2021-01-26,European Union,Oxford/AstraZeneca,10
+2021-01-26,European Union,Pfizer/BioNTech,344828
+2021-01-26,European Union,Sanofi/GSK,0
+2021-01-26,European Union,Sinopharm/Beijing,0
+2021-01-26,European Union,Sinovac,1
+2021-01-26,European Union,Sputnik V,0
+2021-01-26,European Union,Valneva,0
+2021-01-27,European Union,Johnson&Johnson,1
+2021-01-27,European Union,Moderna,6456
+2021-01-27,European Union,Novavax,0
+2021-01-27,European Union,Oxford/AstraZeneca,6
+2021-01-27,European Union,Pfizer/BioNTech,374132
+2021-01-27,European Union,Sanofi/GSK,0
+2021-01-27,European Union,Sinopharm/Beijing,0
+2021-01-27,European Union,Sinovac,0
+2021-01-27,European Union,Sputnik V,0
+2021-01-27,European Union,Valneva,0
+2021-01-28,European Union,Johnson&Johnson,6
+2021-01-28,European Union,Moderna,30079
+2021-01-28,European Union,Novavax,2
+2021-01-28,European Union,Oxford/AstraZeneca,752
+2021-01-28,European Union,Pfizer/BioNTech,2114394
+2021-01-28,European Union,Sanofi/GSK,0
+2021-01-28,European Union,Sinopharm/Beijing,30
+2021-01-28,European Union,Sinovac,89
+2021-01-28,European Union,Sputnik V,2
+2021-01-28,European Union,Valneva,0
+2021-01-29,European Union,Johnson&Johnson,2
+2021-01-29,European Union,Moderna,2515
+2021-01-29,European Union,Novavax,0
+2021-01-29,European Union,Oxford/AstraZeneca,10
+2021-01-29,European Union,Pfizer/BioNTech,237684
+2021-01-29,European Union,Sanofi/GSK,0
+2021-01-29,European Union,Sinopharm/Beijing,0
+2021-01-29,European Union,Sinovac,0
+2021-01-29,European Union,Sputnik V,0
+2021-01-29,European Union,Valneva,0
+2021-01-30,European Union,Johnson&Johnson,1
+2021-01-30,European Union,Moderna,650
+2021-01-30,European Union,Novavax,0
+2021-01-30,European Union,Oxford/AstraZeneca,9
+2021-01-30,European Union,Pfizer/BioNTech,145056
+2021-01-30,European Union,Sanofi/GSK,0
+2021-01-30,European Union,Sinopharm/Beijing,0
+2021-01-30,European Union,Sinovac,0
+2021-01-30,European Union,Sputnik V,0
+2021-01-30,European Union,Valneva,0
+2021-01-31,European Union,Johnson&Johnson,1
+2021-01-31,European Union,Moderna,6477
+2021-01-31,European Union,Novavax,0
+2021-01-31,European Union,Oxford/AstraZeneca,59
+2021-01-31,European Union,Pfizer/BioNTech,319438
+2021-01-31,European Union,Sanofi/GSK,0
+2021-01-31,European Union,Sinopharm/Beijing,0
+2021-01-31,European Union,Sinovac,0
+2021-01-31,European Union,Sputnik V,0
+2021-01-31,European Union,Valneva,0
+2021-02-01,European Union,Johnson&Johnson,3
+2021-02-01,European Union,Moderna,9263
+2021-02-01,European Union,Novavax,0
+2021-02-01,European Union,Oxford/AstraZeneca,53
+2021-02-01,European Union,Pfizer/BioNTech,366583
+2021-02-01,European Union,Sanofi/GSK,0
+2021-02-01,European Union,Sinopharm/Beijing,0
+2021-02-01,European Union,Sinovac,0
+2021-02-01,European Union,Sputnik V,0
+2021-02-01,European Union,Valneva,0
+2021-02-02,European Union,Johnson&Johnson,1
+2021-02-02,European Union,Moderna,14025
+2021-02-02,European Union,Novavax,0
+2021-02-02,European Union,Oxford/AstraZeneca,28
+2021-02-02,European Union,Pfizer/BioNTech,402567
+2021-02-02,European Union,Sanofi/GSK,0
+2021-02-02,European Union,Sinopharm/Beijing,0
+2021-02-02,European Union,Sinovac,0
+2021-02-02,European Union,Sputnik V,0
+2021-02-02,European Union,Valneva,0
+2021-02-03,European Union,Johnson&Johnson,5
+2021-02-03,European Union,Moderna,20238
+2021-02-03,European Union,Novavax,0
+2021-02-03,European Union,Oxford/AstraZeneca,10
+2021-02-03,European Union,Pfizer/BioNTech,402802
+2021-02-03,European Union,Sanofi/GSK,0
+2021-02-03,European Union,Sinopharm/Beijing,0
+2021-02-03,European Union,Sinovac,0
+2021-02-03,European Union,Sputnik V,0
+2021-02-03,European Union,Valneva,0
+2021-02-04,European Union,Johnson&Johnson,38
+2021-02-04,European Union,Moderna,97821
+2021-02-04,European Union,Novavax,3
+2021-02-04,European Union,Oxford/AstraZeneca,1059
+2021-02-04,European Union,Pfizer/BioNTech,2355497
+2021-02-04,European Union,Sanofi/GSK,0
+2021-02-04,European Union,Sinopharm/Beijing,34
+2021-02-04,European Union,Sinovac,101
+2021-02-04,European Union,Sputnik V,1
+2021-02-04,European Union,Valneva,0
+2021-02-05,European Union,Johnson&Johnson,2
+2021-02-05,European Union,Moderna,15261
+2021-02-05,European Union,Novavax,0
+2021-02-05,European Union,Oxford/AstraZeneca,1490
+2021-02-05,European Union,Pfizer/BioNTech,213066
+2021-02-05,European Union,Sanofi/GSK,0
+2021-02-05,European Union,Sinopharm/Beijing,0
+2021-02-05,European Union,Sinovac,1
+2021-02-05,European Union,Sputnik V,0
+2021-02-05,European Union,Valneva,0
+2021-02-06,European Union,Johnson&Johnson,2
+2021-02-06,European Union,Moderna,11575
+2021-02-06,European Union,Novavax,0
+2021-02-06,European Union,Oxford/AstraZeneca,1437
+2021-02-06,European Union,Pfizer/BioNTech,113287
+2021-02-06,European Union,Sanofi/GSK,0
+2021-02-06,European Union,Sinopharm/Beijing,0
+2021-02-06,European Union,Sinovac,0
+2021-02-06,European Union,Sputnik V,0
+2021-02-06,European Union,Valneva,0
+2021-02-07,European Union,Johnson&Johnson,3
+2021-02-07,European Union,Moderna,19521
+2021-02-07,European Union,Novavax,0
+2021-02-07,European Union,Oxford/AstraZeneca,2833
+2021-02-07,European Union,Pfizer/BioNTech,301053
+2021-02-07,European Union,Sanofi/GSK,0
+2021-02-07,European Union,Sinopharm/Beijing,0
+2021-02-07,European Union,Sinovac,0
+2021-02-07,European Union,Sputnik V,0
+2021-02-07,European Union,Valneva,0
+2021-02-08,European Union,Johnson&Johnson,0
+2021-02-08,European Union,Moderna,22090
+2021-02-08,European Union,Novavax,0
+2021-02-08,European Union,Oxford/AstraZeneca,7021
+2021-02-08,European Union,Pfizer/BioNTech,373578
+2021-02-08,European Union,Sanofi/GSK,0
+2021-02-08,European Union,Sinopharm/Beijing,0
+2021-02-08,European Union,Sinovac,0
+2021-02-08,European Union,Sputnik V,0
+2021-02-08,European Union,Valneva,0
+2021-02-09,European Union,Johnson&Johnson,1
+2021-02-09,European Union,Moderna,22691
+2021-02-09,European Union,Novavax,0
+2021-02-09,European Union,Oxford/AstraZeneca,18439
+2021-02-09,European Union,Pfizer/BioNTech,402554
+2021-02-09,European Union,Sanofi/GSK,0
+2021-02-09,European Union,Sinopharm/Beijing,0
+2021-02-09,European Union,Sinovac,0
+2021-02-09,European Union,Sputnik V,0
+2021-02-09,European Union,Valneva,0
+2021-02-10,European Union,Johnson&Johnson,2
+2021-02-10,European Union,Moderna,28387
+2021-02-10,European Union,Novavax,0
+2021-02-10,European Union,Oxford/AstraZeneca,34377
+2021-02-10,European Union,Pfizer/BioNTech,413203
+2021-02-10,European Union,Sanofi/GSK,0
+2021-02-10,European Union,Sinopharm/Beijing,0
+2021-02-10,European Union,Sinovac,0
+2021-02-10,European Union,Sputnik V,0
+2021-02-10,European Union,Valneva,0
+2021-02-11,European Union,Johnson&Johnson,17
+2021-02-11,European Union,Moderna,141068
+2021-02-11,European Union,Novavax,5
+2021-02-11,European Union,Oxford/AstraZeneca,210899
+2021-02-11,European Union,Pfizer/BioNTech,2203421
+2021-02-11,European Union,Sanofi/GSK,0
+2021-02-11,European Union,Sinopharm/Beijing,35
+2021-02-11,European Union,Sinovac,142
+2021-02-11,European Union,Sputnik V,2394
+2021-02-11,European Union,Valneva,0
+2021-02-12,European Union,Johnson&Johnson,1
+2021-02-12,European Union,Moderna,14592
+2021-02-12,European Union,Novavax,0
+2021-02-12,European Union,Oxford/AstraZeneca,23203
+2021-02-12,European Union,Pfizer/BioNTech,205324
+2021-02-12,European Union,Sanofi/GSK,0
+2021-02-12,European Union,Sinopharm/Beijing,0
+2021-02-12,European Union,Sinovac,0
+2021-02-12,European Union,Sputnik V,0
+2021-02-12,European Union,Valneva,0
+2021-02-13,European Union,Johnson&Johnson,2
+2021-02-13,European Union,Moderna,7679
+2021-02-13,European Union,Novavax,0
+2021-02-13,European Union,Oxford/AstraZeneca,15646
+2021-02-13,European Union,Pfizer/BioNTech,116921
+2021-02-13,European Union,Sanofi/GSK,0
+2021-02-13,European Union,Sinopharm/Beijing,1
+2021-02-13,European Union,Sinovac,0
+2021-02-13,European Union,Sputnik V,0
+2021-02-13,European Union,Valneva,0
+2021-02-14,European Union,Johnson&Johnson,12
+2021-02-14,European Union,Moderna,20802
+2021-02-14,European Union,Novavax,0
+2021-02-14,European Union,Oxford/AstraZeneca,41242
+2021-02-14,European Union,Pfizer/BioNTech,295692
+2021-02-14,European Union,Sanofi/GSK,0
+2021-02-14,European Union,Sinopharm/Beijing,1
+2021-02-14,European Union,Sinovac,0
+2021-02-14,European Union,Sputnik V,0
+2021-02-14,European Union,Valneva,0
+2021-02-15,European Union,Johnson&Johnson,1
+2021-02-15,European Union,Moderna,28143
+2021-02-15,European Union,Novavax,0
+2021-02-15,European Union,Oxford/AstraZeneca,50802
+2021-02-15,European Union,Pfizer/BioNTech,334868
+2021-02-15,European Union,Sanofi/GSK,0
+2021-02-15,European Union,Sinopharm/Beijing,0
+2021-02-15,European Union,Sinovac,0
+2021-02-15,European Union,Sputnik V,0
+2021-02-15,European Union,Valneva,0
+2021-02-16,European Union,Johnson&Johnson,4
+2021-02-16,European Union,Moderna,33025
+2021-02-16,European Union,Novavax,0
+2021-02-16,European Union,Oxford/AstraZeneca,58086
+2021-02-16,European Union,Pfizer/BioNTech,362529
+2021-02-16,European Union,Sanofi/GSK,0
+2021-02-16,European Union,Sinopharm/Beijing,0
+2021-02-16,European Union,Sinovac,0
+2021-02-16,European Union,Sputnik V,0
+2021-02-16,European Union,Valneva,0
+2021-02-17,European Union,Johnson&Johnson,6
+2021-02-17,European Union,Moderna,31149
+2021-02-17,European Union,Novavax,0
+2021-02-17,European Union,Oxford/AstraZeneca,68742
+2021-02-17,European Union,Pfizer/BioNTech,391476
+2021-02-17,European Union,Sanofi/GSK,0
+2021-02-17,European Union,Sinopharm/Beijing,0
+2021-02-17,European Union,Sinovac,0
+2021-02-17,European Union,Sputnik V,0
+2021-02-17,European Union,Valneva,0
+2021-02-18,European Union,Johnson&Johnson,24
+2021-02-18,European Union,Moderna,199620
+2021-02-18,European Union,Novavax,6
+2021-02-18,European Union,Oxford/AstraZeneca,628219
+2021-02-18,European Union,Pfizer/BioNTech,2189992
+2021-02-18,European Union,Sanofi/GSK,0
+2021-02-18,European Union,Sinopharm/Beijing,20
+2021-02-18,European Union,Sinovac,165
+2021-02-18,European Union,Sputnik V,16104
+2021-02-18,European Union,Valneva,0
+2021-02-19,European Union,Johnson&Johnson,6
+2021-02-19,European Union,Moderna,14673
+2021-02-19,European Union,Novavax,0
+2021-02-19,European Union,Oxford/AstraZeneca,54555
+2021-02-19,European Union,Pfizer/BioNTech,206029
+2021-02-19,European Union,Sanofi/GSK,0
+2021-02-19,European Union,Sinopharm/Beijing,0
+2021-02-19,European Union,Sinovac,1
+2021-02-19,European Union,Sputnik V,0
+2021-02-19,European Union,Valneva,0
+2021-02-20,European Union,Johnson&Johnson,3
+2021-02-20,European Union,Moderna,9711
+2021-02-20,European Union,Novavax,0
+2021-02-20,European Union,Oxford/AstraZeneca,36504
+2021-02-20,European Union,Pfizer/BioNTech,131455
+2021-02-20,European Union,Sanofi/GSK,0
+2021-02-20,European Union,Sinopharm/Beijing,0
+2021-02-20,European Union,Sinovac,1
+2021-02-20,European Union,Sputnik V,0
+2021-02-20,European Union,Valneva,0
+2021-02-21,European Union,Johnson&Johnson,1
+2021-02-21,European Union,Moderna,24062
+2021-02-21,European Union,Novavax,0
+2021-02-21,European Union,Oxford/AstraZeneca,69580
+2021-02-21,European Union,Pfizer/BioNTech,327890
+2021-02-21,European Union,Sanofi/GSK,0
+2021-02-21,European Union,Sinopharm/Beijing,1
+2021-02-21,European Union,Sinovac,0
+2021-02-21,European Union,Sputnik V,0
+2021-02-21,European Union,Valneva,0
+2021-02-22,European Union,Johnson&Johnson,2
+2021-02-22,European Union,Moderna,22585
+2021-02-22,European Union,Novavax,0
+2021-02-22,European Union,Oxford/AstraZeneca,79722
+2021-02-22,European Union,Pfizer/BioNTech,366247
+2021-02-22,European Union,Sanofi/GSK,0
+2021-02-22,European Union,Sinopharm/Beijing,0
+2021-02-22,European Union,Sinovac,0
+2021-02-22,European Union,Sputnik V,0
+2021-02-22,European Union,Valneva,0
+2021-02-23,European Union,Johnson&Johnson,1
+2021-02-23,European Union,Moderna,24256
+2021-02-23,European Union,Novavax,0
+2021-02-23,European Union,Oxford/AstraZeneca,95926
+2021-02-23,European Union,Pfizer/BioNTech,375260
+2021-02-23,European Union,Sanofi/GSK,0
+2021-02-23,European Union,Sinopharm/Beijing,0
+2021-02-23,European Union,Sinovac,0
+2021-02-23,European Union,Sputnik V,0
+2021-02-23,European Union,Valneva,0
+2021-02-24,European Union,Johnson&Johnson,0
+2021-02-24,European Union,Moderna,23572
+2021-02-24,European Union,Novavax,0
+2021-02-24,European Union,Oxford/AstraZeneca,146778
+2021-02-24,European Union,Pfizer/BioNTech,389003
+2021-02-24,European Union,Sanofi/GSK,0
+2021-02-24,European Union,Sinopharm/Beijing,0
+2021-02-24,European Union,Sinovac,0
+2021-02-24,European Union,Sputnik V,0
+2021-02-24,European Union,Valneva,0
+2021-02-25,European Union,Johnson&Johnson,28
+2021-02-25,European Union,Moderna,167999
+2021-02-25,European Union,Novavax,4
+2021-02-25,European Union,Oxford/AstraZeneca,1237566
+2021-02-25,European Union,Pfizer/BioNTech,2287468
+2021-02-25,European Union,Sanofi/GSK,0
+2021-02-25,European Union,Sinopharm/Beijing,162104
+2021-02-25,European Union,Sinovac,116
+2021-02-25,European Union,Sputnik V,839
+2021-02-25,European Union,Valneva,0
+2021-02-26,European Union,Johnson&Johnson,3
+2021-02-26,European Union,Moderna,14390
+2021-02-26,European Union,Novavax,0
+2021-02-26,European Union,Oxford/AstraZeneca,142121
+2021-02-26,European Union,Pfizer/BioNTech,213594
+2021-02-26,European Union,Sanofi/GSK,0
+2021-02-26,European Union,Sinopharm/Beijing,0
+2021-02-26,European Union,Sinovac,0
+2021-02-26,European Union,Sputnik V,0
+2021-02-26,European Union,Valneva,0
+2021-02-27,European Union,Johnson&Johnson,2
+2021-02-27,European Union,Moderna,7118
+2021-02-27,European Union,Novavax,0
+2021-02-27,European Union,Oxford/AstraZeneca,75965
+2021-02-27,European Union,Pfizer/BioNTech,123675
+2021-02-27,European Union,Sanofi/GSK,0
+2021-02-27,European Union,Sinopharm/Beijing,0
+2021-02-27,European Union,Sinovac,0
+2021-02-27,European Union,Sputnik V,0
+2021-02-27,European Union,Valneva,0
+2021-02-28,European Union,Johnson&Johnson,2
+2021-02-28,European Union,Moderna,27755
+2021-02-28,European Union,Novavax,0
+2021-02-28,European Union,Oxford/AstraZeneca,134207
+2021-02-28,European Union,Pfizer/BioNTech,350802
+2021-02-28,European Union,Sanofi/GSK,0
+2021-02-28,European Union,Sinopharm/Beijing,0
+2021-02-28,European Union,Sinovac,0
+2021-02-28,European Union,Sputnik V,0
+2021-02-28,European Union,Valneva,0
+2021-03-01,European Union,Johnson&Johnson,1
+2021-03-01,European Union,Moderna,31497
+2021-03-01,European Union,Novavax,0
+2021-03-01,European Union,Oxford/AstraZeneca,184698
+2021-03-01,European Union,Pfizer/BioNTech,406485
+2021-03-01,European Union,Sanofi/GSK,0
+2021-03-01,European Union,Sinopharm/Beijing,0
+2021-03-01,European Union,Sinovac,0
+2021-03-01,European Union,Sputnik V,0
+2021-03-01,European Union,Valneva,0
+2021-03-02,European Union,Johnson&Johnson,1
+2021-03-02,European Union,Moderna,41181
+2021-03-02,European Union,Novavax,0
+2021-03-02,European Union,Oxford/AstraZeneca,203302
+2021-03-02,European Union,Pfizer/BioNTech,452761
+2021-03-02,European Union,Sanofi/GSK,0
+2021-03-02,European Union,Sinopharm/Beijing,0
+2021-03-02,European Union,Sinovac,0
+2021-03-02,European Union,Sputnik V,0
+2021-03-02,European Union,Valneva,0
+2021-03-03,European Union,Johnson&Johnson,0
+2021-03-03,European Union,Moderna,50407
+2021-03-03,European Union,Novavax,0
+2021-03-03,European Union,Oxford/AstraZeneca,255133
+2021-03-03,European Union,Pfizer/BioNTech,463325
+2021-03-03,European Union,Sanofi/GSK,0
+2021-03-03,European Union,Sinopharm/Beijing,0
+2021-03-03,European Union,Sinovac,0
+2021-03-03,European Union,Sputnik V,0
+2021-03-03,European Union,Valneva,0
+2021-03-04,European Union,Johnson&Johnson,109
+2021-03-04,European Union,Moderna,347542
+2021-03-04,European Union,Novavax,2
+2021-03-04,European Union,Oxford/AstraZeneca,1411299
+2021-03-04,European Union,Pfizer/BioNTech,2464367
+2021-03-04,European Union,Sanofi/GSK,0
+2021-03-04,European Union,Sinopharm/Beijing,206549
+2021-03-04,European Union,Sinovac,154
+2021-03-04,European Union,Sputnik V,3443
+2021-03-04,European Union,Valneva,0
+2021-03-05,European Union,Johnson&Johnson,9
+2021-03-05,European Union,Moderna,38535
+2021-03-05,European Union,Novavax,0
+2021-03-05,European Union,Oxford/AstraZeneca,282076
+2021-03-05,European Union,Pfizer/BioNTech,349168
+2021-03-05,European Union,Sanofi/GSK,0
+2021-03-05,European Union,Sinopharm/Beijing,0
+2021-03-05,European Union,Sinovac,0
+2021-03-05,European Union,Sputnik V,0
+2021-03-05,European Union,Valneva,0
+2021-03-06,European Union,Johnson&Johnson,4
+2021-03-06,European Union,Moderna,26396
+2021-03-06,European Union,Novavax,0
+2021-03-06,European Union,Oxford/AstraZeneca,164090
+2021-03-06,European Union,Pfizer/BioNTech,243784
+2021-03-06,European Union,Sanofi/GSK,0
+2021-03-06,European Union,Sinopharm/Beijing,0
+2021-03-06,European Union,Sinovac,0
+2021-03-06,European Union,Sputnik V,0
+2021-03-06,European Union,Valneva,0
+2021-03-07,European Union,Johnson&Johnson,12
+2021-03-07,European Union,Moderna,43959
+2021-03-07,European Union,Novavax,0
+2021-03-07,European Union,Oxford/AstraZeneca,212331
+2021-03-07,European Union,Pfizer/BioNTech,401500
+2021-03-07,European Union,Sanofi/GSK,0
+2021-03-07,European Union,Sinopharm/Beijing,0
+2021-03-07,European Union,Sinovac,0
+2021-03-07,European Union,Sputnik V,0
+2021-03-07,European Union,Valneva,0
+2021-03-08,European Union,Johnson&Johnson,3
+2021-03-08,European Union,Moderna,52476
+2021-03-08,European Union,Novavax,0
+2021-03-08,European Union,Oxford/AstraZeneca,262959
+2021-03-08,European Union,Pfizer/BioNTech,456163
+2021-03-08,European Union,Sanofi/GSK,0
+2021-03-08,European Union,Sinopharm/Beijing,0
+2021-03-08,European Union,Sinovac,0
+2021-03-08,European Union,Sputnik V,0
+2021-03-08,European Union,Valneva,0
+2021-03-09,European Union,Johnson&Johnson,8
+2021-03-09,European Union,Moderna,49217
+2021-03-09,European Union,Novavax,0
+2021-03-09,European Union,Oxford/AstraZeneca,286465
+2021-03-09,European Union,Pfizer/BioNTech,509225
+2021-03-09,European Union,Sanofi/GSK,0
+2021-03-09,European Union,Sinopharm/Beijing,0
+2021-03-09,European Union,Sinovac,0
+2021-03-09,European Union,Sputnik V,0
+2021-03-09,European Union,Valneva,0
+2021-03-10,European Union,Johnson&Johnson,12
+2021-03-10,European Union,Moderna,52915
+2021-03-10,European Union,Novavax,0
+2021-03-10,European Union,Oxford/AstraZeneca,345225
+2021-03-10,European Union,Pfizer/BioNTech,525399
+2021-03-10,European Union,Sanofi/GSK,0
+2021-03-10,European Union,Sinopharm/Beijing,0
+2021-03-10,European Union,Sinovac,0
+2021-03-10,European Union,Sputnik V,0
+2021-03-10,European Union,Valneva,0
+2021-03-11,European Union,Johnson&Johnson,174
+2021-03-11,European Union,Moderna,293878
+2021-03-11,European Union,Novavax,6
+2021-03-11,European Union,Oxford/AstraZeneca,1673029
+2021-03-11,European Union,Pfizer/BioNTech,2572139
+2021-03-11,European Union,Sanofi/GSK,0
+2021-03-11,European Union,Sinopharm/Beijing,123827
+2021-03-11,European Union,Sinovac,160
+2021-03-11,European Union,Sputnik V,31977
+2021-03-11,European Union,Valneva,0
+2021-03-12,European Union,Johnson&Johnson,9
+2021-03-12,European Union,Moderna,38449
+2021-03-12,European Union,Novavax,0
+2021-03-12,European Union,Oxford/AstraZeneca,325350
+2021-03-12,European Union,Pfizer/BioNTech,370711
+2021-03-12,European Union,Sanofi/GSK,0
+2021-03-12,European Union,Sinopharm/Beijing,0
+2021-03-12,European Union,Sinovac,0
+2021-03-12,European Union,Sputnik V,0
+2021-03-12,European Union,Valneva,0
+2021-03-13,European Union,Johnson&Johnson,9
+2021-03-13,European Union,Moderna,21675
+2021-03-13,European Union,Novavax,0
+2021-03-13,European Union,Oxford/AstraZeneca,138295
+2021-03-13,European Union,Pfizer/BioNTech,239475
+2021-03-13,European Union,Sanofi/GSK,0
+2021-03-13,European Union,Sinopharm/Beijing,0
+2021-03-13,European Union,Sinovac,1
+2021-03-13,European Union,Sputnik V,0
+2021-03-13,European Union,Valneva,0
+2021-03-14,European Union,Johnson&Johnson,11
+2021-03-14,European Union,Moderna,51766
+2021-03-14,European Union,Novavax,0
+2021-03-14,European Union,Oxford/AstraZeneca,206243
+2021-03-14,European Union,Pfizer/BioNTech,448276
+2021-03-14,European Union,Sanofi/GSK,0
+2021-03-14,European Union,Sinopharm/Beijing,1
+2021-03-14,European Union,Sinovac,0
+2021-03-14,European Union,Sputnik V,0
+2021-03-14,European Union,Valneva,0
+2021-03-15,European Union,Johnson&Johnson,22
+2021-03-15,European Union,Moderna,66414
+2021-03-15,European Union,Novavax,0
+2021-03-15,European Union,Oxford/AstraZeneca,18509
+2021-03-15,European Union,Pfizer/BioNTech,525815
+2021-03-15,European Union,Sanofi/GSK,0
+2021-03-15,European Union,Sinopharm/Beijing,0
+2021-03-15,European Union,Sinovac,0
+2021-03-15,European Union,Sputnik V,0
+2021-03-15,European Union,Valneva,0
+2021-03-16,European Union,Johnson&Johnson,28
+2021-03-16,European Union,Moderna,71029
+2021-03-16,European Union,Novavax,0
+2021-03-16,European Union,Oxford/AstraZeneca,17440
+2021-03-16,European Union,Pfizer/BioNTech,574642
+2021-03-16,European Union,Sanofi/GSK,0
+2021-03-16,European Union,Sinopharm/Beijing,0
+2021-03-16,European Union,Sinovac,0
+2021-03-16,European Union,Sputnik V,0
+2021-03-16,European Union,Valneva,0
+2021-03-17,European Union,Johnson&Johnson,26
+2021-03-17,European Union,Moderna,73737
+2021-03-17,European Union,Novavax,0
+2021-03-17,European Union,Oxford/AstraZeneca,19433
+2021-03-17,European Union,Pfizer/BioNTech,580410
+2021-03-17,European Union,Sanofi/GSK,0
+2021-03-17,European Union,Sinopharm/Beijing,0
+2021-03-17,European Union,Sinovac,0
+2021-03-17,European Union,Sputnik V,0
+2021-03-17,European Union,Valneva,0
+2021-03-18,European Union,Johnson&Johnson,247
+2021-03-18,European Union,Moderna,393749
+2021-03-18,European Union,Novavax,4
+2021-03-18,European Union,Oxford/AstraZeneca,734073
+2021-03-18,European Union,Pfizer/BioNTech,2847819
+2021-03-18,European Union,Sanofi/GSK,0
+2021-03-18,European Union,Sinopharm/Beijing,12712
+2021-03-18,European Union,Sinovac,219
+2021-03-18,European Union,Sputnik V,88591
+2021-03-18,European Union,Valneva,0
+2021-03-19,European Union,Johnson&Johnson,13
+2021-03-19,European Union,Moderna,60877
+2021-03-19,European Union,Novavax,0
+2021-03-19,European Union,Oxford/AstraZeneca,197746
+2021-03-19,European Union,Pfizer/BioNTech,386123
+2021-03-19,European Union,Sanofi/GSK,0
+2021-03-19,European Union,Sinopharm/Beijing,0
+2021-03-19,European Union,Sinovac,0
+2021-03-19,European Union,Sputnik V,0
+2021-03-19,European Union,Valneva,0
+2021-03-20,European Union,Johnson&Johnson,6
+2021-03-20,European Union,Moderna,41421
+2021-03-20,European Union,Novavax,2
+2021-03-20,European Union,Oxford/AstraZeneca,112321
+2021-03-20,European Union,Pfizer/BioNTech,247732
+2021-03-20,European Union,Sanofi/GSK,0
+2021-03-20,European Union,Sinopharm/Beijing,2
+2021-03-20,European Union,Sinovac,0
+2021-03-20,European Union,Sputnik V,0
+2021-03-20,European Union,Valneva,0
+2021-03-21,European Union,Johnson&Johnson,4
+2021-03-21,European Union,Moderna,66127
+2021-03-21,European Union,Novavax,0
+2021-03-21,European Union,Oxford/AstraZeneca,204724
+2021-03-21,European Union,Pfizer/BioNTech,486891
+2021-03-21,European Union,Sanofi/GSK,0
+2021-03-21,European Union,Sinopharm/Beijing,0
+2021-03-21,European Union,Sinovac,0
+2021-03-21,European Union,Sputnik V,0
+2021-03-21,European Union,Valneva,0
+2021-03-22,European Union,Johnson&Johnson,15
+2021-03-22,European Union,Moderna,70199
+2021-03-22,European Union,Novavax,0
+2021-03-22,European Union,Oxford/AstraZeneca,286505
+2021-03-22,European Union,Pfizer/BioNTech,566677
+2021-03-22,European Union,Sanofi/GSK,0
+2021-03-22,European Union,Sinopharm/Beijing,0
+2021-03-22,European Union,Sinovac,0
+2021-03-22,European Union,Sputnik V,0
+2021-03-22,European Union,Valneva,0
+2021-03-23,European Union,Johnson&Johnson,9
+2021-03-23,European Union,Moderna,88177
+2021-03-23,European Union,Novavax,0
+2021-03-23,European Union,Oxford/AstraZeneca,297182
+2021-03-23,European Union,Pfizer/BioNTech,621577
+2021-03-23,European Union,Sanofi/GSK,0
+2021-03-23,European Union,Sinopharm/Beijing,1
+2021-03-23,European Union,Sinovac,0
+2021-03-23,European Union,Sputnik V,0
+2021-03-23,European Union,Valneva,0
+2021-03-24,European Union,Johnson&Johnson,5
+2021-03-24,European Union,Moderna,88308
+2021-03-24,European Union,Novavax,0
+2021-03-24,European Union,Oxford/AstraZeneca,372572
+2021-03-24,European Union,Pfizer/BioNTech,639907
+2021-03-24,European Union,Sanofi/GSK,0
+2021-03-24,European Union,Sinopharm/Beijing,0
+2021-03-24,European Union,Sinovac,0
+2021-03-24,European Union,Sputnik V,0
+2021-03-24,European Union,Valneva,0
+2021-03-25,European Union,Johnson&Johnson,179
+2021-03-25,European Union,Moderna,486622
+2021-03-25,European Union,Novavax,7
+2021-03-25,European Union,Oxford/AstraZeneca,1849788
+2021-03-25,European Union,Pfizer/BioNTech,3298672
+2021-03-25,European Union,Sanofi/GSK,0
+2021-03-25,European Union,Sinopharm/Beijing,182337
+2021-03-25,European Union,Sinovac,367
+2021-03-25,European Union,Sputnik V,90568
+2021-03-25,European Union,Valneva,0
+2021-03-26,European Union,Johnson&Johnson,11
+2021-03-26,European Union,Moderna,80564
+2021-03-26,European Union,Novavax,0
+2021-03-26,European Union,Oxford/AstraZeneca,251348
+2021-03-26,European Union,Pfizer/BioNTech,477205
+2021-03-26,European Union,Sanofi/GSK,0
+2021-03-26,European Union,Sinopharm/Beijing,0
+2021-03-26,European Union,Sinovac,4
+2021-03-26,European Union,Sputnik V,0
+2021-03-26,European Union,Valneva,0
+2021-03-27,European Union,Johnson&Johnson,4
+2021-03-27,European Union,Moderna,52532
+2021-03-27,European Union,Novavax,0
+2021-03-27,European Union,Oxford/AstraZeneca,133444
+2021-03-27,European Union,Pfizer/BioNTech,303264
+2021-03-27,European Union,Sanofi/GSK,0
+2021-03-27,European Union,Sinopharm/Beijing,0
+2021-03-27,European Union,Sinovac,1
+2021-03-27,European Union,Sputnik V,0
+2021-03-27,European Union,Valneva,0
+2021-03-28,European Union,Johnson&Johnson,4
+2021-03-28,European Union,Moderna,84121
+2021-03-28,European Union,Novavax,0
+2021-03-28,European Union,Oxford/AstraZeneca,232120
+2021-03-28,European Union,Pfizer/BioNTech,585028
+2021-03-28,European Union,Sanofi/GSK,0
+2021-03-28,European Union,Sinopharm/Beijing,1
+2021-03-28,European Union,Sinovac,0
+2021-03-28,European Union,Sputnik V,0
+2021-03-28,European Union,Valneva,0
+2021-03-29,European Union,Johnson&Johnson,12
+2021-03-29,European Union,Moderna,99283
+2021-03-29,European Union,Novavax,0
+2021-03-29,European Union,Oxford/AstraZeneca,270911
+2021-03-29,European Union,Pfizer/BioNTech,699289
+2021-03-29,European Union,Sanofi/GSK,0
+2021-03-29,European Union,Sinopharm/Beijing,1
+2021-03-29,European Union,Sinovac,0
+2021-03-29,European Union,Sputnik V,0
+2021-03-29,European Union,Valneva,0
+2021-03-30,European Union,Johnson&Johnson,27
+2021-03-30,European Union,Moderna,111287
+2021-03-30,European Union,Novavax,0
+2021-03-30,European Union,Oxford/AstraZeneca,202540
+2021-03-30,European Union,Pfizer/BioNTech,779817
+2021-03-30,European Union,Sanofi/GSK,0
+2021-03-30,European Union,Sinopharm/Beijing,0
+2021-03-30,European Union,Sinovac,1
+2021-03-30,European Union,Sputnik V,0
+2021-03-30,European Union,Valneva,0
+2021-03-31,European Union,Johnson&Johnson,45
+2021-03-31,European Union,Moderna,117850
+2021-03-31,European Union,Novavax,0
+2021-03-31,European Union,Oxford/AstraZeneca,214898
+2021-03-31,European Union,Pfizer/BioNTech,817020
+2021-03-31,European Union,Sanofi/GSK,0
+2021-03-31,European Union,Sinopharm/Beijing,0
+2021-03-31,European Union,Sinovac,0
+2021-03-31,European Union,Sputnik V,0
+2021-03-31,European Union,Valneva,0
+2021-04-01,European Union,Johnson&Johnson,363
+2021-04-01,European Union,Moderna,607444
+2021-04-01,European Union,Novavax,7
+2021-04-01,European Union,Oxford/AstraZeneca,1590109
+2021-04-01,European Union,Pfizer/BioNTech,3526470
+2021-04-01,European Union,Sanofi/GSK,0
+2021-04-01,European Union,Sinopharm/Beijing,198628
+2021-04-01,European Union,Sinovac,352
+2021-04-01,European Union,Sputnik V,154516
+2021-04-01,European Union,Valneva,0
+2021-04-02,European Union,Johnson&Johnson,7
+2021-04-02,European Union,Moderna,80369
+2021-04-02,European Union,Novavax,0
+2021-04-02,European Union,Oxford/AstraZeneca,135116
+2021-04-02,European Union,Pfizer/BioNTech,525415
+2021-04-02,European Union,Sanofi/GSK,0
+2021-04-02,European Union,Sinopharm/Beijing,0
+2021-04-02,European Union,Sinovac,1
+2021-04-02,European Union,Sputnik V,0
+2021-04-02,European Union,Valneva,0
+2021-04-03,European Union,Johnson&Johnson,8
+2021-04-03,European Union,Moderna,38410
+2021-04-03,European Union,Novavax,0
+2021-04-03,European Union,Oxford/AstraZeneca,98667
+2021-04-03,European Union,Pfizer/BioNTech,279959
+2021-04-03,European Union,Sanofi/GSK,0
+2021-04-03,European Union,Sinopharm/Beijing,0
+2021-04-03,European Union,Sinovac,0
+2021-04-03,European Union,Sputnik V,0
+2021-04-03,European Union,Valneva,0
+2021-04-04,European Union,Johnson&Johnson,20
+2021-04-04,European Union,Moderna,57024
+2021-04-04,European Union,Novavax,0
+2021-04-04,European Union,Oxford/AstraZeneca,135778
+2021-04-04,European Union,Pfizer/BioNTech,365152
+2021-04-04,European Union,Sanofi/GSK,0
+2021-04-04,European Union,Sinopharm/Beijing,0
+2021-04-04,European Union,Sinovac,0
+2021-04-04,European Union,Sputnik V,0
+2021-04-04,European Union,Valneva,0
+2021-04-05,European Union,Johnson&Johnson,90
+2021-04-05,European Union,Moderna,122649
+2021-04-05,European Union,Novavax,0
+2021-04-05,European Union,Oxford/AstraZeneca,213839
+2021-04-05,European Union,Pfizer/BioNTech,779567
+2021-04-05,European Union,Sanofi/GSK,0
+2021-04-05,European Union,Sinopharm/Beijing,0
+2021-04-05,European Union,Sinovac,1
+2021-04-05,European Union,Sputnik V,0
+2021-04-05,European Union,Valneva,0
+2021-04-06,European Union,Johnson&Johnson,49
+2021-04-06,European Union,Moderna,121564
+2021-04-06,European Union,Novavax,0
+2021-04-06,European Union,Oxford/AstraZeneca,222964
+2021-04-06,European Union,Pfizer/BioNTech,1202749
+2021-04-06,European Union,Sanofi/GSK,0
+2021-04-06,European Union,Sinopharm/Beijing,0
+2021-04-06,European Union,Sinovac,1
+2021-04-06,European Union,Sputnik V,0
+2021-04-06,European Union,Valneva,0
+2021-04-07,European Union,Johnson&Johnson,56
+2021-04-07,European Union,Moderna,129578
+2021-04-07,European Union,Novavax,0
+2021-04-07,European Union,Oxford/AstraZeneca,248303
+2021-04-07,European Union,Pfizer/BioNTech,1275752
+2021-04-07,European Union,Sanofi/GSK,0
+2021-04-07,European Union,Sinopharm/Beijing,0
+2021-04-07,European Union,Sinovac,0
+2021-04-07,European Union,Sputnik V,0
+2021-04-07,European Union,Valneva,0
+2021-04-08,European Union,Johnson&Johnson,705
+2021-04-08,European Union,Moderna,628916
+2021-04-08,European Union,Novavax,2
+2021-04-08,European Union,Oxford/AstraZeneca,2238221
+2021-04-08,European Union,Pfizer/BioNTech,5140190
+2021-04-08,European Union,Sanofi/GSK,0
+2021-04-08,European Union,Sinopharm/Beijing,127148
+2021-04-08,European Union,Sinovac,293
+2021-04-08,European Union,Sputnik V,287878
+2021-04-08,European Union,Valneva,0
+2021-04-09,European Union,Johnson&Johnson,32
+2021-04-09,European Union,Moderna,102992
+2021-04-09,European Union,Novavax,0
+2021-04-09,European Union,Oxford/AstraZeneca,247306
+2021-04-09,European Union,Pfizer/BioNTech,731556
+2021-04-09,European Union,Sanofi/GSK,0
+2021-04-09,European Union,Sinopharm/Beijing,0
+2021-04-09,European Union,Sinovac,0
+2021-04-09,European Union,Sputnik V,0
+2021-04-09,European Union,Valneva,0
+2021-04-10,European Union,Johnson&Johnson,18
+2021-04-10,European Union,Moderna,57639
+2021-04-10,European Union,Novavax,0
+2021-04-10,European Union,Oxford/AstraZeneca,122322
+2021-04-10,European Union,Pfizer/BioNTech,451246
+2021-04-10,European Union,Sanofi/GSK,0
+2021-04-10,European Union,Sinopharm/Beijing,1
+2021-04-10,European Union,Sinovac,0
+2021-04-10,European Union,Sputnik V,0
+2021-04-10,European Union,Valneva,0
+2021-04-11,European Union,Johnson&Johnson,43
+2021-04-11,European Union,Moderna,100296
+2021-04-11,European Union,Novavax,0
+2021-04-11,European Union,Oxford/AstraZeneca,261369
+2021-04-11,European Union,Pfizer/BioNTech,800780
+2021-04-11,European Union,Sanofi/GSK,0
+2021-04-11,European Union,Sinopharm/Beijing,0
+2021-04-11,European Union,Sinovac,1
+2021-04-11,European Union,Sputnik V,0
+2021-04-11,European Union,Valneva,0
+2021-04-12,European Union,Johnson&Johnson,19
+2021-04-12,European Union,Moderna,111571
+2021-04-12,European Union,Novavax,0
+2021-04-12,European Union,Oxford/AstraZeneca,321011
+2021-04-12,European Union,Pfizer/BioNTech,1058585
+2021-04-12,European Union,Sanofi/GSK,0
+2021-04-12,European Union,Sinopharm/Beijing,0
+2021-04-12,European Union,Sinovac,0
+2021-04-12,European Union,Sputnik V,0
+2021-04-12,European Union,Valneva,0
+2021-04-13,European Union,Johnson&Johnson,22
+2021-04-13,European Union,Moderna,117140
+2021-04-13,European Union,Novavax,0
+2021-04-13,European Union,Oxford/AstraZeneca,316561
+2021-04-13,European Union,Pfizer/BioNTech,1284953
+2021-04-13,European Union,Sanofi/GSK,0
+2021-04-13,European Union,Sinopharm/Beijing,0
+2021-04-13,European Union,Sinovac,0
+2021-04-13,European Union,Sputnik V,0
+2021-04-13,European Union,Valneva,0
+2021-04-14,European Union,Johnson&Johnson,25
+2021-04-14,European Union,Moderna,126319
+2021-04-14,European Union,Novavax,0
+2021-04-14,European Union,Oxford/AstraZeneca,314139
+2021-04-14,European Union,Pfizer/BioNTech,1243082
+2021-04-14,European Union,Sanofi/GSK,0
+2021-04-14,European Union,Sinopharm/Beijing,0
+2021-04-14,European Union,Sinovac,0
+2021-04-14,European Union,Sputnik V,0
+2021-04-14,European Union,Valneva,0
+2021-04-15,European Union,Johnson&Johnson,25629
+2021-04-15,European Union,Moderna,721204
+2021-04-15,European Union,Novavax,6
+2021-04-15,European Union,Oxford/AstraZeneca,2250283
+2021-04-15,European Union,Pfizer/BioNTech,5870641
+2021-04-15,European Union,Sanofi/GSK,0
+2021-04-15,European Union,Sinopharm/Beijing,17412
+2021-04-15,European Union,Sinovac,243
+2021-04-15,European Union,Sputnik V,248509
+2021-04-15,European Union,Valneva,0
+2021-04-16,European Union,Johnson&Johnson,0
+2021-04-16,European Union,Moderna,93289
+2021-04-16,European Union,Novavax,1
+2021-04-16,European Union,Oxford/AstraZeneca,296953
+2021-04-16,European Union,Pfizer/BioNTech,722411
+2021-04-16,European Union,Sanofi/GSK,0
+2021-04-16,European Union,Sinopharm/Beijing,0
+2021-04-16,European Union,Sinovac,0
+2021-04-16,European Union,Sputnik V,0
+2021-04-16,European Union,Valneva,0
+2021-04-17,European Union,Johnson&Johnson,2
+2021-04-17,European Union,Moderna,58954
+2021-04-17,European Union,Novavax,0
+2021-04-17,European Union,Oxford/AstraZeneca,174612
+2021-04-17,European Union,Pfizer/BioNTech,454633
+2021-04-17,European Union,Sanofi/GSK,0
+2021-04-17,European Union,Sinopharm/Beijing,0
+2021-04-17,European Union,Sinovac,2
+2021-04-17,European Union,Sputnik V,0
+2021-04-17,European Union,Valneva,0
+2021-04-18,European Union,Johnson&Johnson,16
+2021-04-18,European Union,Moderna,100186
+2021-04-18,European Union,Novavax,0
+2021-04-18,European Union,Oxford/AstraZeneca,216356
+2021-04-18,European Union,Pfizer/BioNTech,877249
+2021-04-18,European Union,Sanofi/GSK,0
+2021-04-18,European Union,Sinopharm/Beijing,0
+2021-04-18,European Union,Sinovac,0
+2021-04-18,European Union,Sputnik V,0
+2021-04-18,European Union,Valneva,0
+2021-04-19,European Union,Johnson&Johnson,23
+2021-04-19,European Union,Moderna,125829
+2021-04-19,European Union,Novavax,0
+2021-04-19,European Union,Oxford/AstraZeneca,311975
+2021-04-19,European Union,Pfizer/BioNTech,1068644
+2021-04-19,European Union,Sanofi/GSK,0
+2021-04-19,European Union,Sinopharm/Beijing,0
+2021-04-19,European Union,Sinovac,1
+2021-04-19,European Union,Sputnik V,0
+2021-04-19,European Union,Valneva,0
+2021-04-20,European Union,Johnson&Johnson,30
+2021-04-20,European Union,Moderna,137077
+2021-04-20,European Union,Novavax,2
+2021-04-20,European Union,Oxford/AstraZeneca,397228
+2021-04-20,European Union,Pfizer/BioNTech,1178548
+2021-04-20,European Union,Sanofi/GSK,0
+2021-04-20,European Union,Sinopharm/Beijing,0
+2021-04-20,European Union,Sinovac,0
+2021-04-20,European Union,Sputnik V,0
+2021-04-20,European Union,Valneva,0
+2021-04-21,European Union,Johnson&Johnson,355
+2021-04-21,European Union,Moderna,149312
+2021-04-21,European Union,Novavax,0
+2021-04-21,European Union,Oxford/AstraZeneca,380729
+2021-04-21,European Union,Pfizer/BioNTech,1158322
+2021-04-21,European Union,Sanofi/GSK,0
+2021-04-21,European Union,Sinopharm/Beijing,0
+2021-04-21,European Union,Sinovac,1
+2021-04-21,European Union,Sputnik V,0
+2021-04-21,European Union,Valneva,0
+2021-04-22,European Union,Johnson&Johnson,101301
+2021-04-22,European Union,Moderna,923501
+2021-04-22,European Union,Novavax,8
+2021-04-22,European Union,Oxford/AstraZeneca,1580585
+2021-04-22,European Union,Pfizer/BioNTech,6228248
+2021-04-22,European Union,Sanofi/GSK,0
+2021-04-22,European Union,Sinopharm/Beijing,21439
+2021-04-22,European Union,Sinovac,328
+2021-04-22,European Union,Sputnik V,172422
+2021-04-22,European Union,Valneva,0
+2021-04-23,European Union,Johnson&Johnson,4628
+2021-04-23,European Union,Moderna,145797
+2021-04-23,European Union,Novavax,0
+2021-04-23,European Union,Oxford/AstraZeneca,223597
+2021-04-23,European Union,Pfizer/BioNTech,798899
+2021-04-23,European Union,Sanofi/GSK,0
+2021-04-23,European Union,Sinopharm/Beijing,0
+2021-04-23,European Union,Sinovac,2
+2021-04-23,European Union,Sputnik V,2
+2021-04-23,European Union,Valneva,0
+2021-04-24,European Union,Johnson&Johnson,8898
+2021-04-24,European Union,Moderna,96098
+2021-04-24,European Union,Novavax,0
+2021-04-24,European Union,Oxford/AstraZeneca,150310
+2021-04-24,European Union,Pfizer/BioNTech,499255
+2021-04-24,European Union,Sanofi/GSK,0
+2021-04-24,European Union,Sinopharm/Beijing,0
+2021-04-24,European Union,Sinovac,0
+2021-04-24,European Union,Sputnik V,0
+2021-04-24,European Union,Valneva,0
+2021-04-25,European Union,Johnson&Johnson,12871
+2021-04-25,European Union,Moderna,132557
+2021-04-25,European Union,Novavax,1
+2021-04-25,European Union,Oxford/AstraZeneca,169761
+2021-04-25,European Union,Pfizer/BioNTech,989686
+2021-04-25,European Union,Sanofi/GSK,0
+2021-04-25,European Union,Sinopharm/Beijing,1
+2021-04-25,European Union,Sinovac,1
+2021-04-25,European Union,Sputnik V,0
+2021-04-25,European Union,Valneva,0
+2021-04-26,European Union,Johnson&Johnson,20926
+2021-04-26,European Union,Moderna,168251
+2021-04-26,European Union,Novavax,0
+2021-04-26,European Union,Oxford/AstraZeneca,176294
+2021-04-26,European Union,Pfizer/BioNTech,1495227
+2021-04-26,European Union,Sanofi/GSK,0
+2021-04-26,European Union,Sinopharm/Beijing,1
+2021-04-26,European Union,Sinovac,1
+2021-04-26,European Union,Sputnik V,0
+2021-04-26,European Union,Valneva,0
+2021-04-27,European Union,Johnson&Johnson,21239
+2021-04-27,European Union,Moderna,186037
+2021-04-27,European Union,Novavax,0
+2021-04-27,European Union,Oxford/AstraZeneca,177387
+2021-04-27,European Union,Pfizer/BioNTech,1844514
+2021-04-27,European Union,Sanofi/GSK,0
+2021-04-27,European Union,Sinopharm/Beijing,3
+2021-04-27,European Union,Sinovac,0
+2021-04-27,European Union,Sputnik V,0
+2021-04-27,European Union,Valneva,0
+2021-04-28,European Union,Johnson&Johnson,28686
+2021-04-28,European Union,Moderna,195445
+2021-04-28,European Union,Novavax,0
+2021-04-28,European Union,Oxford/AstraZeneca,214821
+2021-04-28,European Union,Pfizer/BioNTech,1770929
+2021-04-28,European Union,Sanofi/GSK,0
+2021-04-28,European Union,Sinopharm/Beijing,0
+2021-04-28,European Union,Sinovac,0
+2021-04-28,European Union,Sputnik V,0
+2021-04-28,European Union,Valneva,0
+2021-04-29,European Union,Johnson&Johnson,224131
+2021-04-29,European Union,Moderna,859085
+2021-04-29,European Union,Novavax,5
+2021-04-29,European Union,Oxford/AstraZeneca,1306561
+2021-04-29,European Union,Pfizer/BioNTech,7761359
+2021-04-29,European Union,Sanofi/GSK,0
+2021-04-29,European Union,Sinopharm/Beijing,339527
+2021-04-29,European Union,Sinovac,265
+2021-04-29,European Union,Sputnik V,205737
+2021-04-29,European Union,Valneva,0
+2021-04-30,European Union,Johnson&Johnson,22599
+2021-04-30,European Union,Moderna,116524
+2021-04-30,European Union,Novavax,0
+2021-04-30,European Union,Oxford/AstraZeneca,125623
+2021-04-30,European Union,Pfizer/BioNTech,804007
+2021-04-30,European Union,Sanofi/GSK,0
+2021-04-30,European Union,Sinopharm/Beijing,1
+2021-04-30,European Union,Sinovac,0
+2021-04-30,European Union,Sputnik V,1
+2021-04-30,European Union,Valneva,0
+2021-05-01,European Union,Johnson&Johnson,13938
+2021-05-01,European Union,Moderna,89044
+2021-05-01,European Union,Novavax,0
+2021-05-01,European Union,Oxford/AstraZeneca,102137
+2021-05-01,European Union,Pfizer/BioNTech,618774
+2021-05-01,European Union,Sanofi/GSK,0
+2021-05-01,European Union,Sinopharm/Beijing,1
+2021-05-01,European Union,Sinovac,0
+2021-05-01,European Union,Sputnik V,0
+2021-05-01,European Union,Valneva,0
+2021-05-02,European Union,Johnson&Johnson,19772
+2021-05-02,European Union,Moderna,160257
+2021-05-02,European Union,Novavax,0
+2021-05-02,European Union,Oxford/AstraZeneca,185174
+2021-05-02,European Union,Pfizer/BioNTech,1099096
+2021-05-02,European Union,Sanofi/GSK,0
+2021-05-02,European Union,Sinopharm/Beijing,0
+2021-05-02,European Union,Sinovac,0
+2021-05-02,European Union,Sputnik V,0
+2021-05-02,European Union,Valneva,0
+2021-05-03,European Union,Johnson&Johnson,25288
+2021-05-03,European Union,Moderna,186078
+2021-05-03,European Union,Novavax,0
+2021-05-03,European Union,Oxford/AstraZeneca,322546
+2021-05-03,European Union,Pfizer/BioNTech,1528427
+2021-05-03,European Union,Sanofi/GSK,0
+2021-05-03,European Union,Sinopharm/Beijing,0
+2021-05-03,European Union,Sinovac,0
+2021-05-03,European Union,Sputnik V,0
+2021-05-03,European Union,Valneva,0
+2021-05-04,European Union,Johnson&Johnson,27483
+2021-05-04,European Union,Moderna,199795
+2021-05-04,European Union,Novavax,0
+2021-05-04,European Union,Oxford/AstraZeneca,398199
+2021-05-04,European Union,Pfizer/BioNTech,1820013
+2021-05-04,European Union,Sanofi/GSK,0
+2021-05-04,European Union,Sinopharm/Beijing,0
+2021-05-04,European Union,Sinovac,0
+2021-05-04,European Union,Sputnik V,0
+2021-05-04,European Union,Valneva,0
+2021-05-05,European Union,Johnson&Johnson,32134
+2021-05-05,European Union,Moderna,218989
+2021-05-05,European Union,Novavax,0
+2021-05-05,European Union,Oxford/AstraZeneca,394127
+2021-05-05,European Union,Pfizer/BioNTech,1712745
+2021-05-05,European Union,Sanofi/GSK,0
+2021-05-05,European Union,Sinopharm/Beijing,0
+2021-05-05,European Union,Sinovac,0
+2021-05-05,European Union,Sputnik V,0
+2021-05-05,European Union,Valneva,0
+2021-05-06,European Union,Johnson&Johnson,220044
+2021-05-06,European Union,Moderna,1122244
+2021-05-06,European Union,Novavax,3
+2021-05-06,European Union,Oxford/AstraZeneca,2201254
+2021-05-06,European Union,Pfizer/BioNTech,8394492
+2021-05-06,European Union,Sanofi/GSK,0
+2021-05-06,European Union,Sinopharm/Beijing,73333
+2021-05-06,European Union,Sinovac,126
+2021-05-06,European Union,Sputnik V,217715
+2021-05-06,European Union,Valneva,0
+2021-05-07,European Union,Johnson&Johnson,22200
+2021-05-07,European Union,Moderna,178595
+2021-05-07,European Union,Novavax,0
+2021-05-07,European Union,Oxford/AstraZeneca,210706
+2021-05-07,European Union,Pfizer/BioNTech,964647
+2021-05-07,European Union,Sanofi/GSK,0
+2021-05-07,European Union,Sinopharm/Beijing,0
+2021-05-07,European Union,Sinovac,0
+2021-05-07,European Union,Sputnik V,0
+2021-05-07,European Union,Valneva,0
+2021-05-08,European Union,Johnson&Johnson,11109
+2021-05-08,European Union,Moderna,121312
+2021-05-08,European Union,Novavax,0
+2021-05-08,European Union,Oxford/AstraZeneca,134322
+2021-05-08,European Union,Pfizer/BioNTech,704118
+2021-05-08,European Union,Sanofi/GSK,0
+2021-05-08,European Union,Sinopharm/Beijing,0
+2021-05-08,European Union,Sinovac,0
+2021-05-08,European Union,Sputnik V,0
+2021-05-08,European Union,Valneva,0
+2021-05-09,European Union,Johnson&Johnson,23286
+2021-05-09,European Union,Moderna,194442
+2021-05-09,European Union,Novavax,0
+2021-05-09,European Union,Oxford/AstraZeneca,290762
+2021-05-09,European Union,Pfizer/BioNTech,1269627
+2021-05-09,European Union,Sanofi/GSK,0
+2021-05-09,European Union,Sinopharm/Beijing,0
+2021-05-09,European Union,Sinovac,2
+2021-05-09,European Union,Sputnik V,0
+2021-05-09,European Union,Valneva,0
+2021-05-10,European Union,Johnson&Johnson,33747
+2021-05-10,European Union,Moderna,227855
+2021-05-10,European Union,Novavax,0
+2021-05-10,European Union,Oxford/AstraZeneca,355834
+2021-05-10,European Union,Pfizer/BioNTech,1879719
+2021-05-10,European Union,Sanofi/GSK,0
+2021-05-10,European Union,Sinopharm/Beijing,0
+2021-05-10,European Union,Sinovac,0
+2021-05-10,European Union,Sputnik V,0
+2021-05-10,European Union,Valneva,0
+2021-05-11,European Union,Johnson&Johnson,31005
+2021-05-11,European Union,Moderna,244397
+2021-05-11,European Union,Novavax,0
+2021-05-11,European Union,Oxford/AstraZeneca,394441
+2021-05-11,European Union,Pfizer/BioNTech,2170498
+2021-05-11,European Union,Sanofi/GSK,0
+2021-05-11,European Union,Sinopharm/Beijing,0
+2021-05-11,European Union,Sinovac,1
+2021-05-11,European Union,Sputnik V,1
+2021-05-11,European Union,Valneva,0
+2021-05-12,European Union,Johnson&Johnson,18998
+2021-05-12,European Union,Moderna,191087
+2021-05-12,European Union,Novavax,0
+2021-05-12,European Union,Oxford/AstraZeneca,160219
+2021-05-12,European Union,Pfizer/BioNTech,1187263
+2021-05-12,European Union,Sanofi/GSK,0
+2021-05-12,European Union,Sinopharm/Beijing,1
+2021-05-12,European Union,Sinovac,1
+2021-05-12,European Union,Sputnik V,0
+2021-05-12,European Union,Valneva,0
+2021-05-13,European Union,Johnson&Johnson,260457
+2021-05-13,European Union,Moderna,1398023
+2021-05-13,European Union,Novavax,2
+2021-05-13,European Union,Oxford/AstraZeneca,1692338
+2021-05-13,European Union,Pfizer/BioNTech,8777819
+2021-05-13,European Union,Sanofi/GSK,0
+2021-05-13,European Union,Sinopharm/Beijing,51094
+2021-05-13,European Union,Sinovac,122
+2021-05-13,European Union,Sputnik V,88995
+2021-05-13,European Union,Valneva,0
+2021-05-14,European Union,Johnson&Johnson,28594
+2021-05-14,European Union,Moderna,198443
+2021-05-14,European Union,Novavax,0
+2021-05-14,European Union,Oxford/AstraZeneca,195557
+2021-05-14,European Union,Pfizer/BioNTech,1153893
+2021-05-14,European Union,Sanofi/GSK,0
+2021-05-14,European Union,Sinopharm/Beijing,0
+2021-05-14,European Union,Sinovac,0
+2021-05-14,European Union,Sputnik V,0
+2021-05-14,European Union,Valneva,0
+2021-05-15,European Union,Johnson&Johnson,22926
+2021-05-15,European Union,Moderna,140794
+2021-05-15,European Union,Novavax,0
+2021-05-15,European Union,Oxford/AstraZeneca,113636
+2021-05-15,European Union,Pfizer/BioNTech,764939
+2021-05-15,European Union,Sanofi/GSK,0
+2021-05-15,European Union,Sinopharm/Beijing,0
+2021-05-15,European Union,Sinovac,0
+2021-05-15,European Union,Sputnik V,2
+2021-05-15,European Union,Valneva,0
+2021-05-16,European Union,Johnson&Johnson,38188
+2021-05-16,European Union,Moderna,202431
+2021-05-16,European Union,Novavax,1
+2021-05-16,European Union,Oxford/AstraZeneca,252142
+2021-05-16,European Union,Pfizer/BioNTech,1239018
+2021-05-16,European Union,Sanofi/GSK,0
+2021-05-16,European Union,Sinopharm/Beijing,1
+2021-05-16,European Union,Sinovac,2
+2021-05-16,European Union,Sputnik V,0
+2021-05-16,European Union,Valneva,0
+2021-05-17,European Union,Johnson&Johnson,43331
+2021-05-17,European Union,Moderna,241885
+2021-05-17,European Union,Novavax,0
+2021-05-17,European Union,Oxford/AstraZeneca,338874
+2021-05-17,European Union,Pfizer/BioNTech,1593419
+2021-05-17,European Union,Sanofi/GSK,0
+2021-05-17,European Union,Sinopharm/Beijing,1
+2021-05-17,European Union,Sinovac,1
+2021-05-17,European Union,Sputnik V,0
+2021-05-17,European Union,Valneva,0
+2021-05-18,European Union,Johnson&Johnson,46606
+2021-05-18,European Union,Moderna,248295
+2021-05-18,European Union,Novavax,0
+2021-05-18,European Union,Oxford/AstraZeneca,358506
+2021-05-18,European Union,Pfizer/BioNTech,1846412
+2021-05-18,European Union,Sanofi/GSK,0
+2021-05-18,European Union,Sinopharm/Beijing,0
+2021-05-18,European Union,Sinovac,1
+2021-05-18,European Union,Sputnik V,0
+2021-05-18,European Union,Valneva,0
+2021-05-19,European Union,Johnson&Johnson,50403
+2021-05-19,European Union,Moderna,237206
+2021-05-19,European Union,Novavax,0
+2021-05-19,European Union,Oxford/AstraZeneca,340182
+2021-05-19,European Union,Pfizer/BioNTech,1792499
+2021-05-19,European Union,Sanofi/GSK,0
+2021-05-19,European Union,Sinopharm/Beijing,0
+2021-05-19,European Union,Sinovac,0
+2021-05-19,European Union,Sputnik V,0
+2021-05-19,European Union,Valneva,0
+2021-05-20,European Union,Johnson&Johnson,459615
+2021-05-20,European Union,Moderna,1637286
+2021-05-20,European Union,Novavax,5
+2021-05-20,European Union,Oxford/AstraZeneca,1685102
+2021-05-20,European Union,Pfizer/BioNTech,8822107
+2021-05-20,European Union,Sanofi/GSK,0
+2021-05-20,European Union,Sinopharm/Beijing,41375
+2021-05-20,European Union,Sinovac,149
+2021-05-20,European Union,Sputnik V,23194
+2021-05-20,European Union,Valneva,0
+2021-05-21,European Union,Johnson&Johnson,61825
+2021-05-21,European Union,Moderna,213122
+2021-05-21,European Union,Novavax,0
+2021-05-21,European Union,Oxford/AstraZeneca,200690
+2021-05-21,European Union,Pfizer/BioNTech,1004718
+2021-05-21,European Union,Sanofi/GSK,0
+2021-05-21,European Union,Sinopharm/Beijing,1
+2021-05-21,European Union,Sinovac,0
+2021-05-21,European Union,Sputnik V,0
+2021-05-21,European Union,Valneva,0
+2021-05-22,European Union,Johnson&Johnson,48264
+2021-05-22,European Union,Moderna,160896
+2021-05-22,European Union,Novavax,0
+2021-05-22,European Union,Oxford/AstraZeneca,87976
+2021-05-22,European Union,Pfizer/BioNTech,647920
+2021-05-22,European Union,Sanofi/GSK,0
+2021-05-22,European Union,Sinopharm/Beijing,1
+2021-05-22,European Union,Sinovac,1
+2021-05-22,European Union,Sputnik V,0
+2021-05-22,European Union,Valneva,0
+2021-05-23,European Union,Johnson&Johnson,49929
+2021-05-23,European Union,Moderna,168634
+2021-05-23,European Union,Novavax,1
+2021-05-23,European Union,Oxford/AstraZeneca,117861
+2021-05-23,European Union,Pfizer/BioNTech,891233
+2021-05-23,European Union,Sanofi/GSK,0
+2021-05-23,European Union,Sinopharm/Beijing,0
+2021-05-23,European Union,Sinovac,1
+2021-05-23,European Union,Sputnik V,0
+2021-05-23,European Union,Valneva,0
+2021-05-24,European Union,Johnson&Johnson,76238
+2021-05-24,European Union,Moderna,231371
+2021-05-24,European Union,Novavax,0
+2021-05-24,European Union,Oxford/AstraZeneca,282191
+2021-05-24,European Union,Pfizer/BioNTech,1345909
+2021-05-24,European Union,Sanofi/GSK,0
+2021-05-24,European Union,Sinopharm/Beijing,0
+2021-05-24,European Union,Sinovac,0
+2021-05-24,European Union,Sputnik V,0
+2021-05-24,European Union,Valneva,0
+2021-05-25,European Union,Johnson&Johnson,138924
+2021-05-25,European Union,Moderna,242810
+2021-05-25,European Union,Novavax,1
+2021-05-25,European Union,Oxford/AstraZeneca,324012
+2021-05-25,European Union,Pfizer/BioNTech,1903474
+2021-05-25,European Union,Sanofi/GSK,0
+2021-05-25,European Union,Sinopharm/Beijing,2
+2021-05-25,European Union,Sinovac,0
+2021-05-25,European Union,Sputnik V,0
+2021-05-25,European Union,Valneva,0
+2021-05-26,European Union,Johnson&Johnson,133778
+2021-05-26,European Union,Moderna,221638
+2021-05-26,European Union,Novavax,0
+2021-05-26,European Union,Oxford/AstraZeneca,337751
+2021-05-26,European Union,Pfizer/BioNTech,1823612
+2021-05-26,European Union,Sanofi/GSK,0
+2021-05-26,European Union,Sinopharm/Beijing,0
+2021-05-26,European Union,Sinovac,0
+2021-05-26,European Union,Sputnik V,0
+2021-05-26,European Union,Valneva,0
+2021-05-27,European Union,Johnson&Johnson,691098
+2021-05-27,European Union,Moderna,1447233
+2021-05-27,European Union,Novavax,5
+2021-05-27,European Union,Oxford/AstraZeneca,1364098
+2021-05-27,European Union,Pfizer/BioNTech,8494108
+2021-05-27,European Union,Sanofi/GSK,0
+2021-05-27,European Union,Sinopharm/Beijing,295918
+2021-05-27,European Union,Sinovac,89
+2021-05-27,European Union,Sputnik V,61430
+2021-05-27,European Union,Valneva,0
+2021-05-28,European Union,Johnson&Johnson,66813
+2021-05-28,European Union,Moderna,164875
+2021-05-28,European Union,Novavax,0
+2021-05-28,European Union,Oxford/AstraZeneca,211412
+2021-05-28,European Union,Pfizer/BioNTech,1073959
+2021-05-28,European Union,Sanofi/GSK,0
+2021-05-28,European Union,Sinopharm/Beijing,1
+2021-05-28,European Union,Sinovac,0
+2021-05-28,European Union,Sputnik V,0
+2021-05-28,European Union,Valneva,0
+2021-05-29,European Union,Johnson&Johnson,34872
+2021-05-29,European Union,Moderna,96499
+2021-05-29,European Union,Novavax,0
+2021-05-29,European Union,Oxford/AstraZeneca,92883
+2021-05-29,European Union,Pfizer/BioNTech,702100
+2021-05-29,European Union,Sanofi/GSK,0
+2021-05-29,European Union,Sinopharm/Beijing,2
+2021-05-29,European Union,Sinovac,2
+2021-05-29,European Union,Sputnik V,0
+2021-05-29,European Union,Valneva,0
+2021-05-30,European Union,Johnson&Johnson,131442
+2021-05-30,European Union,Moderna,214854
+2021-05-30,European Union,Novavax,0
+2021-05-30,European Union,Oxford/AstraZeneca,209163
+2021-05-30,European Union,Pfizer/BioNTech,1248555
+2021-05-30,European Union,Sanofi/GSK,0
+2021-05-30,European Union,Sinopharm/Beijing,0
+2021-05-30,European Union,Sinovac,0
+2021-05-30,European Union,Sputnik V,0
+2021-05-30,European Union,Valneva,0
+2021-05-31,European Union,Johnson&Johnson,180475
+2021-05-31,European Union,Moderna,243722
+2021-05-31,European Union,Novavax,0
+2021-05-31,European Union,Oxford/AstraZeneca,228615
+2021-05-31,European Union,Pfizer/BioNTech,1709824
+2021-05-31,European Union,Sanofi/GSK,0
+2021-05-31,European Union,Sinopharm/Beijing,0
+2021-05-31,European Union,Sinovac,1
+2021-05-31,European Union,Sputnik V,1
+2021-05-31,European Union,Valneva,0
+2021-06-01,European Union,Johnson&Johnson,178534
+2021-06-01,European Union,Moderna,192956
+2021-06-01,European Union,Novavax,0
+2021-06-01,European Union,Oxford/AstraZeneca,197694
+2021-06-01,European Union,Pfizer/BioNTech,2009039
+2021-06-01,European Union,Sanofi/GSK,0
+2021-06-01,European Union,Sinopharm/Beijing,0
+2021-06-01,European Union,Sinovac,1
+2021-06-01,European Union,Sputnik V,1
+2021-06-01,European Union,Valneva,0
+2021-06-02,European Union,Johnson&Johnson,124459
+2021-06-02,European Union,Moderna,209274
+2021-06-02,European Union,Novavax,0
+2021-06-02,European Union,Oxford/AstraZeneca,222781
+2021-06-02,European Union,Pfizer/BioNTech,1607371
+2021-06-02,European Union,Sanofi/GSK,0
+2021-06-02,European Union,Sinopharm/Beijing,1
+2021-06-02,European Union,Sinovac,0
+2021-06-02,European Union,Sputnik V,0
+2021-06-02,European Union,Valneva,0
+2021-06-03,European Union,Johnson&Johnson,780637
+2021-06-03,European Union,Moderna,1312951
+2021-06-03,European Union,Novavax,3
+2021-06-03,European Union,Oxford/AstraZeneca,1430707
+2021-06-03,European Union,Pfizer/BioNTech,10087989
+2021-06-03,European Union,Sanofi/GSK,0
+2021-06-03,European Union,Sinopharm/Beijing,80142
+2021-06-03,European Union,Sinovac,83
+2021-06-03,European Union,Sputnik V,52633
+2021-06-03,European Union,Valneva,0
+2021-06-04,European Union,Johnson&Johnson,111752
+2021-06-04,European Union,Moderna,175847
+2021-06-04,European Union,Novavax,0
+2021-06-04,European Union,Oxford/AstraZeneca,169443
+2021-06-04,European Union,Pfizer/BioNTech,1204526
+2021-06-04,European Union,Sanofi/GSK,0
+2021-06-04,European Union,Sinopharm/Beijing,0
+2021-06-04,European Union,Sinovac,2
+2021-06-04,European Union,Sputnik V,0
+2021-06-04,European Union,Valneva,0
+2021-06-05,European Union,Johnson&Johnson,68258
+2021-06-05,European Union,Moderna,85596
+2021-06-05,European Union,Novavax,0
+2021-06-05,European Union,Oxford/AstraZeneca,101715
+2021-06-05,European Union,Pfizer/BioNTech,818235
+2021-06-05,European Union,Sanofi/GSK,0
+2021-06-05,European Union,Sinopharm/Beijing,0
+2021-06-05,European Union,Sinovac,3
+2021-06-05,European Union,Sputnik V,0
+2021-06-05,European Union,Valneva,0
+2021-06-06,European Union,Johnson&Johnson,112333
+2021-06-06,European Union,Moderna,195999
+2021-06-06,European Union,Novavax,3
+2021-06-06,European Union,Oxford/AstraZeneca,197176
+2021-06-06,European Union,Pfizer/BioNTech,1460864
+2021-06-06,European Union,Sanofi/GSK,0
+2021-06-06,European Union,Sinopharm/Beijing,1
+2021-06-06,European Union,Sinovac,0
+2021-06-06,European Union,Sputnik V,0
+2021-06-06,European Union,Valneva,0
+2021-06-07,European Union,Johnson&Johnson,142115
+2021-06-07,European Union,Moderna,219841
+2021-06-07,European Union,Novavax,0
+2021-06-07,European Union,Oxford/AstraZeneca,208271
+2021-06-07,European Union,Pfizer/BioNTech,2031866
+2021-06-07,European Union,Sanofi/GSK,0
+2021-06-07,European Union,Sinopharm/Beijing,1
+2021-06-07,European Union,Sinovac,3
+2021-06-07,European Union,Sputnik V,0
+2021-06-07,European Union,Valneva,0
+2021-06-08,European Union,Johnson&Johnson,164771
+2021-06-08,European Union,Moderna,224713
+2021-06-08,European Union,Novavax,1
+2021-06-08,European Union,Oxford/AstraZeneca,210375
+2021-06-08,European Union,Pfizer/BioNTech,2349383
+2021-06-08,European Union,Sanofi/GSK,0
+2021-06-08,European Union,Sinopharm/Beijing,0
+2021-06-08,European Union,Sinovac,3
+2021-06-08,European Union,Sputnik V,0
+2021-06-08,European Union,Valneva,0
+2021-06-09,European Union,Johnson&Johnson,155657
+2021-06-09,European Union,Moderna,209906
+2021-06-09,European Union,Novavax,1
+2021-06-09,European Union,Oxford/AstraZeneca,219065
+2021-06-09,European Union,Pfizer/BioNTech,2142785
+2021-06-09,European Union,Sanofi/GSK,0
+2021-06-09,European Union,Sinopharm/Beijing,0
+2021-06-09,European Union,Sinovac,5
+2021-06-09,European Union,Sputnik V,0
+2021-06-09,European Union,Valneva,0
+2021-06-10,European Union,Johnson&Johnson,675553
+2021-06-10,European Union,Moderna,1542617
+2021-06-10,European Union,Novavax,6
+2021-06-10,European Union,Oxford/AstraZeneca,1681922
+2021-06-10,European Union,Pfizer/BioNTech,11184401
+2021-06-10,European Union,Sanofi/GSK,0
+2021-06-10,European Union,Sinopharm/Beijing,55623
+2021-06-10,European Union,Sinovac,82
+2021-06-10,European Union,Sputnik V,25586
+2021-06-10,European Union,Valneva,0
+2021-06-11,European Union,Johnson&Johnson,68176
+2021-06-11,European Union,Moderna,173733
+2021-06-11,European Union,Novavax,0
+2021-06-11,European Union,Oxford/AstraZeneca,117661
+2021-06-11,European Union,Pfizer/BioNTech,1236780
+2021-06-11,European Union,Sanofi/GSK,0
+2021-06-11,European Union,Sinopharm/Beijing,1
+2021-06-11,European Union,Sinovac,6
+2021-06-11,European Union,Sputnik V,0
+2021-06-11,European Union,Valneva,0
+2021-06-12,European Union,Johnson&Johnson,22009
+2021-06-12,European Union,Moderna,127957
+2021-06-12,European Union,Novavax,0
+2021-06-12,European Union,Oxford/AstraZeneca,46323
+2021-06-12,European Union,Pfizer/BioNTech,756536
+2021-06-12,European Union,Sanofi/GSK,0
+2021-06-12,European Union,Sinopharm/Beijing,1
+2021-06-12,European Union,Sinovac,0
+2021-06-12,European Union,Sputnik V,0
+2021-06-12,European Union,Valneva,0
+2021-06-13,European Union,Johnson&Johnson,79630
+2021-06-13,European Union,Moderna,218297
+2021-06-13,European Union,Novavax,0
+2021-06-13,European Union,Oxford/AstraZeneca,157507
+2021-06-13,European Union,Pfizer/BioNTech,1473770
+2021-06-13,European Union,Sanofi/GSK,0
+2021-06-13,European Union,Sinopharm/Beijing,0
+2021-06-13,European Union,Sinovac,4
+2021-06-13,European Union,Sputnik V,0
+2021-06-13,European Union,Valneva,0
+2021-06-14,European Union,Johnson&Johnson,91279
+2021-06-14,European Union,Moderna,258128
+2021-06-14,European Union,Novavax,0
+2021-06-14,European Union,Oxford/AstraZeneca,217601
+2021-06-14,European Union,Pfizer/BioNTech,1968984
+2021-06-14,European Union,Sanofi/GSK,0
+2021-06-14,European Union,Sinopharm/Beijing,0
+2021-06-14,European Union,Sinovac,4
+2021-06-14,European Union,Sputnik V,0
+2021-06-14,European Union,Valneva,0
+2021-06-15,European Union,Johnson&Johnson,106340
+2021-06-15,European Union,Moderna,258455
+2021-06-15,European Union,Novavax,0
+2021-06-15,European Union,Oxford/AstraZeneca,223467
+2021-06-15,European Union,Pfizer/BioNTech,2251958
+2021-06-15,European Union,Sanofi/GSK,0
+2021-06-15,European Union,Sinopharm/Beijing,0
+2021-06-15,European Union,Sinovac,1
+2021-06-15,European Union,Sputnik V,0
+2021-06-15,European Union,Valneva,0
+2021-06-16,European Union,Johnson&Johnson,101393
+2021-06-16,European Union,Moderna,247044
+2021-06-16,European Union,Novavax,0
+2021-06-16,European Union,Oxford/AstraZeneca,250473
+2021-06-16,European Union,Pfizer/BioNTech,2021301
+2021-06-16,European Union,Sanofi/GSK,0
+2021-06-16,European Union,Sinopharm/Beijing,0
+2021-06-16,European Union,Sinovac,2
+2021-06-16,European Union,Sputnik V,0
+2021-06-16,European Union,Valneva,0
+2021-06-17,European Union,Johnson&Johnson,544097
+2021-06-17,European Union,Moderna,1486359
+2021-06-17,European Union,Novavax,4
+2021-06-17,European Union,Oxford/AstraZeneca,1821660
+2021-06-17,European Union,Pfizer/BioNTech,10760132
+2021-06-17,European Union,Sanofi/GSK,0
+2021-06-17,European Union,Sinopharm/Beijing,30777
+2021-06-17,European Union,Sinovac,116
+2021-06-17,European Union,Sputnik V,13547
+2021-06-17,European Union,Valneva,0
+2021-06-18,European Union,Johnson&Johnson,41217
+2021-06-18,European Union,Moderna,191701
+2021-06-18,European Union,Novavax,0
+2021-06-18,European Union,Oxford/AstraZeneca,128776
+2021-06-18,European Union,Pfizer/BioNTech,1207544
+2021-06-18,European Union,Sanofi/GSK,0
+2021-06-18,European Union,Sinopharm/Beijing,1
+2021-06-18,European Union,Sinovac,2
+2021-06-18,European Union,Sputnik V,0
+2021-06-18,European Union,Valneva,0
+2021-06-19,European Union,Johnson&Johnson,17547
+2021-06-19,European Union,Moderna,135611
+2021-06-19,European Union,Novavax,0
+2021-06-19,European Union,Oxford/AstraZeneca,64851
+2021-06-19,European Union,Pfizer/BioNTech,741287
+2021-06-19,European Union,Sanofi/GSK,0
+2021-06-19,European Union,Sinopharm/Beijing,0
+2021-06-19,European Union,Sinovac,4
+2021-06-19,European Union,Sputnik V,0
+2021-06-19,European Union,Valneva,0
+2021-06-20,European Union,Johnson&Johnson,49222
+2021-06-20,European Union,Moderna,230637
+2021-06-20,European Union,Novavax,0
+2021-06-20,European Union,Oxford/AstraZeneca,189427
+2021-06-20,European Union,Pfizer/BioNTech,1453248
+2021-06-20,European Union,Sanofi/GSK,0
+2021-06-20,European Union,Sinopharm/Beijing,2
+2021-06-20,European Union,Sinovac,2
+2021-06-20,European Union,Sputnik V,0
+2021-06-20,European Union,Valneva,0
+2021-06-21,European Union,Johnson&Johnson,53934
+2021-06-21,European Union,Moderna,271670
+2021-06-21,European Union,Novavax,0
+2021-06-21,European Union,Oxford/AstraZeneca,240062
+2021-06-21,European Union,Pfizer/BioNTech,2009081
+2021-06-21,European Union,Sanofi/GSK,0
+2021-06-21,European Union,Sinopharm/Beijing,0
+2021-06-21,European Union,Sinovac,2
+2021-06-21,European Union,Sputnik V,0
+2021-06-21,European Union,Valneva,0
+2021-06-22,European Union,Johnson&Johnson,57912
+2021-06-22,European Union,Moderna,267334
+2021-06-22,European Union,Novavax,0
+2021-06-22,European Union,Oxford/AstraZeneca,235529
+2021-06-22,European Union,Pfizer/BioNTech,2251096
+2021-06-22,European Union,Sanofi/GSK,0
+2021-06-22,European Union,Sinopharm/Beijing,0
+2021-06-22,European Union,Sinovac,2
+2021-06-22,European Union,Sputnik V,0
+2021-06-22,European Union,Valneva,0
+2021-06-23,European Union,Johnson&Johnson,64198
+2021-06-23,European Union,Moderna,229496
+2021-06-23,European Union,Novavax,0
+2021-06-23,European Union,Oxford/AstraZeneca,246439
+2021-06-23,European Union,Pfizer/BioNTech,1906852
+2021-06-23,European Union,Sanofi/GSK,0
+2021-06-23,European Union,Sinopharm/Beijing,0
+2021-06-23,European Union,Sinovac,4
+2021-06-23,European Union,Sputnik V,0
+2021-06-23,European Union,Valneva,0
+2021-06-24,European Union,Johnson&Johnson,492141
+2021-06-24,European Union,Moderna,1372594
+2021-06-24,European Union,Novavax,6
+2021-06-24,European Union,Oxford/AstraZeneca,2233962
+2021-06-24,European Union,Pfizer/BioNTech,10356620
+2021-06-24,European Union,Sanofi/GSK,0
+2021-06-24,European Union,Sinopharm/Beijing,16757
+2021-06-24,European Union,Sinovac,172
+2021-06-24,European Union,Sputnik V,8735
+2021-06-24,European Union,Valneva,0
+2021-06-25,European Union,Johnson&Johnson,29068
+2021-06-25,European Union,Moderna,203281
+2021-06-25,European Union,Novavax,1
+2021-06-25,European Union,Oxford/AstraZeneca,164063
+2021-06-25,European Union,Pfizer/BioNTech,1171682
+2021-06-25,European Union,Sanofi/GSK,0
+2021-06-25,European Union,Sinopharm/Beijing,2
+2021-06-25,European Union,Sinovac,1
+2021-06-25,European Union,Sputnik V,0
+2021-06-25,European Union,Valneva,0
+2021-06-26,European Union,Johnson&Johnson,11915
+2021-06-26,European Union,Moderna,140288
+2021-06-26,European Union,Novavax,0
+2021-06-26,European Union,Oxford/AstraZeneca,103633
+2021-06-26,European Union,Pfizer/BioNTech,732763
+2021-06-26,European Union,Sanofi/GSK,0
+2021-06-26,European Union,Sinopharm/Beijing,0
+2021-06-26,European Union,Sinovac,3
+2021-06-26,European Union,Sputnik V,0
+2021-06-26,European Union,Valneva,0
+2021-06-27,European Union,Johnson&Johnson,39153
+2021-06-27,European Union,Moderna,228469
+2021-06-27,European Union,Novavax,0
+2021-06-27,European Union,Oxford/AstraZeneca,223917
+2021-06-27,European Union,Pfizer/BioNTech,1442920
+2021-06-27,European Union,Sanofi/GSK,0
+2021-06-27,European Union,Sinopharm/Beijing,0
+2021-06-27,European Union,Sinovac,2
+2021-06-27,European Union,Sputnik V,0
+2021-06-27,European Union,Valneva,0
+2021-06-28,European Union,Johnson&Johnson,41700
+2021-06-28,European Union,Moderna,262173
+2021-06-28,European Union,Novavax,2
+2021-06-28,European Union,Oxford/AstraZeneca,304740
+2021-06-28,European Union,Pfizer/BioNTech,1802665
+2021-06-28,European Union,Sanofi/GSK,0
+2021-06-28,European Union,Sinopharm/Beijing,0
+2021-06-28,European Union,Sinovac,4
+2021-06-28,European Union,Sputnik V,0
+2021-06-28,European Union,Valneva,0
+2021-06-29,European Union,Johnson&Johnson,41074
+2021-06-29,European Union,Moderna,253603
+2021-06-29,European Union,Novavax,1
+2021-06-29,European Union,Oxford/AstraZeneca,307019
+2021-06-29,European Union,Pfizer/BioNTech,1945623
+2021-06-29,European Union,Sanofi/GSK,0
+2021-06-29,European Union,Sinopharm/Beijing,0
+2021-06-29,European Union,Sinovac,0
+2021-06-29,European Union,Sputnik V,0
+2021-06-29,European Union,Valneva,0
+2021-06-30,European Union,Johnson&Johnson,43801
+2021-06-30,European Union,Moderna,227839
+2021-06-30,European Union,Novavax,0
+2021-06-30,European Union,Oxford/AstraZeneca,289882
+2021-06-30,European Union,Pfizer/BioNTech,1799295
+2021-06-30,European Union,Sanofi/GSK,0
+2021-06-30,European Union,Sinopharm/Beijing,0
+2021-06-30,European Union,Sinovac,4
+2021-06-30,European Union,Sputnik V,0
+2021-06-30,European Union,Valneva,0
+2021-07-01,European Union,Johnson&Johnson,506541
+2021-07-01,European Union,Moderna,1219846
+2021-07-01,European Union,Novavax,5
+2021-07-01,European Union,Oxford/AstraZeneca,2399147
+2021-07-01,European Union,Pfizer/BioNTech,10060317
+2021-07-01,European Union,Sanofi/GSK,0
+2021-07-01,European Union,Sinopharm/Beijing,11092
+2021-07-01,European Union,Sinovac,160
+2021-07-01,European Union,Sputnik V,9817
+2021-07-01,European Union,Valneva,0
+2021-07-02,European Union,Johnson&Johnson,31578
+2021-07-02,European Union,Moderna,204994
+2021-07-02,European Union,Novavax,2
+2021-07-02,European Union,Oxford/AstraZeneca,145894
+2021-07-02,European Union,Pfizer/BioNTech,1104902
+2021-07-02,European Union,Sanofi/GSK,0
+2021-07-02,European Union,Sinopharm/Beijing,0
+2021-07-02,European Union,Sinovac,3
+2021-07-02,European Union,Sputnik V,0
+2021-07-02,European Union,Valneva,0
+2021-07-03,European Union,Johnson&Johnson,14381
+2021-07-03,European Union,Moderna,135029
+2021-07-03,European Union,Novavax,0
+2021-07-03,European Union,Oxford/AstraZeneca,81273
+2021-07-03,European Union,Pfizer/BioNTech,681781
+2021-07-03,European Union,Sanofi/GSK,0
+2021-07-03,European Union,Sinopharm/Beijing,0
+2021-07-03,European Union,Sinovac,0
+2021-07-03,European Union,Sputnik V,0
+2021-07-03,European Union,Valneva,0
+2021-07-04,European Union,Johnson&Johnson,30786
+2021-07-04,European Union,Moderna,217795
+2021-07-04,European Union,Novavax,1
+2021-07-04,European Union,Oxford/AstraZeneca,160670
+2021-07-04,European Union,Pfizer/BioNTech,1308169
+2021-07-04,European Union,Sanofi/GSK,0
+2021-07-04,European Union,Sinopharm/Beijing,2
+2021-07-04,European Union,Sinovac,8
+2021-07-04,European Union,Sputnik V,0
+2021-07-04,European Union,Valneva,0
+2021-07-05,European Union,Johnson&Johnson,35518
+2021-07-05,European Union,Moderna,225376
+2021-07-05,European Union,Novavax,0
+2021-07-05,European Union,Oxford/AstraZeneca,197390
+2021-07-05,European Union,Pfizer/BioNTech,1658463
+2021-07-05,European Union,Sanofi/GSK,0
+2021-07-05,European Union,Sinopharm/Beijing,1
+2021-07-05,European Union,Sinovac,4
+2021-07-05,European Union,Sputnik V,0
+2021-07-05,European Union,Valneva,0
+2021-07-06,European Union,Johnson&Johnson,38332
+2021-07-06,European Union,Moderna,223601
+2021-07-06,European Union,Novavax,0
+2021-07-06,European Union,Oxford/AstraZeneca,211753
+2021-07-06,European Union,Pfizer/BioNTech,1930418
+2021-07-06,European Union,Sanofi/GSK,0
+2021-07-06,European Union,Sinopharm/Beijing,0
+2021-07-06,European Union,Sinovac,4
+2021-07-06,European Union,Sputnik V,0
+2021-07-06,European Union,Valneva,0
+2021-07-07,European Union,Johnson&Johnson,41850
+2021-07-07,European Union,Moderna,219653
+2021-07-07,European Union,Novavax,1
+2021-07-07,European Union,Oxford/AstraZeneca,210904
+2021-07-07,European Union,Pfizer/BioNTech,1765616
+2021-07-07,European Union,Sanofi/GSK,0
+2021-07-07,European Union,Sinopharm/Beijing,0
+2021-07-07,European Union,Sinovac,3
+2021-07-07,European Union,Sputnik V,0
+2021-07-07,European Union,Valneva,0
+2021-07-08,European Union,Johnson&Johnson,482051
+2021-07-08,European Union,Moderna,1335822
+2021-07-08,European Union,Novavax,8
+2021-07-08,European Union,Oxford/AstraZeneca,2186047
+2021-07-08,European Union,Pfizer/BioNTech,9482336
+2021-07-08,European Union,Sanofi/GSK,0
+2021-07-08,European Union,Sinopharm/Beijing,9350
+2021-07-08,European Union,Sinovac,133
+2021-07-08,European Union,Sputnik V,9337
+2021-07-08,European Union,Valneva,0
+2021-07-09,European Union,Johnson&Johnson,26625
+2021-07-09,European Union,Moderna,178253
+2021-07-09,European Union,Novavax,1
+2021-07-09,European Union,Oxford/AstraZeneca,151398
+2021-07-09,European Union,Pfizer/BioNTech,1112376
+2021-07-09,European Union,Sanofi/GSK,0
+2021-07-09,European Union,Sinopharm/Beijing,0
+2021-07-09,European Union,Sinovac,4
+2021-07-09,European Union,Sputnik V,0
+2021-07-09,European Union,Valneva,0
+2021-07-10,European Union,Johnson&Johnson,15909
+2021-07-10,European Union,Moderna,103183
+2021-07-10,European Union,Novavax,0
+2021-07-10,European Union,Oxford/AstraZeneca,76800
+2021-07-10,European Union,Pfizer/BioNTech,657466
+2021-07-10,European Union,Sanofi/GSK,0
+2021-07-10,European Union,Sinopharm/Beijing,0
+2021-07-10,European Union,Sinovac,2
+2021-07-10,European Union,Sputnik V,0
+2021-07-10,European Union,Valneva,0
+2021-07-11,European Union,Johnson&Johnson,30973
+2021-07-11,European Union,Moderna,199561
+2021-07-11,European Union,Novavax,0
+2021-07-11,European Union,Oxford/AstraZeneca,158730
+2021-07-11,European Union,Pfizer/BioNTech,1407910
+2021-07-11,European Union,Sanofi/GSK,0
+2021-07-11,European Union,Sinopharm/Beijing,2
+2021-07-11,European Union,Sinovac,5
+2021-07-11,European Union,Sputnik V,0
+2021-07-11,European Union,Valneva,0
+2021-07-12,European Union,Johnson&Johnson,45989
+2021-07-12,European Union,Moderna,249163
+2021-07-12,European Union,Novavax,0
+2021-07-12,European Union,Oxford/AstraZeneca,172182
+2021-07-12,European Union,Pfizer/BioNTech,1864449
+2021-07-12,European Union,Sanofi/GSK,0
+2021-07-12,European Union,Sinopharm/Beijing,1
+2021-07-12,European Union,Sinovac,3
+2021-07-12,European Union,Sputnik V,0
+2021-07-12,European Union,Valneva,0
+2021-07-13,European Union,Johnson&Johnson,40684
+2021-07-13,European Union,Moderna,172546
+2021-07-13,European Union,Novavax,0
+2021-07-13,European Union,Oxford/AstraZeneca,156553
+2021-07-13,European Union,Pfizer/BioNTech,1713382
+2021-07-13,European Union,Sanofi/GSK,0
+2021-07-13,European Union,Sinopharm/Beijing,1
+2021-07-13,European Union,Sinovac,0
+2021-07-13,European Union,Sputnik V,0
+2021-07-13,European Union,Valneva,0
+2021-07-14,European Union,Johnson&Johnson,55148
+2021-07-14,European Union,Moderna,240093
+2021-07-14,European Union,Novavax,1
+2021-07-14,European Union,Oxford/AstraZeneca,171756
+2021-07-14,European Union,Pfizer/BioNTech,1896600
+2021-07-14,European Union,Sanofi/GSK,0
+2021-07-14,European Union,Sinopharm/Beijing,1
+2021-07-14,European Union,Sinovac,4
+2021-07-14,European Union,Sputnik V,0
+2021-07-14,European Union,Valneva,0
+2021-07-15,European Union,Johnson&Johnson,576073
+2021-07-15,European Union,Moderna,1533419
+2021-07-15,European Union,Novavax,6
+2021-07-15,European Union,Oxford/AstraZeneca,1299596
+2021-07-15,European Union,Pfizer/BioNTech,8593198
+2021-07-15,European Union,Sanofi/GSK,0
+2021-07-15,European Union,Sinopharm/Beijing,6342
+2021-07-15,European Union,Sinovac,228
+2021-07-15,European Union,Sputnik V,6019
+2021-07-15,European Union,Valneva,0
+2021-07-16,European Union,Johnson&Johnson,36151
+2021-07-16,European Union,Moderna,180048
+2021-07-16,European Union,Novavax,0
+2021-07-16,European Union,Oxford/AstraZeneca,113525
+2021-07-16,European Union,Pfizer/BioNTech,1124020
+2021-07-16,European Union,Sanofi/GSK,0
+2021-07-16,European Union,Sinopharm/Beijing,0
+2021-07-16,European Union,Sinovac,2
+2021-07-16,European Union,Sputnik V,0
+2021-07-16,European Union,Valneva,0
+2021-07-17,European Union,Johnson&Johnson,16277
+2021-07-17,European Union,Moderna,108916
+2021-07-17,European Union,Novavax,0
+2021-07-17,European Union,Oxford/AstraZeneca,81054
+2021-07-17,European Union,Pfizer/BioNTech,686347
+2021-07-17,European Union,Sanofi/GSK,0
+2021-07-17,European Union,Sinopharm/Beijing,0
+2021-07-17,European Union,Sinovac,5
+2021-07-17,European Union,Sputnik V,0
+2021-07-17,European Union,Valneva,0
+2021-07-18,European Union,Johnson&Johnson,36868
+2021-07-18,European Union,Moderna,183915
+2021-07-18,European Union,Novavax,0
+2021-07-18,European Union,Oxford/AstraZeneca,133867
+2021-07-18,European Union,Pfizer/BioNTech,1408455
+2021-07-18,European Union,Sanofi/GSK,0
+2021-07-18,European Union,Sinopharm/Beijing,0
+2021-07-18,European Union,Sinovac,1
+2021-07-18,European Union,Sputnik V,0
+2021-07-18,European Union,Valneva,0
+2021-07-19,European Union,Johnson&Johnson,44333
+2021-07-19,European Union,Moderna,226969
+2021-07-19,European Union,Novavax,0
+2021-07-19,European Union,Oxford/AstraZeneca,154463
+2021-07-19,European Union,Pfizer/BioNTech,1741860
+2021-07-19,European Union,Sanofi/GSK,0
+2021-07-19,European Union,Sinopharm/Beijing,1
+2021-07-19,European Union,Sinovac,2
+2021-07-19,European Union,Sputnik V,0
+2021-07-19,European Union,Valneva,0
+2021-07-20,European Union,Johnson&Johnson,45132
+2021-07-20,European Union,Moderna,220297
+2021-07-20,European Union,Novavax,0
+2021-07-20,European Union,Oxford/AstraZeneca,158651
+2021-07-20,European Union,Pfizer/BioNTech,1884315
+2021-07-20,European Union,Sanofi/GSK,0
+2021-07-20,European Union,Sinopharm/Beijing,1
+2021-07-20,European Union,Sinovac,3
+2021-07-20,European Union,Sputnik V,0
+2021-07-20,European Union,Valneva,0
+2021-07-21,European Union,Johnson&Johnson,48179
+2021-07-21,European Union,Moderna,222534
+2021-07-21,European Union,Novavax,0
+2021-07-21,European Union,Oxford/AstraZeneca,164788
+2021-07-21,European Union,Pfizer/BioNTech,1760658
+2021-07-21,European Union,Sanofi/GSK,0
+2021-07-21,European Union,Sinopharm/Beijing,0
+2021-07-21,European Union,Sinovac,4
+2021-07-21,European Union,Sputnik V,0
+2021-07-21,European Union,Valneva,0
+2021-07-22,European Union,Johnson&Johnson,552965
+2021-07-22,European Union,Moderna,1304271
+2021-07-22,European Union,Novavax,6
+2021-07-22,European Union,Oxford/AstraZeneca,860030
+2021-07-22,European Union,Pfizer/BioNTech,7800838
+2021-07-22,European Union,Sanofi/GSK,0
+2021-07-22,European Union,Sinopharm/Beijing,5041
+2021-07-22,European Union,Sinovac,384
+2021-07-22,European Union,Sputnik V,4240
+2021-07-22,European Union,Valneva,0
+2021-07-23,European Union,Johnson&Johnson,32109
+2021-07-23,European Union,Moderna,169053
+2021-07-23,European Union,Novavax,2
+2021-07-23,European Union,Oxford/AstraZeneca,101225
+2021-07-23,European Union,Pfizer/BioNTech,1009327
+2021-07-23,European Union,Sanofi/GSK,0
+2021-07-23,European Union,Sinopharm/Beijing,1
+2021-07-23,European Union,Sinovac,1
+2021-07-23,European Union,Sputnik V,0
+2021-07-23,European Union,Valneva,0
+2021-07-24,European Union,Johnson&Johnson,13766
+2021-07-24,European Union,Moderna,90827
+2021-07-24,European Union,Novavax,0
+2021-07-24,European Union,Oxford/AstraZeneca,62065
+2021-07-24,European Union,Pfizer/BioNTech,547461
+2021-07-24,European Union,Sanofi/GSK,0
+2021-07-24,European Union,Sinopharm/Beijing,0
+2021-07-24,European Union,Sinovac,2
+2021-07-24,European Union,Sputnik V,0
+2021-07-24,European Union,Valneva,0
+2021-07-25,European Union,Johnson&Johnson,36428
+2021-07-25,European Union,Moderna,178481
+2021-07-25,European Union,Novavax,0
+2021-07-25,European Union,Oxford/AstraZeneca,113917
+2021-07-25,European Union,Pfizer/BioNTech,1331160
+2021-07-25,European Union,Sanofi/GSK,0
+2021-07-25,European Union,Sinopharm/Beijing,0
+2021-07-25,European Union,Sinovac,0
+2021-07-25,European Union,Sputnik V,0
+2021-07-25,European Union,Valneva,0
+2021-07-26,European Union,Johnson&Johnson,44531
+2021-07-26,European Union,Moderna,226253
+2021-07-26,European Union,Novavax,0
+2021-07-26,European Union,Oxford/AstraZeneca,123984
+2021-07-26,European Union,Pfizer/BioNTech,1652714
+2021-07-26,European Union,Sanofi/GSK,0
+2021-07-26,European Union,Sinopharm/Beijing,0
+2021-07-26,European Union,Sinovac,4
+2021-07-26,European Union,Sputnik V,0
+2021-07-26,European Union,Valneva,0
+2021-07-27,European Union,Johnson&Johnson,45255
+2021-07-27,European Union,Moderna,236568
+2021-07-27,European Union,Novavax,0
+2021-07-27,European Union,Oxford/AstraZeneca,121407
+2021-07-27,European Union,Pfizer/BioNTech,1715665
+2021-07-27,European Union,Sanofi/GSK,0
+2021-07-27,European Union,Sinopharm/Beijing,0
+2021-07-27,European Union,Sinovac,2
+2021-07-27,European Union,Sputnik V,0
+2021-07-27,European Union,Valneva,0
+2021-07-28,European Union,Johnson&Johnson,44943
+2021-07-28,European Union,Moderna,252843
+2021-07-28,European Union,Novavax,0
+2021-07-28,European Union,Oxford/AstraZeneca,109743
+2021-07-28,European Union,Pfizer/BioNTech,1572935
+2021-07-28,European Union,Sanofi/GSK,0
+2021-07-28,European Union,Sinopharm/Beijing,0
+2021-07-28,European Union,Sinovac,1
+2021-07-28,European Union,Sputnik V,0
+2021-07-28,European Union,Valneva,0
+2021-07-29,European Union,Johnson&Johnson,413686
+2021-07-29,European Union,Moderna,1173771
+2021-07-29,European Union,Novavax,11
+2021-07-29,European Union,Oxford/AstraZeneca,583776
+2021-07-29,European Union,Pfizer/BioNTech,7057326
+2021-07-29,European Union,Sanofi/GSK,0
+2021-07-29,European Union,Sinopharm/Beijing,4029
+2021-07-29,European Union,Sinovac,340
+2021-07-29,European Union,Sputnik V,5172
+2021-07-29,European Union,Valneva,0
+2021-07-30,European Union,Johnson&Johnson,29447
+2021-07-30,European Union,Moderna,176153
+2021-07-30,European Union,Novavax,0
+2021-07-30,European Union,Oxford/AstraZeneca,57662
+2021-07-30,European Union,Pfizer/BioNTech,873906
+2021-07-30,European Union,Sanofi/GSK,0
+2021-07-30,European Union,Sinopharm/Beijing,0
+2021-07-30,European Union,Sinovac,2
+2021-07-30,European Union,Sputnik V,0
+2021-07-30,European Union,Valneva,0
+2021-07-31,European Union,Johnson&Johnson,13117
+2021-07-31,European Union,Moderna,103891
+2021-07-31,European Union,Novavax,2
+2021-07-31,European Union,Oxford/AstraZeneca,38066
+2021-07-31,European Union,Pfizer/BioNTech,439286
+2021-07-31,European Union,Sanofi/GSK,0
+2021-07-31,European Union,Sinopharm/Beijing,0
+2021-07-31,European Union,Sinovac,1
+2021-07-31,European Union,Sputnik V,0
+2021-07-31,European Union,Valneva,0
+2021-08-01,European Union,Johnson&Johnson,32026
+2021-08-01,European Union,Moderna,176099
+2021-08-01,European Union,Novavax,1
+2021-08-01,European Union,Oxford/AstraZeneca,63478
+2021-08-01,European Union,Pfizer/BioNTech,1145477
+2021-08-01,European Union,Sanofi/GSK,0
+2021-08-01,European Union,Sinopharm/Beijing,0
+2021-08-01,European Union,Sinovac,0
+2021-08-01,European Union,Sputnik V,0
+2021-08-01,European Union,Valneva,0
+2021-08-02,European Union,Johnson&Johnson,39499
+2021-08-02,European Union,Moderna,211091
+2021-08-02,European Union,Novavax,0
+2021-08-02,European Union,Oxford/AstraZeneca,59094
+2021-08-02,European Union,Pfizer/BioNTech,1379656
+2021-08-02,European Union,Sanofi/GSK,0
+2021-08-02,European Union,Sinopharm/Beijing,0
+2021-08-02,European Union,Sinovac,6
+2021-08-02,European Union,Sputnik V,0
+2021-08-02,European Union,Valneva,0
+2021-08-03,European Union,Johnson&Johnson,37666
+2021-08-03,European Union,Moderna,202222
+2021-08-03,European Union,Novavax,0
+2021-08-03,European Union,Oxford/AstraZeneca,59325
+2021-08-03,European Union,Pfizer/BioNTech,1462117
+2021-08-03,European Union,Sanofi/GSK,0
+2021-08-03,European Union,Sinopharm/Beijing,1
+2021-08-03,European Union,Sinovac,1
+2021-08-03,European Union,Sputnik V,0
+2021-08-03,European Union,Valneva,0
+2021-08-04,European Union,Johnson&Johnson,39323
+2021-08-04,European Union,Moderna,215518
+2021-08-04,European Union,Novavax,0
+2021-08-04,European Union,Oxford/AstraZeneca,46305
+2021-08-04,European Union,Pfizer/BioNTech,1365767
+2021-08-04,European Union,Sanofi/GSK,0
+2021-08-04,European Union,Sinopharm/Beijing,0
+2021-08-04,European Union,Sinovac,1
+2021-08-04,European Union,Sputnik V,0
+2021-08-04,European Union,Valneva,0
+2021-08-05,European Union,Johnson&Johnson,411635
+2021-08-05,European Union,Moderna,1108963
+2021-08-05,European Union,Novavax,5
+2021-08-05,European Union,Oxford/AstraZeneca,252562
+2021-08-05,European Union,Pfizer/BioNTech,6554332
+2021-08-05,European Union,Sanofi/GSK,0
+2021-08-05,European Union,Sinopharm/Beijing,4763
+2021-08-05,European Union,Sinovac,353
+2021-08-05,European Union,Sputnik V,2247
+2021-08-05,European Union,Valneva,0
+2021-08-06,European Union,Johnson&Johnson,27651
+2021-08-06,European Union,Moderna,144524
+2021-08-06,European Union,Novavax,1
+2021-08-06,European Union,Oxford/AstraZeneca,30284
+2021-08-06,European Union,Pfizer/BioNTech,753187
+2021-08-06,European Union,Sanofi/GSK,0
+2021-08-06,European Union,Sinopharm/Beijing,1
+2021-08-06,European Union,Sinovac,0
+2021-08-06,European Union,Sputnik V,0
+2021-08-06,European Union,Valneva,0
+2021-08-07,European Union,Johnson&Johnson,10332
+2021-08-07,European Union,Moderna,88197
+2021-08-07,European Union,Novavax,0
+2021-08-07,European Union,Oxford/AstraZeneca,18208
+2021-08-07,European Union,Pfizer/BioNTech,417011
+2021-08-07,European Union,Sanofi/GSK,0
+2021-08-07,European Union,Sinopharm/Beijing,0
+2021-08-07,European Union,Sinovac,1
+2021-08-07,European Union,Sputnik V,0
+2021-08-07,European Union,Valneva,0
+2021-08-08,European Union,Johnson&Johnson,24172
+2021-08-08,European Union,Moderna,180457
+2021-08-08,European Union,Novavax,1
+2021-08-08,European Union,Oxford/AstraZeneca,31289
+2021-08-08,European Union,Pfizer/BioNTech,1050837
+2021-08-08,European Union,Sanofi/GSK,0
+2021-08-08,European Union,Sinopharm/Beijing,0
+2021-08-08,European Union,Sinovac,1
+2021-08-08,European Union,Sputnik V,0
+2021-08-08,European Union,Valneva,0
+2021-08-09,European Union,Johnson&Johnson,28255
+2021-08-09,European Union,Moderna,208470
+2021-08-09,European Union,Novavax,0
+2021-08-09,European Union,Oxford/AstraZeneca,34236
+2021-08-09,European Union,Pfizer/BioNTech,1225808
+2021-08-09,European Union,Sanofi/GSK,0
+2021-08-09,European Union,Sinopharm/Beijing,0
+2021-08-09,European Union,Sinovac,5
+2021-08-09,European Union,Sputnik V,0
+2021-08-09,European Union,Valneva,0
+2021-08-10,European Union,Johnson&Johnson,37534
+2021-08-10,European Union,Moderna,187156
+2021-08-10,European Union,Novavax,0
+2021-08-10,European Union,Oxford/AstraZeneca,32780
+2021-08-10,European Union,Pfizer/BioNTech,1294648
+2021-08-10,European Union,Sanofi/GSK,0
+2021-08-10,European Union,Sinopharm/Beijing,2
+2021-08-10,European Union,Sinovac,1
+2021-08-10,European Union,Sputnik V,0
+2021-08-10,European Union,Valneva,0
+2021-08-11,European Union,Johnson&Johnson,41147
+2021-08-11,European Union,Moderna,181491
+2021-08-11,European Union,Novavax,0
+2021-08-11,European Union,Oxford/AstraZeneca,26357
+2021-08-11,European Union,Pfizer/BioNTech,1194162
+2021-08-11,European Union,Sanofi/GSK,0
+2021-08-11,European Union,Sinopharm/Beijing,0
+2021-08-11,European Union,Sinovac,0
+2021-08-11,European Union,Sputnik V,0
+2021-08-11,European Union,Valneva,0
+2021-08-12,European Union,Johnson&Johnson,409632
+2021-08-12,European Union,Moderna,1186672
+2021-08-12,European Union,Novavax,6
+2021-08-12,European Union,Oxford/AstraZeneca,206369
+2021-08-12,European Union,Pfizer/BioNTech,5743232
+2021-08-12,European Union,Sanofi/GSK,0
+2021-08-12,European Union,Sinopharm/Beijing,6104
+2021-08-12,European Union,Sinovac,317
+2021-08-12,European Union,Sputnik V,2586
+2021-08-12,European Union,Valneva,0
+2021-08-13,European Union,Johnson&Johnson,26087
+2021-08-13,European Union,Moderna,105143
+2021-08-13,European Union,Novavax,0
+2021-08-13,European Union,Oxford/AstraZeneca,7799
+2021-08-13,European Union,Pfizer/BioNTech,554889
+2021-08-13,European Union,Sanofi/GSK,0
+2021-08-13,European Union,Sinopharm/Beijing,0
+2021-08-13,European Union,Sinovac,0
+2021-08-13,European Union,Sputnik V,0
+2021-08-13,European Union,Valneva,0
+2021-08-14,European Union,Johnson&Johnson,11049
+2021-08-14,European Union,Moderna,39750
+2021-08-14,European Union,Novavax,0
+2021-08-14,European Union,Oxford/AstraZeneca,3074
+2021-08-14,European Union,Pfizer/BioNTech,220074
+2021-08-14,European Union,Sanofi/GSK,0
+2021-08-14,European Union,Sinopharm/Beijing,0
+2021-08-14,European Union,Sinovac,0
+2021-08-14,European Union,Sputnik V,0
+2021-08-14,European Union,Valneva,0
+2021-08-15,European Union,Johnson&Johnson,27967
+2021-08-15,European Union,Moderna,134463
+2021-08-15,European Union,Novavax,0
+2021-08-15,European Union,Oxford/AstraZeneca,15199
+2021-08-15,European Union,Pfizer/BioNTech,886574
+2021-08-15,European Union,Sanofi/GSK,0
+2021-08-15,European Union,Sinopharm/Beijing,0
+2021-08-15,European Union,Sinovac,2
+2021-08-15,European Union,Sputnik V,0
+2021-08-15,European Union,Valneva,0
+2021-08-16,European Union,Johnson&Johnson,34167
+2021-08-16,European Union,Moderna,168028
+2021-08-16,European Union,Novavax,0
+2021-08-16,European Union,Oxford/AstraZeneca,23395
+2021-08-16,European Union,Pfizer/BioNTech,1030392
+2021-08-16,European Union,Sanofi/GSK,0
+2021-08-16,European Union,Sinopharm/Beijing,0
+2021-08-16,European Union,Sinovac,0
+2021-08-16,European Union,Sputnik V,0
+2021-08-16,European Union,Valneva,0
+2021-08-17,European Union,Johnson&Johnson,38058
+2021-08-17,European Union,Moderna,155073
+2021-08-17,European Union,Novavax,1
+2021-08-17,European Union,Oxford/AstraZeneca,20883
+2021-08-17,European Union,Pfizer/BioNTech,1095030
+2021-08-17,European Union,Sanofi/GSK,0
+2021-08-17,European Union,Sinopharm/Beijing,0
+2021-08-17,European Union,Sinovac,2
+2021-08-17,European Union,Sputnik V,0
+2021-08-17,European Union,Valneva,0
+2021-08-18,European Union,Johnson&Johnson,38648
+2021-08-18,European Union,Moderna,167527
+2021-08-18,European Union,Novavax,0
+2021-08-18,European Union,Oxford/AstraZeneca,20285
+2021-08-18,European Union,Pfizer/BioNTech,977474
+2021-08-18,European Union,Sanofi/GSK,0
+2021-08-18,European Union,Sinopharm/Beijing,0
+2021-08-18,European Union,Sinovac,4
+2021-08-18,European Union,Sputnik V,0
+2021-08-18,European Union,Valneva,0
+2021-08-19,European Union,Johnson&Johnson,334903
+2021-08-19,European Union,Moderna,1064592
+2021-08-19,European Union,Novavax,7
+2021-08-19,European Union,Oxford/AstraZeneca,67546
+2021-08-19,European Union,Pfizer/BioNTech,4838544
+2021-08-19,European Union,Sanofi/GSK,0
+2021-08-19,European Union,Sinopharm/Beijing,5177
+2021-08-19,European Union,Sinovac,427
+2021-08-19,European Union,Sputnik V,2217
+2021-08-19,European Union,Valneva,0
+2021-08-20,European Union,Johnson&Johnson,22767
+2021-08-20,European Union,Moderna,107898
+2021-08-20,European Union,Novavax,4
+2021-08-20,European Union,Oxford/AstraZeneca,9672
+2021-08-20,European Union,Pfizer/BioNTech,541467
+2021-08-20,European Union,Sanofi/GSK,0
+2021-08-20,European Union,Sinopharm/Beijing,0
+2021-08-20,European Union,Sinovac,0
+2021-08-20,European Union,Sputnik V,0
+2021-08-20,European Union,Valneva,0
+2021-08-21,European Union,Johnson&Johnson,10720
+2021-08-21,European Union,Moderna,52793
+2021-08-21,European Union,Novavax,1
+2021-08-21,European Union,Oxford/AstraZeneca,7188
+2021-08-21,European Union,Pfizer/BioNTech,273369
+2021-08-21,European Union,Sanofi/GSK,0
+2021-08-21,European Union,Sinopharm/Beijing,1
+2021-08-21,European Union,Sinovac,0
+2021-08-21,European Union,Sputnik V,0
+2021-08-21,European Union,Valneva,0
+2021-08-22,European Union,Johnson&Johnson,28952
+2021-08-22,European Union,Moderna,164500
+2021-08-22,European Union,Novavax,1
+2021-08-22,European Union,Oxford/AstraZeneca,16266
+2021-08-22,European Union,Pfizer/BioNTech,889563
+2021-08-22,European Union,Sanofi/GSK,0
+2021-08-22,European Union,Sinopharm/Beijing,0
+2021-08-22,European Union,Sinovac,1
+2021-08-22,European Union,Sputnik V,0
+2021-08-22,European Union,Valneva,0
+2021-08-23,European Union,Johnson&Johnson,32599
+2021-08-23,European Union,Moderna,182247
+2021-08-23,European Union,Novavax,0
+2021-08-23,European Union,Oxford/AstraZeneca,11489
+2021-08-23,European Union,Pfizer/BioNTech,977020
+2021-08-23,European Union,Sanofi/GSK,0
+2021-08-23,European Union,Sinopharm/Beijing,1
+2021-08-23,European Union,Sinovac,0
+2021-08-23,European Union,Sputnik V,0
+2021-08-23,European Union,Valneva,0
+2021-08-24,European Union,Johnson&Johnson,34666
+2021-08-24,European Union,Moderna,164554
+2021-08-24,European Union,Novavax,0
+2021-08-24,European Union,Oxford/AstraZeneca,10217
+2021-08-24,European Union,Pfizer/BioNTech,1008736
+2021-08-24,European Union,Sanofi/GSK,0
+2021-08-24,European Union,Sinopharm/Beijing,0
+2021-08-24,European Union,Sinovac,1
+2021-08-24,European Union,Sputnik V,0
+2021-08-24,European Union,Valneva,0
+2021-08-25,European Union,Johnson&Johnson,34102
+2021-08-25,European Union,Moderna,174069
+2021-08-25,European Union,Novavax,0
+2021-08-25,European Union,Oxford/AstraZeneca,9344
+2021-08-25,European Union,Pfizer/BioNTech,916535
+2021-08-25,European Union,Sanofi/GSK,0
+2021-08-25,European Union,Sinopharm/Beijing,0
+2021-08-25,European Union,Sinovac,1
+2021-08-25,European Union,Sputnik V,0
+2021-08-25,European Union,Valneva,0
+2021-08-26,European Union,Johnson&Johnson,254700
+2021-08-26,European Union,Moderna,983898
+2021-08-26,European Union,Novavax,7
+2021-08-26,European Union,Oxford/AstraZeneca,47563
+2021-08-26,European Union,Pfizer/BioNTech,4306866
+2021-08-26,European Union,Sanofi/GSK,0
+2021-08-26,European Union,Sinopharm/Beijing,7711
+2021-08-26,European Union,Sinovac,322
+2021-08-26,European Union,Sputnik V,1685
+2021-08-26,European Union,Valneva,0
+2021-08-27,European Union,Johnson&Johnson,22269
+2021-08-27,European Union,Moderna,124195
+2021-08-27,European Union,Novavax,1
+2021-08-27,European Union,Oxford/AstraZeneca,3140
+2021-08-27,European Union,Pfizer/BioNTech,579527
+2021-08-27,European Union,Sanofi/GSK,0
+2021-08-27,European Union,Sinopharm/Beijing,1
+2021-08-27,European Union,Sinovac,1
+2021-08-27,European Union,Sputnik V,0
+2021-08-27,European Union,Valneva,0
+2021-08-28,European Union,Johnson&Johnson,10385
+2021-08-28,European Union,Moderna,53712
+2021-08-28,European Union,Novavax,1
+2021-08-28,European Union,Oxford/AstraZeneca,1825
+2021-08-28,European Union,Pfizer/BioNTech,302522
+2021-08-28,European Union,Sanofi/GSK,0
+2021-08-28,European Union,Sinopharm/Beijing,1
+2021-08-28,European Union,Sinovac,1
+2021-08-28,European Union,Sputnik V,0
+2021-08-28,European Union,Valneva,0
+2021-08-29,European Union,Johnson&Johnson,24518
+2021-08-29,European Union,Moderna,160263
+2021-08-29,European Union,Novavax,1
+2021-08-29,European Union,Oxford/AstraZeneca,6028
+2021-08-29,European Union,Pfizer/BioNTech,840167
+2021-08-29,European Union,Sanofi/GSK,0
+2021-08-29,European Union,Sinopharm/Beijing,0
+2021-08-29,European Union,Sinovac,0
+2021-08-29,European Union,Sputnik V,0
+2021-08-29,European Union,Valneva,0
+2021-08-30,European Union,Johnson&Johnson,28007
+2021-08-30,European Union,Moderna,184037
+2021-08-30,European Union,Novavax,0
+2021-08-30,European Union,Oxford/AstraZeneca,6266
+2021-08-30,European Union,Pfizer/BioNTech,896115
+2021-08-30,European Union,Sanofi/GSK,0
+2021-08-30,European Union,Sinopharm/Beijing,0
+2021-08-30,European Union,Sinovac,4
+2021-08-30,European Union,Sputnik V,0
+2021-08-30,European Union,Valneva,0
+2021-08-31,European Union,Johnson&Johnson,26186
+2021-08-31,European Union,Moderna,168925
+2021-08-31,European Union,Novavax,0
+2021-08-31,European Union,Oxford/AstraZeneca,5960
+2021-08-31,European Union,Pfizer/BioNTech,919504
+2021-08-31,European Union,Sanofi/GSK,0
+2021-08-31,European Union,Sinopharm/Beijing,0
+2021-08-31,European Union,Sinovac,2
+2021-08-31,European Union,Sputnik V,0
+2021-08-31,European Union,Valneva,0
+2021-09-01,European Union,Johnson&Johnson,27272
+2021-09-01,European Union,Moderna,172338
+2021-09-01,European Union,Novavax,0
+2021-09-01,European Union,Oxford/AstraZeneca,4899
+2021-09-01,European Union,Pfizer/BioNTech,796260
+2021-09-01,European Union,Sanofi/GSK,0
+2021-09-01,European Union,Sinopharm/Beijing,0
+2021-09-01,European Union,Sinovac,1
+2021-09-01,European Union,Sputnik V,0
+2021-09-01,European Union,Valneva,0
+2021-09-02,European Union,Johnson&Johnson,181903
+2021-09-02,European Union,Moderna,836158
+2021-09-02,European Union,Novavax,4
+2021-09-02,European Union,Oxford/AstraZeneca,33066
+2021-09-02,European Union,Pfizer/BioNTech,3840216
+2021-09-02,European Union,Sanofi/GSK,0
+2021-09-02,European Union,Sinopharm/Beijing,7457
+2021-09-02,European Union,Sinovac,311
+2021-09-02,European Union,Sputnik V,1474
+2021-09-02,European Union,Valneva,0
+2021-09-03,European Union,Johnson&Johnson,15468
+2021-09-03,European Union,Moderna,119535
+2021-09-03,European Union,Novavax,0
+2021-09-03,European Union,Oxford/AstraZeneca,2015
+2021-09-03,European Union,Pfizer/BioNTech,526277
+2021-09-03,European Union,Sanofi/GSK,0
+2021-09-03,European Union,Sinopharm/Beijing,0
+2021-09-03,European Union,Sinovac,0
+2021-09-03,European Union,Sputnik V,0
+2021-09-03,European Union,Valneva,0
+2021-09-04,European Union,Johnson&Johnson,7986
+2021-09-04,European Union,Moderna,61271
+2021-09-04,European Union,Novavax,0
+2021-09-04,European Union,Oxford/AstraZeneca,779
+2021-09-04,European Union,Pfizer/BioNTech,213276
+2021-09-04,European Union,Sanofi/GSK,0
+2021-09-04,European Union,Sinopharm/Beijing,0
+2021-09-04,European Union,Sinovac,1
+2021-09-04,European Union,Sputnik V,0
+2021-09-04,European Union,Valneva,0
+2021-09-05,European Union,Johnson&Johnson,17594
+2021-09-05,European Union,Moderna,141667
+2021-09-05,European Union,Novavax,1
+2021-09-05,European Union,Oxford/AstraZeneca,2819
+2021-09-05,European Union,Pfizer/BioNTech,599727
+2021-09-05,European Union,Sanofi/GSK,0
+2021-09-05,European Union,Sinopharm/Beijing,0
+2021-09-05,European Union,Sinovac,1
+2021-09-05,European Union,Sputnik V,0
+2021-09-05,European Union,Valneva,0
+2021-09-06,European Union,Johnson&Johnson,20558
+2021-09-06,European Union,Moderna,164508
+2021-09-06,European Union,Novavax,0
+2021-09-06,European Union,Oxford/AstraZeneca,3099
+2021-09-06,European Union,Pfizer/BioNTech,665035
+2021-09-06,European Union,Sanofi/GSK,0
+2021-09-06,European Union,Sinopharm/Beijing,0
+2021-09-06,European Union,Sinovac,3
+2021-09-06,European Union,Sputnik V,0
+2021-09-06,European Union,Valneva,0
+2021-09-07,European Union,Johnson&Johnson,21472
+2021-09-07,European Union,Moderna,148283
+2021-09-07,European Union,Novavax,0
+2021-09-07,European Union,Oxford/AstraZeneca,3235
+2021-09-07,European Union,Pfizer/BioNTech,741061
+2021-09-07,European Union,Sanofi/GSK,0
+2021-09-07,European Union,Sinopharm/Beijing,0
+2021-09-07,European Union,Sinovac,5
+2021-09-07,European Union,Sputnik V,0
+2021-09-07,European Union,Valneva,0
+2021-09-08,European Union,Johnson&Johnson,22907
+2021-09-08,European Union,Moderna,158514
+2021-09-08,European Union,Novavax,0
+2021-09-08,European Union,Oxford/AstraZeneca,2789
+2021-09-08,European Union,Pfizer/BioNTech,669826
+2021-09-08,European Union,Sanofi/GSK,0
+2021-09-08,European Union,Sinopharm/Beijing,0
+2021-09-08,European Union,Sinovac,3
+2021-09-08,European Union,Sputnik V,0
+2021-09-08,European Union,Valneva,0
+2021-09-09,European Union,Johnson&Johnson,148629
+2021-09-09,European Union,Moderna,571208
+2021-09-09,European Union,Novavax,6
+2021-09-09,European Union,Oxford/AstraZeneca,21756
+2021-09-09,European Union,Pfizer/BioNTech,3020234
+2021-09-09,European Union,Sanofi/GSK,0
+2021-09-09,European Union,Sinopharm/Beijing,6350
+2021-09-09,European Union,Sinovac,233
+2021-09-09,European Union,Sputnik V,1286
+2021-09-09,European Union,Valneva,0
+2021-09-10,European Union,Johnson&Johnson,15760
+2021-09-10,European Union,Moderna,93197
+2021-09-10,European Union,Novavax,0
+2021-09-10,European Union,Oxford/AstraZeneca,1092
+2021-09-10,European Union,Pfizer/BioNTech,466581
+2021-09-10,European Union,Sanofi/GSK,0
+2021-09-10,European Union,Sinopharm/Beijing,1
+2021-09-10,European Union,Sinovac,0
+2021-09-10,European Union,Sputnik V,0
+2021-09-10,European Union,Valneva,0
+2021-09-11,European Union,Johnson&Johnson,8042
+2021-09-11,European Union,Moderna,36227
+2021-09-11,European Union,Novavax,0
+2021-09-11,European Union,Oxford/AstraZeneca,492
+2021-09-11,European Union,Pfizer/BioNTech,204978
+2021-09-11,European Union,Sanofi/GSK,0
+2021-09-11,European Union,Sinopharm/Beijing,0
+2021-09-11,European Union,Sinovac,0
+2021-09-11,European Union,Sputnik V,0
+2021-09-11,European Union,Valneva,0
+2021-09-12,European Union,Johnson&Johnson,19209
+2021-09-12,European Union,Moderna,103070
+2021-09-12,European Union,Novavax,0
+2021-09-12,European Union,Oxford/AstraZeneca,2309
+2021-09-12,European Union,Pfizer/BioNTech,552184
+2021-09-12,European Union,Sanofi/GSK,0
+2021-09-12,European Union,Sinopharm/Beijing,1
+2021-09-12,European Union,Sinovac,1
+2021-09-12,European Union,Sputnik V,0
+2021-09-12,European Union,Valneva,0
+2021-09-13,European Union,Johnson&Johnson,22267
+2021-09-13,European Union,Moderna,121106
+2021-09-13,European Union,Novavax,0
+2021-09-13,European Union,Oxford/AstraZeneca,2761
+2021-09-13,European Union,Pfizer/BioNTech,646353
+2021-09-13,European Union,Sanofi/GSK,0
+2021-09-13,European Union,Sinopharm/Beijing,0
+2021-09-13,European Union,Sinovac,2
+2021-09-13,European Union,Sputnik V,0
+2021-09-13,European Union,Valneva,0
+2021-09-14,European Union,Johnson&Johnson,23426
+2021-09-14,European Union,Moderna,107917
+2021-09-14,European Union,Novavax,0
+2021-09-14,European Union,Oxford/AstraZeneca,2282
+2021-09-14,European Union,Pfizer/BioNTech,731659
+2021-09-14,European Union,Sanofi/GSK,0
+2021-09-14,European Union,Sinopharm/Beijing,0
+2021-09-14,European Union,Sinovac,0
+2021-09-14,European Union,Sputnik V,0
+2021-09-14,European Union,Valneva,0
+2021-09-15,European Union,Johnson&Johnson,25201
+2021-09-15,European Union,Moderna,111009
+2021-09-15,European Union,Novavax,0
+2021-09-15,European Union,Oxford/AstraZeneca,2701
+2021-09-15,European Union,Pfizer/BioNTech,636303
+2021-09-15,European Union,Sanofi/GSK,0
+2021-09-15,European Union,Sinopharm/Beijing,0
+2021-09-15,European Union,Sinovac,1
+2021-09-15,European Union,Sputnik V,0
+2021-09-15,European Union,Valneva,0
+2021-09-16,European Union,Johnson&Johnson,160962
+2021-09-16,European Union,Moderna,509983
+2021-09-16,European Union,Novavax,2
+2021-09-16,European Union,Oxford/AstraZeneca,18583
+2021-09-16,European Union,Pfizer/BioNTech,2507254
+2021-09-16,European Union,Sanofi/GSK,0
+2021-09-16,European Union,Sinopharm/Beijing,5336
+2021-09-16,European Union,Sinovac,220
+2021-09-16,European Union,Sputnik V,1077
+2021-09-16,European Union,Valneva,0
+2021-09-17,European Union,Johnson&Johnson,16791
+2021-09-17,European Union,Moderna,82079
+2021-09-17,European Union,Novavax,0
+2021-09-17,European Union,Oxford/AstraZeneca,987
+2021-09-17,European Union,Pfizer/BioNTech,440432
+2021-09-17,European Union,Sanofi/GSK,0
+2021-09-17,European Union,Sinopharm/Beijing,1
+2021-09-17,European Union,Sinovac,3
+2021-09-17,European Union,Sputnik V,0
+2021-09-17,European Union,Valneva,0
+2021-09-18,European Union,Johnson&Johnson,8521
+2021-09-18,European Union,Moderna,29749
+2021-09-18,European Union,Novavax,0
+2021-09-18,European Union,Oxford/AstraZeneca,486
+2021-09-18,European Union,Pfizer/BioNTech,199916
+2021-09-18,European Union,Sanofi/GSK,0
+2021-09-18,European Union,Sinopharm/Beijing,0
+2021-09-18,European Union,Sinovac,0
+2021-09-18,European Union,Sputnik V,0
+2021-09-18,European Union,Valneva,0
+2021-09-19,European Union,Johnson&Johnson,17876
+2021-09-19,European Union,Moderna,89728
+2021-09-19,European Union,Novavax,0
+2021-09-19,European Union,Oxford/AstraZeneca,2155
+2021-09-19,European Union,Pfizer/BioNTech,533026
+2021-09-19,European Union,Sanofi/GSK,0
+2021-09-19,European Union,Sinopharm/Beijing,0
+2021-09-19,European Union,Sinovac,0
+2021-09-19,European Union,Sputnik V,0
+2021-09-19,European Union,Valneva,0
+2021-09-20,European Union,Johnson&Johnson,21577
+2021-09-20,European Union,Moderna,105308
+2021-09-20,European Union,Novavax,0
+2021-09-20,European Union,Oxford/AstraZeneca,1817
+2021-09-20,European Union,Pfizer/BioNTech,631373
+2021-09-20,European Union,Sanofi/GSK,0
+2021-09-20,European Union,Sinopharm/Beijing,0
+2021-09-20,European Union,Sinovac,0
+2021-09-20,European Union,Sputnik V,0
+2021-09-20,European Union,Valneva,0
+2021-09-21,European Union,Johnson&Johnson,23606
+2021-09-21,European Union,Moderna,93714
+2021-09-21,European Union,Novavax,0
+2021-09-21,European Union,Oxford/AstraZeneca,1898
+2021-09-21,European Union,Pfizer/BioNTech,713273
+2021-09-21,European Union,Sanofi/GSK,0
+2021-09-21,European Union,Sinopharm/Beijing,0
+2021-09-21,European Union,Sinovac,3
+2021-09-21,European Union,Sputnik V,0
+2021-09-21,European Union,Valneva,0
+2021-09-22,European Union,Johnson&Johnson,27816
+2021-09-22,European Union,Moderna,95437
+2021-09-22,European Union,Novavax,0
+2021-09-22,European Union,Oxford/AstraZeneca,1692
+2021-09-22,European Union,Pfizer/BioNTech,624736
+2021-09-22,European Union,Sanofi/GSK,0
+2021-09-22,European Union,Sinopharm/Beijing,0
+2021-09-22,European Union,Sinovac,3
+2021-09-22,European Union,Sputnik V,0
+2021-09-22,European Union,Valneva,0
+2021-09-23,European Union,Johnson&Johnson,155993
+2021-09-23,European Union,Moderna,437384
+2021-09-23,European Union,Novavax,4
+2021-09-23,European Union,Oxford/AstraZeneca,17476
+2021-09-23,European Union,Pfizer/BioNTech,2286779
+2021-09-23,European Union,Sanofi/GSK,0
+2021-09-23,European Union,Sinopharm/Beijing,5820
+2021-09-23,European Union,Sinovac,176
+2021-09-23,European Union,Sputnik V,1075
+2021-09-23,European Union,Valneva,0
+2021-09-24,European Union,Johnson&Johnson,20427
+2021-09-24,European Union,Moderna,71897
+2021-09-24,European Union,Novavax,1
+2021-09-24,European Union,Oxford/AstraZeneca,861
+2021-09-24,European Union,Pfizer/BioNTech,404855
+2021-09-24,European Union,Sanofi/GSK,0
+2021-09-24,European Union,Sinopharm/Beijing,1
+2021-09-24,European Union,Sinovac,0
+2021-09-24,European Union,Sputnik V,0
+2021-09-24,European Union,Valneva,0
+2021-09-25,European Union,Johnson&Johnson,10740
+2021-09-25,European Union,Moderna,26496
+2021-09-25,European Union,Novavax,0
+2021-09-25,European Union,Oxford/AstraZeneca,452
+2021-09-25,European Union,Pfizer/BioNTech,183932
+2021-09-25,European Union,Sanofi/GSK,0
+2021-09-25,European Union,Sinopharm/Beijing,0
+2021-09-25,European Union,Sinovac,1
+2021-09-25,European Union,Sputnik V,0
+2021-09-25,European Union,Valneva,0
+2021-09-26,European Union,Johnson&Johnson,21826
+2021-09-26,European Union,Moderna,71463
+2021-09-26,European Union,Novavax,1
+2021-09-26,European Union,Oxford/AstraZeneca,1396
+2021-09-26,European Union,Pfizer/BioNTech,469425
+2021-09-26,European Union,Sanofi/GSK,0
+2021-09-26,European Union,Sinopharm/Beijing,1
+2021-09-26,European Union,Sinovac,2
+2021-09-26,European Union,Sputnik V,0
+2021-09-26,European Union,Valneva,0
+2021-09-27,European Union,Johnson&Johnson,25061
+2021-09-27,European Union,Moderna,84405
+2021-09-27,European Union,Novavax,1
+2021-09-27,European Union,Oxford/AstraZeneca,1379
+2021-09-27,European Union,Pfizer/BioNTech,560762
+2021-09-27,European Union,Sanofi/GSK,0
+2021-09-27,European Union,Sinopharm/Beijing,1
+2021-09-27,European Union,Sinovac,2
+2021-09-27,European Union,Sputnik V,0
+2021-09-27,European Union,Valneva,0
+2021-09-28,European Union,Johnson&Johnson,26901
+2021-09-28,European Union,Moderna,78848
+2021-09-28,European Union,Novavax,0
+2021-09-28,European Union,Oxford/AstraZeneca,1536
+2021-09-28,European Union,Pfizer/BioNTech,637730
+2021-09-28,European Union,Sanofi/GSK,0
+2021-09-28,European Union,Sinopharm/Beijing,0
+2021-09-28,European Union,Sinovac,3
+2021-09-28,European Union,Sputnik V,0
+2021-09-28,European Union,Valneva,0
+2021-09-29,European Union,Johnson&Johnson,29286
+2021-09-29,European Union,Moderna,94216
+2021-09-29,European Union,Novavax,0
+2021-09-29,European Union,Oxford/AstraZeneca,1506
+2021-09-29,European Union,Pfizer/BioNTech,561551
+2021-09-29,European Union,Sanofi/GSK,0
+2021-09-29,European Union,Sinopharm/Beijing,0
+2021-09-29,European Union,Sinovac,0
+2021-09-29,European Union,Sputnik V,0
+2021-09-29,European Union,Valneva,0
+2021-09-30,European Union,Johnson&Johnson,129986
+2021-09-30,European Union,Moderna,360073
+2021-09-30,European Union,Novavax,0
+2021-09-30,European Union,Oxford/AstraZeneca,10982
+2021-09-30,European Union,Pfizer/BioNTech,2117086
+2021-09-30,European Union,Sanofi/GSK,0
+2021-09-30,European Union,Sinopharm/Beijing,6850
+2021-09-30,European Union,Sinovac,119
+2021-09-30,European Union,Sputnik V,864
+2021-09-30,European Union,Valneva,0
+2021-10-01,European Union,Johnson&Johnson,14999
+2021-10-01,European Union,Moderna,58901
+2021-10-01,European Union,Novavax,0
+2021-10-01,European Union,Oxford/AstraZeneca,603
+2021-10-01,European Union,Pfizer/BioNTech,296790
+2021-10-01,European Union,Sanofi/GSK,0
+2021-10-01,European Union,Sinopharm/Beijing,0
+2021-10-01,European Union,Sinovac,1
+2021-10-01,European Union,Sputnik V,0
+2021-10-01,European Union,Valneva,0
+2021-10-02,European Union,Johnson&Johnson,8769
+2021-10-02,European Union,Moderna,19663
+2021-10-02,European Union,Novavax,0
+2021-10-02,European Union,Oxford/AstraZeneca,285
+2021-10-02,European Union,Pfizer/BioNTech,118245
+2021-10-02,European Union,Sanofi/GSK,0
+2021-10-02,European Union,Sinopharm/Beijing,0
+2021-10-02,European Union,Sinovac,0
+2021-10-02,European Union,Sputnik V,0
+2021-10-02,European Union,Valneva,0
+2021-10-03,European Union,Johnson&Johnson,19414
+2021-10-03,European Union,Moderna,58670
+2021-10-03,European Union,Novavax,0
+2021-10-03,European Union,Oxford/AstraZeneca,868
+2021-10-03,European Union,Pfizer/BioNTech,407707
+2021-10-03,European Union,Sanofi/GSK,0
+2021-10-03,European Union,Sinopharm/Beijing,1
+2021-10-03,European Union,Sinovac,1
+2021-10-03,European Union,Sputnik V,0
+2021-10-03,European Union,Valneva,0
+2021-10-04,European Union,Johnson&Johnson,24306
+2021-10-04,European Union,Moderna,77149
+2021-10-04,European Union,Novavax,0
+2021-10-04,European Union,Oxford/AstraZeneca,894
+2021-10-04,European Union,Pfizer/BioNTech,521017
+2021-10-04,European Union,Sanofi/GSK,0
+2021-10-04,European Union,Sinopharm/Beijing,1
+2021-10-04,European Union,Sinovac,0
+2021-10-04,European Union,Sputnik V,1
+2021-10-04,European Union,Valneva,0
+2021-10-05,European Union,Johnson&Johnson,23470
+2021-10-05,European Union,Moderna,67802
+2021-10-05,European Union,Novavax,0
+2021-10-05,European Union,Oxford/AstraZeneca,774
+2021-10-05,European Union,Pfizer/BioNTech,563759
+2021-10-05,European Union,Sanofi/GSK,0
+2021-10-05,European Union,Sinopharm/Beijing,0
+2021-10-05,European Union,Sinovac,3
+2021-10-05,European Union,Sputnik V,0
+2021-10-05,European Union,Valneva,0
+2021-10-06,European Union,Johnson&Johnson,26925
+2021-10-06,European Union,Moderna,78302
+2021-10-06,European Union,Novavax,0
+2021-10-06,European Union,Oxford/AstraZeneca,874
+2021-10-06,European Union,Pfizer/BioNTech,531106
+2021-10-06,European Union,Sanofi/GSK,0
+2021-10-06,European Union,Sinopharm/Beijing,0
+2021-10-06,European Union,Sinovac,0
+2021-10-06,European Union,Sputnik V,0
+2021-10-06,European Union,Valneva,0
+2021-10-07,European Union,Johnson&Johnson,113528
+2021-10-07,European Union,Moderna,289708
+2021-10-07,European Union,Novavax,1
+2021-10-07,European Union,Oxford/AstraZeneca,7943
+2021-10-07,European Union,Pfizer/BioNTech,2078059
+2021-10-07,European Union,Sanofi/GSK,0
+2021-10-07,European Union,Sinopharm/Beijing,5104
+2021-10-07,European Union,Sinovac,92
+2021-10-07,European Union,Sputnik V,439
+2021-10-07,European Union,Valneva,0
+2021-10-08,European Union,Johnson&Johnson,18929
+2021-10-08,European Union,Moderna,52095
+2021-10-08,European Union,Novavax,0
+2021-10-08,European Union,Oxford/AstraZeneca,426
+2021-10-08,European Union,Pfizer/BioNTech,305045
+2021-10-08,European Union,Sanofi/GSK,0
+2021-10-08,European Union,Sinopharm/Beijing,0
+2021-10-08,European Union,Sinovac,0
+2021-10-08,European Union,Sputnik V,0
+2021-10-08,European Union,Valneva,0
+2021-10-09,European Union,Johnson&Johnson,11016
+2021-10-09,European Union,Moderna,18554
+2021-10-09,European Union,Novavax,0
+2021-10-09,European Union,Oxford/AstraZeneca,184
+2021-10-09,European Union,Pfizer/BioNTech,123457
+2021-10-09,European Union,Sanofi/GSK,0
+2021-10-09,European Union,Sinopharm/Beijing,0
+2021-10-09,European Union,Sinovac,0
+2021-10-09,European Union,Sputnik V,0
+2021-10-09,European Union,Valneva,0
+2021-10-10,European Union,Johnson&Johnson,19944
+2021-10-10,European Union,Moderna,52995
+2021-10-10,European Union,Novavax,0
+2021-10-10,European Union,Oxford/AstraZeneca,862
+2021-10-10,European Union,Pfizer/BioNTech,420170
+2021-10-10,European Union,Sanofi/GSK,0
+2021-10-10,European Union,Sinopharm/Beijing,0
+2021-10-10,European Union,Sinovac,1
+2021-10-10,European Union,Sputnik V,0
+2021-10-10,European Union,Valneva,0
+2021-10-11,European Union,Johnson&Johnson,24913
+2021-10-11,European Union,Moderna,70415
+2021-10-11,European Union,Novavax,0
+2021-10-11,European Union,Oxford/AstraZeneca,766
+2021-10-11,European Union,Pfizer/BioNTech,545145
+2021-10-11,European Union,Sanofi/GSK,0
+2021-10-11,European Union,Sinopharm/Beijing,1
+2021-10-11,European Union,Sinovac,1
+2021-10-11,European Union,Sputnik V,0
+2021-10-11,European Union,Valneva,0
+2021-10-12,European Union,Johnson&Johnson,26163
+2021-10-12,European Union,Moderna,66210
+2021-10-12,European Union,Novavax,0
+2021-10-12,European Union,Oxford/AstraZeneca,790
+2021-10-12,European Union,Pfizer/BioNTech,607461
+2021-10-12,European Union,Sanofi/GSK,0
+2021-10-12,European Union,Sinopharm/Beijing,1
+2021-10-12,European Union,Sinovac,0
+2021-10-12,European Union,Sputnik V,0
+2021-10-12,European Union,Valneva,0
+2021-10-13,European Union,Johnson&Johnson,29516
+2021-10-13,European Union,Moderna,81571
+2021-10-13,European Union,Novavax,0
+2021-10-13,European Union,Oxford/AstraZeneca,906
+2021-10-13,European Union,Pfizer/BioNTech,591002
+2021-10-13,European Union,Sanofi/GSK,0
+2021-10-13,European Union,Sinopharm/Beijing,0
+2021-10-13,European Union,Sinovac,0
+2021-10-13,European Union,Sputnik V,0
+2021-10-13,European Union,Valneva,0
+2021-10-14,European Union,Johnson&Johnson,110912
+2021-10-14,European Union,Moderna,250481
+2021-10-14,European Union,Novavax,5
+2021-10-14,European Union,Oxford/AstraZeneca,6498
+2021-10-14,European Union,Pfizer/BioNTech,2063354
+2021-10-14,European Union,Sanofi/GSK,0
+2021-10-14,European Union,Sinopharm/Beijing,4570
+2021-10-14,European Union,Sinovac,76
+2021-10-14,European Union,Sputnik V,393
+2021-10-14,European Union,Valneva,0
+2021-10-15,European Union,Johnson&Johnson,21420
+2021-10-15,European Union,Moderna,46621
+2021-10-15,European Union,Novavax,1
+2021-10-15,European Union,Oxford/AstraZeneca,368
+2021-10-15,European Union,Pfizer/BioNTech,330131
+2021-10-15,European Union,Sanofi/GSK,0
+2021-10-15,European Union,Sinopharm/Beijing,1
+2021-10-15,European Union,Sinovac,0
+2021-10-15,European Union,Sputnik V,0
+2021-10-15,European Union,Valneva,0
+2021-10-16,European Union,Johnson&Johnson,12388
+2021-10-16,European Union,Moderna,18901
+2021-10-16,European Union,Novavax,0
+2021-10-16,European Union,Oxford/AstraZeneca,205
+2021-10-16,European Union,Pfizer/BioNTech,146219
+2021-10-16,European Union,Sanofi/GSK,0
+2021-10-16,European Union,Sinopharm/Beijing,0
+2021-10-16,European Union,Sinovac,2
+2021-10-16,European Union,Sputnik V,0
+2021-10-16,European Union,Valneva,0
+2021-10-17,European Union,Johnson&Johnson,23521
+2021-10-17,European Union,Moderna,44382
+2021-10-17,European Union,Novavax,1
+2021-10-17,European Union,Oxford/AstraZeneca,599
+2021-10-17,European Union,Pfizer/BioNTech,456774
+2021-10-17,European Union,Sanofi/GSK,0
+2021-10-17,European Union,Sinopharm/Beijing,0
+2021-10-17,European Union,Sinovac,5
+2021-10-17,European Union,Sputnik V,0
+2021-10-17,European Union,Valneva,0
+2021-10-18,European Union,Johnson&Johnson,26668
+2021-10-18,European Union,Moderna,50494
+2021-10-18,European Union,Novavax,0
+2021-10-18,European Union,Oxford/AstraZeneca,618
+2021-10-18,European Union,Pfizer/BioNTech,569060
+2021-10-18,European Union,Sanofi/GSK,0
+2021-10-18,European Union,Sinopharm/Beijing,0
+2021-10-18,European Union,Sinovac,0
+2021-10-18,European Union,Sputnik V,0
+2021-10-18,European Union,Valneva,0
+2021-10-19,European Union,Johnson&Johnson,28983
+2021-10-19,European Union,Moderna,45443
+2021-10-19,European Union,Novavax,0
+2021-10-19,European Union,Oxford/AstraZeneca,591
+2021-10-19,European Union,Pfizer/BioNTech,645454
+2021-10-19,European Union,Sanofi/GSK,0
+2021-10-19,European Union,Sinopharm/Beijing,0
+2021-10-19,European Union,Sinovac,4
+2021-10-19,European Union,Sputnik V,0
+2021-10-19,European Union,Valneva,0
+2021-10-20,European Union,Johnson&Johnson,39606
+2021-10-20,European Union,Moderna,48865
+2021-10-20,European Union,Novavax,0
+2021-10-20,European Union,Oxford/AstraZeneca,539
+2021-10-20,European Union,Pfizer/BioNTech,626813
+2021-10-20,European Union,Sanofi/GSK,0
+2021-10-20,European Union,Sinopharm/Beijing,0
+2021-10-20,European Union,Sinovac,2
+2021-10-20,European Union,Sputnik V,0
+2021-10-20,European Union,Valneva,0
+2021-10-21,European Union,Johnson&Johnson,169094
+2021-10-21,European Union,Moderna,217492
+2021-10-21,European Union,Novavax,3
+2021-10-21,European Union,Oxford/AstraZeneca,6087
+2021-10-21,European Union,Pfizer/BioNTech,2339791
+2021-10-21,European Union,Sanofi/GSK,0
+2021-10-21,European Union,Sinopharm/Beijing,4249
+2021-10-21,European Union,Sinovac,78
+2021-10-21,European Union,Sputnik V,317
+2021-10-21,European Union,Valneva,0
+2021-10-22,European Union,Johnson&Johnson,45718
+2021-10-22,European Union,Moderna,36038
+2021-10-22,European Union,Novavax,0
+2021-10-22,European Union,Oxford/AstraZeneca,289
+2021-10-22,European Union,Pfizer/BioNTech,351216
+2021-10-22,European Union,Sanofi/GSK,0
+2021-10-22,European Union,Sinopharm/Beijing,0
+2021-10-22,European Union,Sinovac,1
+2021-10-22,European Union,Sputnik V,0
+2021-10-22,European Union,Valneva,0
+2021-10-23,European Union,Johnson&Johnson,39426
+2021-10-23,European Union,Moderna,15228
+2021-10-23,European Union,Novavax,0
+2021-10-23,European Union,Oxford/AstraZeneca,121
+2021-10-23,European Union,Pfizer/BioNTech,155730
+2021-10-23,European Union,Sanofi/GSK,0
+2021-10-23,European Union,Sinopharm/Beijing,0
+2021-10-23,European Union,Sinovac,0
+2021-10-23,European Union,Sputnik V,0
+2021-10-23,European Union,Valneva,0
+2021-10-24,European Union,Johnson&Johnson,54223
+2021-10-24,European Union,Moderna,39564
+2021-10-24,European Union,Novavax,0
+2021-10-24,European Union,Oxford/AstraZeneca,493
+2021-10-24,European Union,Pfizer/BioNTech,502430
+2021-10-24,European Union,Sanofi/GSK,0
+2021-10-24,European Union,Sinopharm/Beijing,0
+2021-10-24,European Union,Sinovac,1
+2021-10-24,European Union,Sputnik V,0
+2021-10-24,European Union,Valneva,0
+2021-10-25,European Union,Johnson&Johnson,67970
+2021-10-25,European Union,Moderna,44832
+2021-10-25,European Union,Novavax,0
+2021-10-25,European Union,Oxford/AstraZeneca,511
+2021-10-25,European Union,Pfizer/BioNTech,657770
+2021-10-25,European Union,Sanofi/GSK,0
+2021-10-25,European Union,Sinopharm/Beijing,0
+2021-10-25,European Union,Sinovac,1
+2021-10-25,European Union,Sputnik V,0
+2021-10-25,European Union,Valneva,0
+2021-10-26,European Union,Johnson&Johnson,69217
+2021-10-26,European Union,Moderna,47533
+2021-10-26,European Union,Novavax,0
+2021-10-26,European Union,Oxford/AstraZeneca,494
+2021-10-26,European Union,Pfizer/BioNTech,736769
+2021-10-26,European Union,Sanofi/GSK,0
+2021-10-26,European Union,Sinopharm/Beijing,0
+2021-10-26,European Union,Sinovac,3
+2021-10-26,European Union,Sputnik V,0
+2021-10-26,European Union,Valneva,0
+2021-10-27,European Union,Johnson&Johnson,57397
+2021-10-27,European Union,Moderna,48369
+2021-10-27,European Union,Novavax,0
+2021-10-27,European Union,Oxford/AstraZeneca,554
+2021-10-27,European Union,Pfizer/BioNTech,661274
+2021-10-27,European Union,Sanofi/GSK,0
+2021-10-27,European Union,Sinopharm/Beijing,1
+2021-10-27,European Union,Sinovac,0
+2021-10-27,European Union,Sputnik V,0
+2021-10-27,European Union,Valneva,0
+2021-10-28,European Union,Johnson&Johnson,202746
+2021-10-28,European Union,Moderna,214103
+2021-10-28,European Union,Novavax,2
+2021-10-28,European Union,Oxford/AstraZeneca,5789
+2021-10-28,European Union,Pfizer/BioNTech,2760574
+2021-10-28,European Union,Sanofi/GSK,0
+2021-10-28,European Union,Sinopharm/Beijing,4201
+2021-10-28,European Union,Sinovac,57
+2021-10-28,European Union,Sputnik V,167
+2021-10-28,European Union,Valneva,0
+2021-10-29,European Union,Johnson&Johnson,32944
+2021-10-29,European Union,Moderna,31876
+2021-10-29,European Union,Novavax,0
+2021-10-29,European Union,Oxford/AstraZeneca,265
+2021-10-29,European Union,Pfizer/BioNTech,328294
+2021-10-29,European Union,Sanofi/GSK,0
+2021-10-29,European Union,Sinopharm/Beijing,0
+2021-10-29,European Union,Sinovac,0
+2021-10-29,European Union,Sputnik V,0
+2021-10-29,European Union,Valneva,0
+2021-10-30,European Union,Johnson&Johnson,21623
+2021-10-30,European Union,Moderna,10554
+2021-10-30,European Union,Novavax,0
+2021-10-30,European Union,Oxford/AstraZeneca,110
+2021-10-30,European Union,Pfizer/BioNTech,127741
+2021-10-30,European Union,Sanofi/GSK,0
+2021-10-30,European Union,Sinopharm/Beijing,0
+2021-10-30,European Union,Sinovac,0
+2021-10-30,European Union,Sputnik V,0
+2021-10-30,European Union,Valneva,0
+2021-10-31,European Union,Johnson&Johnson,32496
+2021-10-31,European Union,Moderna,18350
+2021-10-31,European Union,Novavax,0
+2021-10-31,European Union,Oxford/AstraZeneca,107
+2021-10-31,European Union,Pfizer/BioNTech,211368
+2021-10-31,European Union,Sanofi/GSK,0
+2021-10-31,European Union,Sinopharm/Beijing,0
+2021-10-31,European Union,Sinovac,0
+2021-10-31,European Union,Sputnik V,0
+2021-10-31,European Union,Valneva,0
+2021-11-01,European Union,Johnson&Johnson,33546
+2021-11-01,European Union,Moderna,44882
+2021-11-01,European Union,Novavax,0
+2021-11-01,European Union,Oxford/AstraZeneca,320
+2021-11-01,European Union,Pfizer/BioNTech,636989
+2021-11-01,European Union,Sanofi/GSK,0
+2021-11-01,European Union,Sinopharm/Beijing,0
+2021-11-01,European Union,Sinovac,1
+2021-11-01,European Union,Sputnik V,0
+2021-11-01,European Union,Valneva,0
+2021-11-02,European Union,Johnson&Johnson,33492
+2021-11-02,European Union,Moderna,48434
+2021-11-02,European Union,Novavax,0
+2021-11-02,European Union,Oxford/AstraZeneca,332
+2021-11-02,European Union,Pfizer/BioNTech,785259
+2021-11-02,European Union,Sanofi/GSK,0
+2021-11-02,European Union,Sinopharm/Beijing,1
+2021-11-02,European Union,Sinovac,3
+2021-11-02,European Union,Sputnik V,1
+2021-11-02,European Union,Valneva,0
+2021-11-03,European Union,Johnson&Johnson,32505
+2021-11-03,European Union,Moderna,54550
+2021-11-03,European Union,Novavax,0
+2021-11-03,European Union,Oxford/AstraZeneca,362
+2021-11-03,European Union,Pfizer/BioNTech,767050
+2021-11-03,European Union,Sanofi/GSK,0
+2021-11-03,European Union,Sinopharm/Beijing,0
+2021-11-03,European Union,Sinovac,2
+2021-11-03,European Union,Sputnik V,0
+2021-11-03,European Union,Valneva,0
+2021-11-04,European Union,Johnson&Johnson,164090
+2021-11-04,European Union,Moderna,295562
+2021-11-04,European Union,Novavax,1
+2021-11-04,European Union,Oxford/AstraZeneca,2524
+2021-11-04,European Union,Pfizer/BioNTech,3192834
+2021-11-04,European Union,Sanofi/GSK,0
+2021-11-04,European Union,Sinopharm/Beijing,5060
+2021-11-04,European Union,Sinovac,52
+2021-11-04,European Union,Sputnik V,41
+2021-11-04,European Union,Valneva,0
+2021-11-05,European Union,Johnson&Johnson,19044
+2021-11-05,European Union,Moderna,41142
+2021-11-05,European Union,Novavax,0
+2021-11-05,European Union,Oxford/AstraZeneca,103
+2021-11-05,European Union,Pfizer/BioNTech,380122
+2021-11-05,European Union,Sanofi/GSK,0
+2021-11-05,European Union,Sinopharm/Beijing,0
+2021-11-05,European Union,Sinovac,1
+2021-11-05,European Union,Sputnik V,0
+2021-11-05,European Union,Valneva,0
+2021-11-06,European Union,Johnson&Johnson,11982
+2021-11-06,European Union,Moderna,16929
+2021-11-06,European Union,Novavax,0
+2021-11-06,European Union,Oxford/AstraZeneca,34
+2021-11-06,European Union,Pfizer/BioNTech,143567
+2021-11-06,European Union,Sanofi/GSK,0
+2021-11-06,European Union,Sinopharm/Beijing,0
+2021-11-06,European Union,Sinovac,0
+2021-11-06,European Union,Sputnik V,0
+2021-11-06,European Union,Valneva,0
+2021-11-07,European Union,Johnson&Johnson,22781
+2021-11-07,European Union,Moderna,52335
+2021-11-07,European Union,Novavax,0
+2021-11-07,European Union,Oxford/AstraZeneca,246
+2021-11-07,European Union,Pfizer/BioNTech,619230
+2021-11-07,European Union,Sanofi/GSK,0
+2021-11-07,European Union,Sinopharm/Beijing,0
+2021-11-07,European Union,Sinovac,1
+2021-11-07,European Union,Sputnik V,0
+2021-11-07,European Union,Valneva,0
+2021-11-08,European Union,Johnson&Johnson,24661
+2021-11-08,European Union,Moderna,63389
+2021-11-08,European Union,Novavax,0
+2021-11-08,European Union,Oxford/AstraZeneca,319
+2021-11-08,European Union,Pfizer/BioNTech,870490
+2021-11-08,European Union,Sanofi/GSK,0
+2021-11-08,European Union,Sinopharm/Beijing,0
+2021-11-08,European Union,Sinovac,0
+2021-11-08,European Union,Sputnik V,0
+2021-11-08,European Union,Valneva,0
+2021-11-09,European Union,Johnson&Johnson,23176
+2021-11-09,European Union,Moderna,67473
+2021-11-09,European Union,Novavax,0
+2021-11-09,European Union,Oxford/AstraZeneca,339
+2021-11-09,European Union,Pfizer/BioNTech,985798
+2021-11-09,European Union,Sanofi/GSK,0
+2021-11-09,European Union,Sinopharm/Beijing,0
+2021-11-09,European Union,Sinovac,4
+2021-11-09,European Union,Sputnik V,0
+2021-11-09,European Union,Valneva,0
+2021-11-10,European Union,Johnson&Johnson,23578
+2021-11-10,European Union,Moderna,60804
+2021-11-10,European Union,Novavax,0
+2021-11-10,European Union,Oxford/AstraZeneca,229
+2021-11-10,European Union,Pfizer/BioNTech,756718
+2021-11-10,European Union,Sanofi/GSK,0
+2021-11-10,European Union,Sinopharm/Beijing,1
+2021-11-10,European Union,Sinovac,2
+2021-11-10,European Union,Sputnik V,0
+2021-11-10,European Union,Valneva,0
+2021-11-11,European Union,Johnson&Johnson,155543
+2021-11-11,European Union,Moderna,462715
+2021-11-11,European Union,Novavax,2
+2021-11-11,European Union,Oxford/AstraZeneca,2777
+2021-11-11,European Union,Pfizer/BioNTech,4436537
+2021-11-11,European Union,Sanofi/GSK,0
+2021-11-11,European Union,Sinopharm/Beijing,6397
+2021-11-11,European Union,Sinovac,45
+2021-11-11,European Union,Sputnik V,35
+2021-11-11,European Union,Valneva,0
+2021-11-12,European Union,Johnson&Johnson,15363
+2021-11-12,European Union,Moderna,52693
+2021-11-12,European Union,Novavax,0
+2021-11-12,European Union,Oxford/AstraZeneca,155
+2021-11-12,European Union,Pfizer/BioNTech,454947
+2021-11-12,European Union,Sanofi/GSK,0
+2021-11-12,European Union,Sinopharm/Beijing,0
+2021-11-12,European Union,Sinovac,0
+2021-11-12,European Union,Sputnik V,0
+2021-11-12,European Union,Valneva,0
+2021-11-13,European Union,Johnson&Johnson,9460
+2021-11-13,European Union,Moderna,21458
+2021-11-13,European Union,Novavax,0
+2021-11-13,European Union,Oxford/AstraZeneca,40
+2021-11-13,European Union,Pfizer/BioNTech,182391
+2021-11-13,European Union,Sanofi/GSK,0
+2021-11-13,European Union,Sinopharm/Beijing,2
+2021-11-13,European Union,Sinovac,0
+2021-11-13,European Union,Sputnik V,0
+2021-11-13,European Union,Valneva,0
+2021-11-14,European Union,Johnson&Johnson,19249
+2021-11-14,European Union,Moderna,64154
+2021-11-14,European Union,Novavax,0
+2021-11-14,European Union,Oxford/AstraZeneca,402
+2021-11-14,European Union,Pfizer/BioNTech,747507
+2021-11-14,European Union,Sanofi/GSK,0
+2021-11-14,European Union,Sinopharm/Beijing,0
+2021-11-14,European Union,Sinovac,1
+2021-11-14,European Union,Sputnik V,0
+2021-11-14,European Union,Valneva,0
+2021-11-15,European Union,Johnson&Johnson,21815
+2021-11-15,European Union,Moderna,78995
+2021-11-15,European Union,Novavax,0
+2021-11-15,European Union,Oxford/AstraZeneca,320
+2021-11-15,European Union,Pfizer/BioNTech,1084298
+2021-11-15,European Union,Sanofi/GSK,0
+2021-11-15,European Union,Sinopharm/Beijing,0
+2021-11-15,European Union,Sinovac,3
+2021-11-15,European Union,Sputnik V,0
+2021-11-15,European Union,Valneva,0
+2021-11-16,European Union,Johnson&Johnson,18444
+2021-11-16,European Union,Moderna,78251
+2021-11-16,European Union,Novavax,0
+2021-11-16,European Union,Oxford/AstraZeneca,275
+2021-11-16,European Union,Pfizer/BioNTech,1117742
+2021-11-16,European Union,Sanofi/GSK,0
+2021-11-16,European Union,Sinopharm/Beijing,1
+2021-11-16,European Union,Sinovac,0
+2021-11-16,European Union,Sputnik V,0
+2021-11-16,European Union,Valneva,0
+2021-11-17,European Union,Johnson&Johnson,22117
+2021-11-17,European Union,Moderna,91074
+2021-11-17,European Union,Novavax,0
+2021-11-17,European Union,Oxford/AstraZeneca,348
+2021-11-17,European Union,Pfizer/BioNTech,1172656
+2021-11-17,European Union,Sanofi/GSK,0
+2021-11-17,European Union,Sinopharm/Beijing,0
+2021-11-17,European Union,Sinovac,2
+2021-11-17,European Union,Sputnik V,0
+2021-11-17,European Union,Valneva,0
+2021-11-18,European Union,Johnson&Johnson,156788
+2021-11-18,European Union,Moderna,622697
+2021-11-18,European Union,Novavax,5
+2021-11-18,European Union,Oxford/AstraZeneca,2924
+2021-11-18,European Union,Pfizer/BioNTech,5540154
+2021-11-18,European Union,Sanofi/GSK,0
+2021-11-18,European Union,Sinopharm/Beijing,7194
+2021-11-18,European Union,Sinovac,50
+2021-11-18,European Union,Sputnik V,44
+2021-11-18,European Union,Valneva,0
+2021-11-19,European Union,Johnson&Johnson,17060
+2021-11-19,European Union,Moderna,76433
+2021-11-19,European Union,Novavax,0
+2021-11-19,European Union,Oxford/AstraZeneca,191
+2021-11-19,European Union,Pfizer/BioNTech,609469
+2021-11-19,European Union,Sanofi/GSK,0
+2021-11-19,European Union,Sinopharm/Beijing,0
+2021-11-19,European Union,Sinovac,0
+2021-11-19,European Union,Sputnik V,0
+2021-11-19,European Union,Valneva,0
+2021-11-20,European Union,Johnson&Johnson,9294
+2021-11-20,European Union,Moderna,33803
+2021-11-20,European Union,Novavax,0
+2021-11-20,European Union,Oxford/AstraZeneca,56
+2021-11-20,European Union,Pfizer/BioNTech,208777
+2021-11-20,European Union,Sanofi/GSK,0
+2021-11-20,European Union,Sinopharm/Beijing,0
+2021-11-20,European Union,Sinovac,0
+2021-11-20,European Union,Sputnik V,0
+2021-11-20,European Union,Valneva,0
+2021-11-21,European Union,Johnson&Johnson,20775
+2021-11-21,European Union,Moderna,115432
+2021-11-21,European Union,Novavax,0
+2021-11-21,European Union,Oxford/AstraZeneca,338
+2021-11-21,European Union,Pfizer/BioNTech,911515
+2021-11-21,European Union,Sanofi/GSK,0
+2021-11-21,European Union,Sinopharm/Beijing,0
+2021-11-21,European Union,Sinovac,4
+2021-11-21,European Union,Sputnik V,0
+2021-11-21,European Union,Valneva,0
+2021-11-22,European Union,Johnson&Johnson,25710
+2021-11-22,European Union,Moderna,146182
+2021-11-22,European Union,Novavax,0
+2021-11-22,European Union,Oxford/AstraZeneca,491
+2021-11-22,European Union,Pfizer/BioNTech,1408438
+2021-11-22,European Union,Sanofi/GSK,0
+2021-11-22,European Union,Sinopharm/Beijing,0
+2021-11-22,European Union,Sinovac,1
+2021-11-22,European Union,Sputnik V,0
+2021-11-22,European Union,Valneva,0
+2021-11-23,European Union,Johnson&Johnson,26883
+2021-11-23,European Union,Moderna,171145
+2021-11-23,European Union,Novavax,0
+2021-11-23,European Union,Oxford/AstraZeneca,608
+2021-11-23,European Union,Pfizer/BioNTech,1591010
+2021-11-23,European Union,Sanofi/GSK,0
+2021-11-23,European Union,Sinopharm/Beijing,0
+2021-11-23,European Union,Sinovac,1
+2021-11-23,European Union,Sputnik V,0
+2021-11-23,European Union,Valneva,0
+2021-11-24,European Union,Johnson&Johnson,27426
+2021-11-24,European Union,Moderna,197260
+2021-11-24,European Union,Novavax,0
+2021-11-24,European Union,Oxford/AstraZeneca,725
+2021-11-24,European Union,Pfizer/BioNTech,1563025
+2021-11-24,European Union,Sanofi/GSK,0
+2021-11-24,European Union,Sinopharm/Beijing,0
+2021-11-24,European Union,Sinovac,2
+2021-11-24,European Union,Sputnik V,0
+2021-11-24,European Union,Valneva,0
+2021-11-25,European Union,Johnson&Johnson,189586
+2021-11-25,European Union,Moderna,1110183
+2021-11-25,European Union,Novavax,3
+2021-11-25,European Union,Oxford/AstraZeneca,3857
+2021-11-25,European Union,Pfizer/BioNTech,7332915
+2021-11-25,European Union,Sanofi/GSK,0
+2021-11-25,European Union,Sinopharm/Beijing,24947
+2021-11-25,European Union,Sinovac,52
+2021-11-25,European Union,Sputnik V,0
+2021-11-25,European Union,Valneva,0
+2021-11-26,European Union,Johnson&Johnson,20637
+2021-11-26,European Union,Moderna,225022
+2021-11-26,European Union,Novavax,0
+2021-11-26,European Union,Oxford/AstraZeneca,246
+2021-11-26,European Union,Pfizer/BioNTech,1151134
+2021-11-26,European Union,Sanofi/GSK,0
+2021-11-26,European Union,Sinopharm/Beijing,0
+2021-11-26,European Union,Sinovac,0
+2021-11-26,European Union,Sputnik V,0
+2021-11-26,European Union,Valneva,0
+2021-11-27,European Union,Johnson&Johnson,8620
+2021-11-27,European Union,Moderna,120017
+2021-11-27,European Union,Novavax,0
+2021-11-27,European Union,Oxford/AstraZeneca,82
+2021-11-27,European Union,Pfizer/BioNTech,337701
+2021-11-27,European Union,Sanofi/GSK,0
+2021-11-27,European Union,Sinopharm/Beijing,0
+2021-11-27,European Union,Sinovac,0
+2021-11-27,European Union,Sputnik V,0
+2021-11-27,European Union,Valneva,0
+2021-11-28,European Union,Johnson&Johnson,17897
+2021-11-28,European Union,Moderna,292435
+2021-11-28,European Union,Novavax,0
+2021-11-28,European Union,Oxford/AstraZeneca,476
+2021-11-28,European Union,Pfizer/BioNTech,1206934
+2021-11-28,European Union,Sanofi/GSK,0
+2021-11-28,European Union,Sinopharm/Beijing,0
+2021-11-28,European Union,Sinovac,1
+2021-11-28,European Union,Sputnik V,0
+2021-11-28,European Union,Valneva,0
+2021-11-29,European Union,Johnson&Johnson,16682
+2021-11-29,European Union,Moderna,507197
+2021-11-29,European Union,Novavax,0
+2021-11-29,European Union,Oxford/AstraZeneca,643
+2021-11-29,European Union,Pfizer/BioNTech,1626881
+2021-11-29,European Union,Sanofi/GSK,0
+2021-11-29,European Union,Sinopharm/Beijing,0
+2021-11-29,European Union,Sinovac,0
+2021-11-29,European Union,Sputnik V,0
+2021-11-29,European Union,Valneva,0
+2021-11-30,European Union,Johnson&Johnson,13887
+2021-11-30,European Union,Moderna,675903
+2021-11-30,European Union,Novavax,0
+2021-11-30,European Union,Oxford/AstraZeneca,640
+2021-11-30,European Union,Pfizer/BioNTech,1750851
+2021-11-30,European Union,Sanofi/GSK,0
+2021-11-30,European Union,Sinopharm/Beijing,0
+2021-11-30,European Union,Sinovac,3
+2021-11-30,European Union,Sputnik V,0
+2021-11-30,European Union,Valneva,0
+2021-12-01,European Union,Johnson&Johnson,17669
+2021-12-01,European Union,Moderna,707337
+2021-12-01,European Union,Novavax,0
+2021-12-01,European Union,Oxford/AstraZeneca,764
+2021-12-01,European Union,Pfizer/BioNTech,1733658
+2021-12-01,European Union,Sanofi/GSK,0
+2021-12-01,European Union,Sinopharm/Beijing,0
+2021-12-01,European Union,Sinovac,3
+2021-12-01,European Union,Sputnik V,0
+2021-12-01,European Union,Valneva,0
+2021-12-02,European Union,Johnson&Johnson,129111
+2021-12-02,European Union,Moderna,2270719
+2021-12-02,European Union,Novavax,1
+2021-12-02,European Union,Oxford/AstraZeneca,2234
+2021-12-02,European Union,Pfizer/BioNTech,7816417
+2021-12-02,European Union,Sanofi/GSK,0
+2021-12-02,European Union,Sinopharm/Beijing,15689
+2021-12-02,European Union,Sinovac,36
+2021-12-02,European Union,Sputnik V,0
+2021-12-02,European Union,Valneva,0
+2021-12-03,European Union,Johnson&Johnson,13105
+2021-12-03,European Union,Moderna,816154
+2021-12-03,European Union,Novavax,0
+2021-12-03,European Union,Oxford/AstraZeneca,559
+2021-12-03,European Union,Pfizer/BioNTech,1159264
+2021-12-03,European Union,Sanofi/GSK,0
+2021-12-03,European Union,Sinopharm/Beijing,0
+2021-12-03,European Union,Sinovac,0
+2021-12-03,European Union,Sputnik V,0
+2021-12-03,European Union,Valneva,0
+2021-12-04,European Union,Johnson&Johnson,4968
+2021-12-04,European Union,Moderna,359386
+2021-12-04,European Union,Novavax,0
+2021-12-04,European Union,Oxford/AstraZeneca,78
+2021-12-04,European Union,Pfizer/BioNTech,377455
+2021-12-04,European Union,Sanofi/GSK,0
+2021-12-04,European Union,Sinopharm/Beijing,0
+2021-12-04,European Union,Sinovac,0
+2021-12-04,European Union,Sputnik V,0
+2021-12-04,European Union,Valneva,0
+2021-12-05,European Union,Johnson&Johnson,14106
+2021-12-05,European Union,Moderna,734050
+2021-12-05,European Union,Novavax,0
+2021-12-05,European Union,Oxford/AstraZeneca,667
+2021-12-05,European Union,Pfizer/BioNTech,1264683
+2021-12-05,European Union,Sanofi/GSK,0
+2021-12-05,European Union,Sinopharm/Beijing,0
+2021-12-05,European Union,Sinovac,1
+2021-12-05,European Union,Sputnik V,0
+2021-12-05,European Union,Valneva,0
+2021-12-06,European Union,Johnson&Johnson,14034
+2021-12-06,European Union,Moderna,1009646
+2021-12-06,European Union,Novavax,0
+2021-12-06,European Union,Oxford/AstraZeneca,624
+2021-12-06,European Union,Pfizer/BioNTech,1636552
+2021-12-06,European Union,Sanofi/GSK,0
+2021-12-06,European Union,Sinopharm/Beijing,0
+2021-12-06,European Union,Sinovac,0
+2021-12-06,European Union,Sputnik V,0
+2021-12-06,European Union,Valneva,0
+2021-12-07,European Union,Johnson&Johnson,13355
+2021-12-07,European Union,Moderna,1046308
+2021-12-07,European Union,Novavax,0
+2021-12-07,European Union,Oxford/AstraZeneca,600
+2021-12-07,European Union,Pfizer/BioNTech,1500775
+2021-12-07,European Union,Sanofi/GSK,0
+2021-12-07,European Union,Sinopharm/Beijing,0
+2021-12-07,European Union,Sinovac,1
+2021-12-07,European Union,Sputnik V,0
+2021-12-07,European Union,Valneva,0
+2021-12-08,European Union,Johnson&Johnson,12859
+2021-12-08,European Union,Moderna,1151811
+2021-12-08,European Union,Novavax,0
+2021-12-08,European Union,Oxford/AstraZeneca,665
+2021-12-08,European Union,Pfizer/BioNTech,1652737
+2021-12-08,European Union,Sanofi/GSK,0
+2021-12-08,European Union,Sinopharm/Beijing,0
+2021-12-08,European Union,Sinovac,0
+2021-12-08,European Union,Sputnik V,0
+2021-12-08,European Union,Valneva,0
+2021-12-09,European Union,Johnson&Johnson,102146
+2021-12-09,European Union,Moderna,3103434
+2021-12-09,European Union,Novavax,2
+2021-12-09,European Union,Oxford/AstraZeneca,1952
+2021-12-09,European Union,Pfizer/BioNTech,7147917
+2021-12-09,European Union,Sanofi/GSK,0
+2021-12-09,European Union,Sinopharm/Beijing,15686
+2021-12-09,European Union,Sinovac,35
+2021-12-09,European Union,Sputnik V,0
+2021-12-09,European Union,Valneva,0
+2021-12-10,European Union,Johnson&Johnson,8017
+2021-12-10,European Union,Moderna,1208343
+2021-12-10,European Union,Novavax,0
+2021-12-10,European Union,Oxford/AstraZeneca,357
+2021-12-10,European Union,Pfizer/BioNTech,1124252
+2021-12-10,European Union,Sanofi/GSK,0
+2021-12-10,European Union,Sinopharm/Beijing,0
+2021-12-10,European Union,Sinovac,0
+2021-12-10,European Union,Sputnik V,0
+2021-12-10,European Union,Valneva,0
+2021-12-11,European Union,Johnson&Johnson,3453
+2021-12-11,European Union,Moderna,500325
+2021-12-11,European Union,Novavax,0
+2021-12-11,European Union,Oxford/AstraZeneca,113
+2021-12-11,European Union,Pfizer/BioNTech,360721
+2021-12-11,European Union,Sanofi/GSK,0
+2021-12-11,European Union,Sinopharm/Beijing,0
+2021-12-11,European Union,Sinovac,0
+2021-12-11,European Union,Sputnik V,0
+2021-12-11,European Union,Valneva,0
+2021-12-12,European Union,Johnson&Johnson,8688
+2021-12-12,European Union,Moderna,1009177
+2021-12-12,European Union,Novavax,0
+2021-12-12,European Union,Oxford/AstraZeneca,563
+2021-12-12,European Union,Pfizer/BioNTech,1136376
+2021-12-12,European Union,Sanofi/GSK,0
+2021-12-12,European Union,Sinopharm/Beijing,0
+2021-12-12,European Union,Sinovac,0
+2021-12-12,European Union,Sputnik V,0
+2021-12-12,European Union,Valneva,0
+2021-12-13,European Union,Johnson&Johnson,10019
+2021-12-13,European Union,Moderna,1319902
+2021-12-13,European Union,Novavax,0
+2021-12-13,European Union,Oxford/AstraZeneca,799
+2021-12-13,European Union,Pfizer/BioNTech,1626236
+2021-12-13,European Union,Sanofi/GSK,0
+2021-12-13,European Union,Sinopharm/Beijing,0
+2021-12-13,European Union,Sinovac,0
+2021-12-13,European Union,Sputnik V,0
+2021-12-13,European Union,Valneva,0
+2021-12-14,European Union,Johnson&Johnson,8935
+2021-12-14,European Union,Moderna,1400786
+2021-12-14,European Union,Novavax,0
+2021-12-14,European Union,Oxford/AstraZeneca,691
+2021-12-14,European Union,Pfizer/BioNTech,1703709
+2021-12-14,European Union,Sanofi/GSK,0
+2021-12-14,European Union,Sinopharm/Beijing,2
+2021-12-14,European Union,Sinovac,0
+2021-12-14,European Union,Sputnik V,0
+2021-12-14,European Union,Valneva,0
+2021-12-15,European Union,Johnson&Johnson,9037
+2021-12-15,European Union,Moderna,1374126
+2021-12-15,European Union,Novavax,0
+2021-12-15,European Union,Oxford/AstraZeneca,950
+2021-12-15,European Union,Pfizer/BioNTech,1721574
+2021-12-15,European Union,Sanofi/GSK,0
+2021-12-15,European Union,Sinopharm/Beijing,0
+2021-12-15,European Union,Sinovac,1
+2021-12-15,European Union,Sputnik V,0
+2021-12-15,European Union,Valneva,0
+2021-12-16,European Union,Johnson&Johnson,73143
+2021-12-16,European Union,Moderna,4309283
+2021-12-16,European Union,Novavax,3
+2021-12-16,European Union,Oxford/AstraZeneca,1786
+2021-12-16,European Union,Pfizer/BioNTech,8195242
+2021-12-16,European Union,Sanofi/GSK,0
+2021-12-16,European Union,Sinopharm/Beijing,8711
+2021-12-16,European Union,Sinovac,38
+2021-12-16,European Union,Sputnik V,0
+2021-12-16,European Union,Valneva,0
+2021-12-17,European Union,Johnson&Johnson,4823
+2021-12-17,European Union,Moderna,1178261
+2021-12-17,European Union,Novavax,0
+2021-12-17,European Union,Oxford/AstraZeneca,636
+2021-12-17,European Union,Pfizer/BioNTech,1144712
+2021-12-17,European Union,Sanofi/GSK,0
+2021-12-17,European Union,Sinopharm/Beijing,0
+2021-12-17,European Union,Sinovac,0
+2021-12-17,European Union,Sputnik V,0
+2021-12-17,European Union,Valneva,0
+2021-12-18,European Union,Johnson&Johnson,2455
+2021-12-18,European Union,Moderna,535714
+2021-12-18,European Union,Novavax,0
+2021-12-18,European Union,Oxford/AstraZeneca,469
+2021-12-18,European Union,Pfizer/BioNTech,413541
+2021-12-18,European Union,Sanofi/GSK,0
+2021-12-18,European Union,Sinopharm/Beijing,0
+2021-12-18,European Union,Sinovac,0
+2021-12-18,European Union,Sputnik V,0
+2021-12-18,European Union,Valneva,0
+2021-12-19,European Union,Johnson&Johnson,7377
+2021-12-19,European Union,Moderna,1101454
+2021-12-19,European Union,Novavax,0
+2021-12-19,European Union,Oxford/AstraZeneca,709
+2021-12-19,European Union,Pfizer/BioNTech,1178416
+2021-12-19,European Union,Sanofi/GSK,0
+2021-12-19,European Union,Sinopharm/Beijing,0
+2021-12-19,European Union,Sinovac,1
+2021-12-19,European Union,Sputnik V,0
+2021-12-19,European Union,Valneva,0
+2021-12-20,European Union,Johnson&Johnson,8185
+2021-12-20,European Union,Moderna,1267045
+2021-12-20,European Union,Novavax,0
+2021-12-20,European Union,Oxford/AstraZeneca,930
+2021-12-20,European Union,Pfizer/BioNTech,1492091
+2021-12-20,European Union,Sanofi/GSK,0
+2021-12-20,European Union,Sinopharm/Beijing,0
+2021-12-20,European Union,Sinovac,1
+2021-12-20,European Union,Sputnik V,0
+2021-12-20,European Union,Valneva,0
+2021-12-21,European Union,Johnson&Johnson,7288
+2021-12-21,European Union,Moderna,1200435
+2021-12-21,European Union,Novavax,0
+2021-12-21,European Union,Oxford/AstraZeneca,868
+2021-12-21,European Union,Pfizer/BioNTech,1394436
+2021-12-21,European Union,Sanofi/GSK,0
+2021-12-21,European Union,Sinopharm/Beijing,0
+2021-12-21,European Union,Sinovac,0
+2021-12-21,European Union,Sputnik V,0
+2021-12-21,European Union,Valneva,0
+2021-12-22,European Union,Johnson&Johnson,5898
+2021-12-22,European Union,Moderna,857149
+2021-12-22,European Union,Novavax,0
+2021-12-22,European Union,Oxford/AstraZeneca,692
+2021-12-22,European Union,Pfizer/BioNTech,924742
+2021-12-22,European Union,Sanofi/GSK,0
+2021-12-22,European Union,Sinopharm/Beijing,0
+2021-12-22,European Union,Sinovac,0
+2021-12-22,European Union,Sputnik V,0
+2021-12-22,European Union,Valneva,0
+2021-12-23,European Union,Johnson&Johnson,47071
+2021-12-23,European Union,Moderna,3196213
+2021-12-23,European Union,Novavax,0
+2021-12-23,European Union,Oxford/AstraZeneca,962
+2021-12-23,European Union,Pfizer/BioNTech,4388236
+2021-12-23,European Union,Sanofi/GSK,0
+2021-12-23,European Union,Sinopharm/Beijing,6444
+2021-12-23,European Union,Sinovac,30
+2021-12-23,European Union,Sputnik V,8
+2021-12-23,European Union,Valneva,0
+2021-12-24,European Union,Johnson&Johnson,395
+2021-12-24,European Union,Moderna,37583
+2021-12-24,European Union,Novavax,0
+2021-12-24,European Union,Oxford/AstraZeneca,139
+2021-12-24,European Union,Pfizer/BioNTech,40558
+2021-12-24,European Union,Sanofi/GSK,0
+2021-12-24,European Union,Sinopharm/Beijing,0
+2021-12-24,European Union,Sinovac,0
+2021-12-24,European Union,Sputnik V,0
+2021-12-24,European Union,Valneva,0
+2021-12-25,European Union,Johnson&Johnson,394
+2021-12-25,European Union,Moderna,191238
+2021-12-25,European Union,Novavax,0
+2021-12-25,European Union,Oxford/AstraZeneca,93
+2021-12-25,European Union,Pfizer/BioNTech,128192
+2021-12-25,European Union,Sanofi/GSK,0
+2021-12-25,European Union,Sinopharm/Beijing,0
+2021-12-25,European Union,Sinovac,0
+2021-12-25,European Union,Sputnik V,0
+2021-12-25,European Union,Valneva,0
+2021-12-26,European Union,Johnson&Johnson,4450
+2021-12-26,European Union,Moderna,960571
+2021-12-26,European Union,Novavax,0
+2021-12-26,European Union,Oxford/AstraZeneca,645
+2021-12-26,European Union,Pfizer/BioNTech,901887
+2021-12-26,European Union,Sanofi/GSK,0
+2021-12-26,European Union,Sinopharm/Beijing,0
+2021-12-26,European Union,Sinovac,0
+2021-12-26,European Union,Sputnik V,0
+2021-12-26,European Union,Valneva,0
+2021-12-27,European Union,Johnson&Johnson,5990
+2021-12-27,European Union,Moderna,1104409
+2021-12-27,European Union,Novavax,0
+2021-12-27,European Union,Oxford/AstraZeneca,748
+2021-12-27,European Union,Pfizer/BioNTech,1102018
+2021-12-27,European Union,Sanofi/GSK,0
+2021-12-27,European Union,Sinopharm/Beijing,0
+2021-12-27,European Union,Sinovac,0
+2021-12-27,European Union,Sputnik V,0
+2021-12-27,European Union,Valneva,0
+2021-12-28,European Union,Johnson&Johnson,5675
+2021-12-28,European Union,Moderna,1036011
+2021-12-28,European Union,Novavax,0
+2021-12-28,European Union,Oxford/AstraZeneca,848
+2021-12-28,European Union,Pfizer/BioNTech,1036275
+2021-12-28,European Union,Sanofi/GSK,0
+2021-12-28,European Union,Sinopharm/Beijing,0
+2021-12-28,European Union,Sinovac,3
+2021-12-28,European Union,Sputnik V,0
+2021-12-28,European Union,Valneva,0
+2021-12-29,European Union,Johnson&Johnson,5313
+2021-12-29,European Union,Moderna,856142
+2021-12-29,European Union,Novavax,0
+2021-12-29,European Union,Oxford/AstraZeneca,565
+2021-12-29,European Union,Pfizer/BioNTech,821197
+2021-12-29,European Union,Sanofi/GSK,0
+2021-12-29,European Union,Sinopharm/Beijing,0
+2021-12-29,European Union,Sinovac,0
+2021-12-29,European Union,Sputnik V,0
+2021-12-29,European Union,Valneva,0
+2021-12-30,European Union,Johnson&Johnson,40487
+2021-12-30,European Union,Moderna,3549823
+2021-12-30,European Union,Novavax,0
+2021-12-30,European Union,Oxford/AstraZeneca,946
+2021-12-30,European Union,Pfizer/BioNTech,3684864
+2021-12-30,European Union,Sanofi/GSK,0
+2021-12-30,European Union,Sinopharm/Beijing,6910
+2021-12-30,European Union,Sinovac,13
+2021-12-30,European Union,Sputnik V,0
+2021-12-30,European Union,Valneva,0
+2021-12-31,European Union,Johnson&Johnson,156
+2021-12-31,European Union,Moderna,68597
+2021-12-31,European Union,Novavax,0
+2021-12-31,European Union,Oxford/AstraZeneca,82
+2021-12-31,European Union,Pfizer/BioNTech,47257
+2021-12-31,European Union,Sanofi/GSK,0
+2021-12-31,European Union,Sinopharm/Beijing,0
+2021-12-31,European Union,Sinovac,0
+2021-12-31,European Union,Sputnik V,0
+2021-12-31,European Union,Valneva,0
