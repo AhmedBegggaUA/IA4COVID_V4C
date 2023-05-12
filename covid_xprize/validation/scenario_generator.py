@@ -37,7 +37,7 @@ NPI_COLUMNS = ["C1M_School closing",
             'H7_Vaccination policy']
 # From https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md
 MIN_NPIS = [0] * len(NPI_COLUMNS)
-# [NEW] MAX_NPIS
+# [NEW] MAX_NPIS
 MAX_NPIS =  [2, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 2]  # Sum is 40
 #MAX_NPIS = [3, 3, 2, 4, 2, 3, 2, 4, 2, 3, 2, 4, 5, 1]  # Sum is 40
 INCEPTION_DATE = pd.to_datetime("2020-01-01", format='%Y-%m-%d')
@@ -179,7 +179,7 @@ def generate_scenario(start_date_str, end_date_str, raw_df, countries=None, scen
                 # Move to next day
                 current_date = current_date + np.timedelta64(1, 'D')
             # Add the new rows
-            if new_rows:                
+            if new_rows:
                 new_rows_df = pd.DataFrame(new_rows, columns=ips_df.columns)
                 # Delete any old row that might have been replaced by a scenario one for this country / region
                 replaced_dates = list(new_rows_df["Date"].unique())
